@@ -1,0 +1,44 @@
+---
+date: '2017-05-31T10:00:00-03:00'
+slug: o-fim-do-codigo
+title: O fim do código
+---
+A indústria da tecnologia muda todos os dias e exige atualização. Seu framework favorito, a linguagem de programação que você domina, suas ferramentas — tudo pode ficar velho do dia para a noite.
+
+Por outro lado, a programação em si não teve mudanças drásticas nas últimas décadas. Nosso melhor código ainda tem ares de C, mas esse cenário pode estar com os dias contados.
+
+Com o aprendizado de máquina, programadores poderão deixar de ser criadores onipotentes para se tornarem algo como pais ou treinadores de cachorro. Será, no mínimo, interessante.
+
+* * *
+
+## [Logo não programaremos computadores. Nós os treinaremos como cachorros](https://www.wired.com/2016/05/the-end-of-code)
+
+Vivemos um “determinismo baseado em regras, um senso de que as coisas são produto de suas instruções fundamentais. O aprendizado de máquina sugere o contrário, uma visão de fora para dentro em que código não determina sozinho comportamento, mas comportamento também determina código”.
+
+## [O impacto que o GitHub está tendo na sua carreira agora mesmo](https://medium.com/@sitapati/the-impact-github-is-having-on-your-software-career-right-now-6ce536ec0b50)
+
+Esse post mostra como trabalhar em projetos de código aberto pode ser um grande diferencial de carreira. A ideia básica é criar uma “reputação portátil” e não depender somente das contribuições feitas aos repositórios privados da empresa para a qual você trabalha — temporariamente.
+
+## [Como ensinamos dezenas de refugiados a programar e então os ajudamos a conseguir vagas de desenvolvedor](https://medium.freecodecamp.com/how-we-taught-dozens-of-refugees-to-code-then-helped-them-get-developer-jobs-fd37036c13b0?gi=5e34f2781800)
+
+Conheça a belíssima história do [HackYourFuture](http://hackyourfuture.net/), um projeto nascido na Holanda que ensina programação a refugiados nos até 18 meses em que eles vivem em acampamentos provisórios esperando por asilo.
+
+## [O preço psicológico do empreendedorismo](https://jornaldoempreendedor.com.br/destaques/inspiracao/o-preco-psicologico-do-empreendedorismo/)
+
+É ótimo olhar para os unicórnios do Vale do Silício, mas não dá para ignorar o lado (infelizmente) mais provável da jornada empreendedora: “é hora de ser honesto sobre como isso pode ser brutal”.
+
+## [O mítico desenvolvedor full stack](https://dev.to/evgenyk/a-mythical-full-stack-developer)
+
+Artigo curtinho, direto ao ponto. Ser um desenvolvedor de “pilha cheia/completa” depende er… de que pilha, exatamente, estamos falando. O autor defende que evoluir na arte de descobrir rapidamente o que é necessário é mais importante do que se enquadrar nessa ou naquela caixinha.
+
+## [Diretrizes para construir softwares que farão pessoas lhe odiarem](https://hackernoon.com/guidelines-for-building-software-that-will-make-people-hate-you-23049d7209af?gi=b4c78ac0a367)
+
+Um prato cheio para quem gosta de ironia. TL;DR: “se você não construir coisas que as pessoas precisam e não ajudá-las, haverá ódio”.
+
+Você faz freelances? Já ficou sem receber por um trabalho? Hora de relembrar do velho e sempre ótimo [Pague Meu Freela](http://www.paguemeufreela.com.br/).  
+
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#6e0f0a0d2e02080c071a1a0b000d011b1c1a400d0103511d1b0c040b0d1a533d1b090b1d1a4b2d5d4b2f5d014b5c5e0a0b4b5c5e0f1c1a070901480f031e551b1a03310d0f031e0f070900532f024b2d5d4b2f57034b5c5e0a014b5c5e2d4b2d5d4b2c5d0a070901480f031e551b1a0331030b0a071b03530b030f0702480f031e551b1a03311d011b1c0d0b533c0b181b0b4b5c5e000b191d020b1a1a0b1c)
+
+Até a próxima semana! 🔮
+
+— LF

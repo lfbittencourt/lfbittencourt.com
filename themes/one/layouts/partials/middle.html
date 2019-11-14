@@ -1,0 +1,21 @@
+<div class="content">
+
+    <h2>Posts</h2>
+
+    {{ range where .Site.RegularPages "Type" "posts" }}
+        <p>
+            <aside>{{ .Date.Format "January 2, 2006"}}</aside>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} <span style="color:#FF4136;">(unpublished)</span>{{ end }}
+        </p>
+    {{ end }}
+
+    <h2>Além do Código</h2>
+
+    {{ range where .Site.RegularPages "Type" "alem-do-codigo" }}
+        <p>
+            <aside>{{ .Date.Format "January 2, 2006"}}</aside>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} <span style="color:#FF4136;">(unpublished)</span>{{ end }}
+        </p>
+    {{ end }}
+
+</div>
