@@ -1,0 +1,960 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LF Bittencourt</title>
+    <link>https://lfbittencourt.com/posts/</link>
+    <description>Recent content in Posts on LF Bittencourt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 27 Oct 2017 12:40:46 +0000</lastBuildDate>
+    
+        <atom:link href="https://lfbittencourt.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como é ser programador em uma agência digital</title>
+      <link>https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/</link>
+      <pubDate>Fri, 27 Oct 2017 12:40:46 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Esse post é a versão em prosa de uma conversa divertida que tive com os alunos do&lt;/em&gt; &lt;a href=&#34;https://eventos.osorio.ifrs.edu.br/dtec/&#34;&gt;&lt;em&gt;IFRS de Osório&lt;/em&gt;&lt;/a&gt; &lt;em&gt;no dia 26 de outubro de 2017. Spoiler: contém gatos.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Parece foto de banco de imagens, mas é o cantinho do café da DZ Estúdio&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32&#34;&gt;Aprendi a programar em 2004&lt;/a&gt;. Durante 9 desses 13 anos, trabalhei em duas agências digitais como desenvolvedor backend, analista de sistemas, head de desenvolvimento e, ultimamente, head de operações. A &lt;strong&gt;AG2&lt;/strong&gt; (hoje Sapient AG2) foi &lt;a href=&#34;https://www.baguete.com.br/noticias/internet/02/08/2010/e-oficial-publicis-compra-ag2&#34;&gt;comprada pelo segundo maior grupo de comunicação do mundo&lt;/a&gt; e a &lt;strong&gt;DZ Estúdio&lt;/strong&gt; &lt;a href=&#34;http://dzestudio.com.br/clientes/&#34;&gt;atende grandes marcas do Rio Grande do Sul&lt;/a&gt; como Grupo RBS, Nutrella, Paquetá, Sicredi e Yara.&lt;/p&gt;
+
+&lt;p&gt;Essas são minhas credenciais para mostrar um outro ponto de vista sobre um comentário recorrente que ouço tanto de antigos colegas programadores quanto, mais recentemente, de candidatos que entrevisto para vagas abertas: o de que agências digitais são ambientes insalubres e desorganizados, ou seja, uma escolha de carreira questionável.&lt;/p&gt;
+
+&lt;p&gt;Ao invés de dar respostas definitivas, quero garantir que você não desconsidere uma opção de carreira por desinformação. Para isso, quero pontuar com bom humor o que é verdade, o que é mito e o que são questões de escolha, isto é, decisões que dependem muito mais das preferências pessoais de cada profissional do que qualquer fator externo.&lt;/p&gt;
+
+&lt;h3 id=&#34;o-que-uma-agência-digital-faz&#34;&gt;O que uma agência digital faz&lt;/h3&gt;
+
+&lt;p&gt;Imagine o lançamento de um produto revolucionário: &lt;strong&gt;uma coleira que traduz os pensamentos dos gatos&lt;/strong&gt;. Se você já conviveu com um bichano e presenciou algum comportamento estranho, sabe que uma invenção dessa magnitude mereceria um lançamento apropriado, não é mesmo? Para isso, até alguns anos atrás, a marca inventora da coleira só precisaria contratar uma agência de publicidade clássica ou &lt;strong&gt;agência off&lt;/strong&gt;. Essas agências &lt;a href=&#34;https://www.wikiwand.com/en/Advertising_agency#/History&#34;&gt;existem desde o século XVIII&lt;/a&gt; e, grosso modo, cuidam de toda a publicidade de seus clientes que é veiculada &lt;strong&gt;fora da Internet.&lt;/strong&gt; No nosso lançamento fictício, ela poderia criar propagandas para a TV, jornal, spots no rádio etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eu ouvi “gatos”?&lt;/p&gt;
+
+&lt;p&gt;Acontece que estamos em 2017. Você consegue imaginar o lançamento de uma coleira que traduz os pensamentos dos gatos &lt;em&gt;fora da Internet&lt;/em&gt;? A Internet é o paraíso dos gatos! Por isso, precisaríamos também de alguém que conheça as dezenas de opções de comunicação online e saiba quais são as mais eficientes para atingir os objetivos da campanha, geralmente tornar o produto conhecido e vendê-lo. É aí que entra a &lt;strong&gt;agência digital&lt;/strong&gt; ou agência on.&lt;/p&gt;
+
+&lt;p&gt;Como as pessoas consomem cada vez mais pela Internet, as agências digitais estão tomando rapidamente o protagonismo das agências off. Boa parte das marcas já conta com uma agência on dedicada cuja função é cuidar da &lt;strong&gt;presença digital&lt;/strong&gt; do cliente, ou seja, tudo que ele tem online. Isso inclui sites, hotsites, blogs, contas em redes sociais, sistemas próprios, serviços contratados, plataformas e produtos, contas de mídia (Google AdWords, Facebook etc) e assim por diante.&lt;/p&gt;
+
+&lt;p&gt;Uma das maiores vantagens dessa migração para o digital é a medição de resultados com uma precisão impossível para mídias offline. Afinal de contas, nossa marca de coleiras nunca saberá quantas unidades vendeu graças aquele outdoor na Avenida Paulista.&lt;/p&gt;
+
+&lt;h3 id=&#34;verdade-programadores-de-agência-devem-ser-ágeis&#34;&gt;Verdade: programadores de agência devem ser ágeis&lt;/h3&gt;
+
+&lt;p&gt;Agora imagine que a marca decidiu que o lançamento da nossa coleira futurista acontecerá no intervalo do Fantástico. É um dos horários mais nobres da televisão, comprado a peso de ouro e com bastante antecedência. Como esse comercial certamente incluirá alguma URL para que os telespectadores saibam mais sobre nosso incrível lançamento, o mercado da publicidade acaba de ditar o deadline do projeto.&lt;/p&gt;
+
+&lt;p&gt;Aqui é preciso ser honesto: alguns projetos têm prazos apertados. Isso vale principalmente para campanhas que possuem alguma data preestabelecida como o nosso exemplo do Fantástico. Assim, saber gerir o próprio tempo e conduzir o trabalho com um olho no prazo são duas características importantes para se dar bem em uma agência digital.&lt;/p&gt;
+
+&lt;p&gt;A máxima de Mark Zuckerberg cai como uma luva: &lt;strong&gt;feito é melhor do que perfeito&lt;/strong&gt;. No nosso exemplo imaginário do lançamento da coleira tradutora, precisamos ter &lt;em&gt;alguma coisa&lt;/em&gt; publicada quando a propaganda for ao ar. Na prática, isso pode significar uma versão mais básica, porém completamente funcional, da ideia original. Nos dias seguintes, você pode incluir conteúdos adicionais, refinar as animações do frontend, refatorar trechos de código etc.&lt;/p&gt;
+
+&lt;p&gt;Quanto mais próximo o contato com a marca, no entanto, maior é a liberdade da agência digital para sugerir seus próprios projetos, com maior liberdade criativa e prazos mais factíveis. Desse modo, se você estiver considerando uma oportunidade de trabalho, tente descobrir como é a relação da agência com seus clientes — costuma ser um indicador bastante confiável.&lt;/p&gt;
+
+&lt;h3 id=&#34;questão-de-escolha-agências-não-fazem-produtos&#34;&gt;Questão de escolha: agências não fazem produtos&lt;/h3&gt;
+
+&lt;p&gt;Programadores de startup geralmente desenvolvem um único produto, afinal a empresa só existe &lt;em&gt;por causa&lt;/em&gt; daquele produto. Se você trabalha em uma fábrica de software, alocado ou não em um cliente, deve trabalhar meses a fio em um mesmo projeto, provavelmente um dos produtos daquele cliente.&lt;/p&gt;
+
+&lt;p&gt;Nesse ponto, há uma diferença fundamental: agências digitais não vivem de produtos e mais, &lt;strong&gt;não vivem em função de software&lt;/strong&gt;. Salvo raras exceções, o desenvolvimento de software em uma agência existe apenas para dar suporte a campanhas de… comunicação.&lt;/p&gt;
+
+&lt;p&gt;Isso não significa de forma alguma que o desenvolvimento seja visto como algo inferior ou meramente operacional, até porque o software em si é a principal estratégia de muitas campanhas. No entanto, isso faz com que o ciclo de vida dos projetos sejam bem mais curtos comparados a startups e fábricas de software. É o cenário perfeito para “programadores de tiro curto”, que gostam de trabalhar intensamente em projetos menores e ver resultados rápidos. Se você é do tipo maratonista, que gosta de projetos maiores, talvez agências não sejam uma boa ideia.&lt;/p&gt;
+
+&lt;h3 id=&#34;verdade-é-bom-saber-um-pouco-de-tudo&#34;&gt;Verdade: é bom saber um pouco de tudo&lt;/h3&gt;
+
+&lt;p&gt;Já que agências digitais não vivem de software, é natural que seus times de desenvolvimento sejam enxutos. Raramente há um núcleo dedicado de TI ou infraestrutura, por exemplo, o que tem no mínimo dois efeitos imediatos:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Muita gente acha que consertar a impressora é função dos programadores&lt;/li&gt;
+&lt;li&gt;Você se envolve em mais fases de um projeto do que faria em uma fábrica de software, por exemplo&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sabe quem faz a publicação dos projetos? Você. Ou seja, além de um conhecimento mínimo de administração de servidores, você precisa &lt;em&gt;se virar&lt;/em&gt; com várias formas de deploy, desde práticas mais modernas como integração contínua até o famigerado FTP.&lt;/p&gt;
+
+&lt;p&gt;Trabalhar em muitos projetos de muitos clientes diferentes leva inevitavelmente a vários ambientes de desenvolvimento, com sistemas operacionais, linguagens de programação, frameworks, bancos de dados, restrições de segurança (ou obsolescência) e acessos completamente diferentes. Dessa forma, é mais útil saber um pouquinho de cada coisa do que ser especialista em uma única combinação dessas variáveis. Tomando emprestada uma expressão divertida que vi em um currículo, é preciso ter &lt;strong&gt;um altíssimo nível de sivirômetro&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;mito-todas-as-agências-são-exploradoras&#34;&gt;Mito: todas as agências são exploradoras&lt;/h3&gt;
+
+&lt;p&gt;A carga de trabalho é um dos pontos mais polêmicos relacionado a agências, on e off. Sim, todos nós sabemos de empresas exploradoras que obrigam os times a virar noites trabalhando e pagam (somente) com pizza e refrigerante. Sempre que um conhecido está interessado em alguma oportunidade nesses lugares, inclusive, faço questão de compartilhar o que eu sei sobre aquele ambiente de trabalho e tento dissuadi-lo, deliberadamente.&lt;/p&gt;
+
+&lt;p&gt;O fato é que isso é um vício de &lt;em&gt;uma parte&lt;/em&gt; do mercado. Vício, aliás, que vem sendo questionado por um número cada vez maior de profissionais, uma nova geração que não glorifica cargas de trabalho excessivas e nada contra a glamorização do workaholic. Muitas dessas pessoas criaram empresas como a DZ em torno desses novos valores. Procure por agências que respeitam as pessoas e você ficará bem.&lt;/p&gt;
+
+&lt;h3 id=&#34;mito-criativos-não-sabem-nada-de-tecnologia&#34;&gt;Mito: criativos não sabem nada de tecnologia&lt;/h3&gt;
+
+&lt;p&gt;Em algumas empresas, há uma rixa infantil entre designers e programadores. É comum ouvir que os criativos não sabem nada de tecnologia e que os programadores estragam a experiência pensada pela criação. Bobagem, puro preconceito.&lt;/p&gt;
+
+&lt;p&gt;Em uma agência digital, a troca de experiências entre esses dois universos é positiva para todo mundo: programadores desenvolvem um bom senso estético e aprendem a ver o design como função e criativos ganham respaldo técnico para propor soluções inovadoras.&lt;/p&gt;
+
+&lt;p&gt;E como você verá, essa combinação de habilidades gera cases muito legais.&lt;/p&gt;
+
+&lt;h3 id=&#34;mito-projetos-de-agência-não-têm-graça&#34;&gt;Mito: projetos de agência não têm graça&lt;/h3&gt;
+
+&lt;p&gt;Uma das coisas mais legais de se trabalhar em uma agência digital são os projetos diferentes e inusitados baseados nessa mistura de criatividade e tecnologia. Abaixo estão três cases dos últimos 12 meses da DZ Estúdio, bons exemplos dos desafios cotidianos dos programadores de agência.&lt;/p&gt;
+
+&lt;h4 id=&#34;te-joga-sprite-e-rbs-tv&#34;&gt;Te Joga (Sprite e RBS TV)&lt;/h4&gt;
+
+&lt;p&gt;O próprio objeto da campanha já era inusitado: criar &lt;strong&gt;o maior toboágua de rua que Porto Alegre já viu&lt;/strong&gt;. O maior desafio desse projeto não era o site com o formulário de inscrições em si, mas sim como fazê-lo resistir ao grande número de acessos, motivado pelos ingressos grátis e limitados.&lt;/p&gt;
+
+&lt;p&gt;No fim das contas, optou-se por um site simples em PHP puro e MySQL publicado na Heroku, pois essa plataforma permitiria escalar recursos imediatamente caso fosse necessário. Na abertura das inscrições, o time fez um plantão na hora do almoço e os ingressos se esgotaram em apenas seis minutos. Foram mais de 4 mil acessos simultâneos e nenhum downtime.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/3.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vai dizer que não dá vontade de se jogar?&lt;/p&gt;
+
+&lt;h4 id=&#34;juntos-pelo-natal-sicredi&#34;&gt;Juntos Pelo Natal (Sicredi)&lt;/h4&gt;
+
+&lt;p&gt;Este projeto foi feito com Node.js, Express e Socket.IO.
+&amp;gt; Ao acessar o site da campanha, os visitantes eram convidados a sincronizar o celular com o computador (ou com outro celular) para ter uma experiência inesquecível.​ ​A partir daí, um vídeo iniciava simultaneamente​ ​nos dois dispositivos, revelando a verdade sobre o fábula natalina: o Papai Noel não faz nada sozinho. Na tela principal, o bom velhinho aparecia sorridente, abrindo as cartinhas, preparando os presentes e enviando para as crianças. Na segunda tela, descobríamos que tudo aquilo só ​era possível com a cooperação dos duendes.&amp;gt; Explorando o comportamento multitela, que é uma realidade no Brasil (90% dos usuários se conectam com 2 ou mais dispositivos), a ação Juntos Pelo Natal virou assunto. O interesse pela marca cresceu imediatamente​ e as buscas por Sicredi aumentaram 20% durante o período da campanha,​ em relação à média do ano.&amp;gt; — &lt;a href=&#34;http://dzestudio.com.br/cases/sicredi-natal/&#34;&gt;DZ Estúdio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/4.gif&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;chefbot-nutrella&#34;&gt;ChefBot (Nutrella)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lanchedecasanutrella.com.br/bot/&#34;&gt;ChefBot&lt;/a&gt; é um robozinho simpático que sugere receitas personalizadas de sanduíches, snacks e sobremesas baseado nas preferências que você expressa ao responder algumas perguntas iniciais. Não usamos nenhuma plataforma intermediária como a &lt;a href=&#34;https://www.gupshup.io&#34;&gt;Gupshup&lt;/a&gt;, então tivemos que aprender como programar um bot do zero, o que é sempre mais difícil quando envolve qualquer documentação do Facebook (entendedores entenderão).&lt;/p&gt;
+
+&lt;p&gt;Como participei diretamente do desenvolvimento, me sinto à vontade para dizer que a coisa mais legal desse projeto é o conteúdo, ou seja, o que o bot fala e principalmente &lt;em&gt;como&lt;/em&gt; ele fala. É um bom exemplo da interdisciplinaridade bacana das agências digitais e me fez valorizar ainda mais o trabalho dos colegas redatores.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dica de procrastinação:&lt;/strong&gt; o bot está recheado de easter eggs! &lt;a href=&#34;http://m.me/chefnutrella&#34;&gt;Converse com ele&lt;/a&gt; e experimente perguntar se no céu tem pão, por exemplo.&lt;/p&gt;
+
+&lt;h3 id=&#34;por-onde-começar&#34;&gt;Por onde começar&lt;/h3&gt;
+
+&lt;p&gt;Se você se identificou com o estilo de trabalho de uma agência digital e quer dar uma olhada nas oportunidades, acesse o site da &lt;a href=&#34;http://www.abradirs.com.br/&#34;&gt;Associação Brasileira dos Agentes Digitais (ABRADi)&lt;/a&gt; e conheça os associados. A maioria deles tem uma seção ou página no Facebook dedicada a divulgar vagas abertas.&lt;/p&gt;
+
+&lt;p&gt;Ao encontrar uma vaga interessante, consulte salários e veja as opiniões sobre a agência no &lt;a href=&#34;https://www.lovemondays.com.br/&#34;&gt;Love Mondays&lt;/a&gt;. Nada é melhor, porém, do que conversar com alguém que trabalha ou já trabalhou por lá. Busque um contato de primeiro ou segundo nível no LinkedIn, envie uma mensagem, se apresente e pergunte sobre a cultura praticada pela agência e principalmente como ela lida com os pontos que discutimos antes, como a proximidade da relação com os clientes.Uma agência digital tem tudo para ser um ótimo ambiente de trabalho. Basta fazer uma boa pesquisa e assegurar que seus valores combinam com a cultura da empresa — uma regra de ouro para qualquer opção de carreira.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Como eu aprendi a programar</title>
+      <link>https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/</link>
+      <pubDate>Sat, 20 May 2017 15:49:16 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Esse post é uma transcrição aproximada da minha palestra no&lt;/em&gt; &lt;a href=&#34;http://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-porto-alegre/&#34;&gt;&lt;em&gt;19º Encontro Locaweb Porto Alegre&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, que aconteceu no dia 18 de maio de 2017.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;13 anos depois, fazendo uma das apresentações do RSJS 2017&lt;/p&gt;
+
+&lt;p&gt;Cachoeira do Sul é uma pequena cidade no interior do Rio Grande do Sul. É onde nasceram &lt;a href=&#34;http://www.wikiwand.com/pt/Ad%C3%A3o_Iturrusgarai&#34;&gt;Adão Iturrusgarai&lt;/a&gt;, &lt;a href=&#34;http://www.wikiwand.com/pt/Alexandre_Garcia&#34;&gt;Alexandre Garcia&lt;/a&gt;, &lt;a href=&#34;http://www.wikiwand.com/pt/R%C3%A9gis_R%C3%B6sing&#34;&gt;Régis Rösing&lt;/a&gt; e a &lt;a href=&#34;http://www.wikiwand.com/pt/Rejane_Goulart&#34;&gt;Miss Brasil 1972 Rejane Goulart&lt;/a&gt;, mas não é particularmente conhecida por formar programadores. Em 2004, quando aprendi a programar, os destinos mais comuns para jovens de 17 anos eram ser cobrador de ônibus, empacotador de supermercado ou trabalhar em uma das indústrias da cidade.&lt;/p&gt;
+
+&lt;p&gt;Contra todas as probabilidades, sou cachoeirense e programador.&lt;/p&gt;
+
+&lt;p&gt;Por mais estranho que pareça, tudo começou com um concurso de monografias políticas em 2002. Um partido político (não convém nominá-lo) pagaria R$ 1500 ao estudante que escrevesse o melhor trabalho sobre o político cachoeirense João Neves da Fontoura, membro da Academia Brasileira de Letras que chegou a ser embaixador em Portugal e &lt;a href=&#34;https://www.wikiwand.com/pt/Jo%C3%A3o_Neves_da_Fontoura#/Elei.C3.A7.C3.A3o_presidencial_de_1945&#34;&gt;poderia ter sido presidente da república&lt;/a&gt;. Para um adolescente pobre do interior, aquele prêmio era uma fortuna.&lt;/p&gt;
+
+&lt;p&gt;Mergulhei na história de João Neves assim que minha inscrição foi aprovada. Conversei com historiadores e até com um sobrinho-neto que me emprestou livros raros. Caminhava até a biblioteca pública da cidade quase todos os dias, 11 quilômetros a pé para economizar os R$ 150 de ajuda de custo que recebemos durante três meses: era o pagamento da digitadora.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pura alegria ao ganhar o concurso&lt;/p&gt;
+
+&lt;p&gt;No fim das contas, meu esforço foi compensado: venci o concurso, fiz uma espécie de discurso na câmara de vereadores e levei o cheque para casa. Tinha certeza absoluta do que faria com ele assim que a segunda-feira chegasse: comprar um computador.&lt;/p&gt;
+
+&lt;p&gt;Foi nesse computador, um Celeron 400 de segunda mão, que descobri como funcionavam as páginas que eu acessava na Internet. Criava os arquivos HTML no Notepad e aprendia basicamente por tentativa e erro: alterava uma tag, via o que mudava na página e assim por diante.&lt;/p&gt;
+
+&lt;p&gt;Naturalmente, a primeira linguagem de programação que aprendi foi JavaScript. Na época, aliás, ela sequer era classificada como linguagem de programação: para as revistas e sites especializados, era uma “linguagem de scripting”. Classificações à parte, o fato é que esse foi meu primeiro contato com um universo incrível onde tudo (quase sempre) segue um padrão, tem lógica, é previsível.&lt;/p&gt;
+
+&lt;p&gt;Talvez eu não soubesse o nome, mas já sabia o que queria ser: programador.&lt;/p&gt;
+
+&lt;p&gt;O próximo passo foi o server-side. PHP, mais especificamente. Como o pulso único da internet discada durava apenas da meia-noite às 6:00 da manhã, baixei todo o manual da linguagem em formato Compiled Help File do Windows. Dessa forma, conseguia consultar a documentação de todas as funções durante o dia, o que não deve fazer nenhum sentido para qualquer um que tenha aprendido a programar em tempos de banda larga.&lt;/p&gt;
+
+&lt;p&gt;Depois veio um período de drogas mais pesadas: comecei a mexer com Flash e ActionScript e — pasmem — até a fazer layouts de gosto duvidoso no Fireworks. Foi graças a esse perfil “webtudinho”, porém, que fiz meus primeiros freelances para um time de futebol, uma emissora de rádio e um jeep club da cidade. Fazia registro do domínio, “design”, frontend, backend e publicação, tudo com muitas tabelas, contador de visitas e aviso de resolução recomendada. O preço? R$ 400 cada.&lt;/p&gt;
+
+&lt;p&gt;Em 2005, veio outro marco importante: consegui uma bolsa de estudos integral para cursar ciência da computação na ULBRA, em Canoas. Era uma ótima notícia que trazia uma preocupação de brinde, pois eu precisaria mudar de cidade e isso só seria possível se eu conseguisse um estágio ou emprego, o que aconteceu de uma forma bem inusitada para a época: uma entrevista por telefone. Como teste prático, combinamos que eu faria a codificação frontend de um projeto criado para uma grande marca de calçados. O resultado agradou os jovens donos da agência e assim consegui meu primeiro estágio em tecnologia antes mesmo do primeiro dia de aula.&lt;/p&gt;
+
+&lt;p&gt;Em 18 de fevereiro de 2006, encaixotei meu computador e umas poucas peças de roupa e me mudei para a região metropolitana de Porto Alegre. Estudaria e trabalharia com computação, sem Stack Overflow nem um décimo das ferramentas que existem hoje. O resto é história.&lt;/p&gt;
+
+&lt;h4 id=&#34;versão-estendida&#34;&gt;Versão estendida&lt;/h4&gt;
+
+&lt;p&gt;Sempre contei essa história com muito orgulho. Acho bonito como consegui me formar e trabalhar com o que amo a despeito das adversidades. Tem um quê de &lt;a href=&#34;https://www.wikiwand.com/pt/Monomito&#34;&gt;jornada do herói&lt;/a&gt; e outras pessoas podem até se identificar com algumas partes, mas aqui está a verdade: contada assim, essa história deixa de fora muitas pessoas e fatos importantes.&lt;/p&gt;
+
+&lt;p&gt;Para começar, meu interesse por computadores não surgiu do nada. Minha mãe financiou vários cursos de informática, coisas chamadas “ABC do Micro”, “Windows 98”, “Word 97”, “Internet” (sim, havia um curso que ensinava às pessoas como usar a Internet), “Page Maker”, “Access” e “Delphi”. Por mais que eu não lembre bulhufas de Access e Delphi, acabamos de descobrir um contato anterior com banco de dados e programação, certo? Um contato cuidadosamente cortado da primeira versão da história.&lt;/p&gt;
+
+&lt;p&gt;Computadores não eram objetos tão inatingíveis. Antes de comprar o Celeron 400, podia usar os &lt;em&gt;micros&lt;/em&gt; do pequeno laboratório de informática da escola ou da mesma biblioteca na qual eu pesquisava para a monografia. Eram ótimas oportunidades de descobrir como funcionava aquela máquina maravilhosa.&lt;/p&gt;
+
+&lt;p&gt;Falta mencionar ainda que consegui estágio em um dos dois jornais na cidade logo após o concurso de monografias. A bolsa em si era irrisória, mas o trabalho não me deixava completamente exausto e havia banda larga disponível o dia inteiro, ou seja, a história da conexão discada é um exagero romântico. Aproveitava todos os intervalos da minha rotina de repórter mirim para pesquisar sobre as coisas que estava aprendendo.&lt;/p&gt;
+
+&lt;p&gt;Foi um colega do jornal chamado Marcelo Faccin, aliás, quem me explicou o que é HTML e como aquele punhado de tags dá vida à web. Mais ou menos na mesma época, um colega de escola chamado Adão Maurício me deu uma cópia pirata do famigerado Dreamweaver e me ensinou a editar o código e usar o modo visual para ver as alterações. Aquilo explodiu minha cabeça!&lt;/p&gt;
+
+&lt;p&gt;A partir daí, devo praticamente tudo que aprendi ao &lt;a href=&#34;http://forum.wmonline.com.br/&#34;&gt;fórum do Webmasters Online&lt;/a&gt;. “Webmaster”, crianças, era o termo da época para full stack developers, e o WMO era o lugar certo para tirar e responder dúvidas de desenvolvimento, um precursor honrado do Stack Overflow.&lt;/p&gt;
+
+&lt;p&gt;Eu era um completo amador fazendo perguntas completamente amadoras, mas sempre havia alguém disposto a responder pacientemente todas essas dúvidas. Essas pessoas, muitas quase tão amadoras quanto eu, saíram do anonimato dos nicknames e tornaram-se nomes conhecidos e até mesmo colegas de trabalho especialíssimos, como a &lt;a href=&#34;https://medium.com/u/20589c3d5e05&#34;&gt;Maria&lt;/a&gt; e o Mozart Petter.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/3.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aprendendo um dos fundamentos básicos da programação no WMO&lt;/p&gt;
+
+&lt;p&gt;Os freelas só aconteceram graças ao estágio no jornal, um ótimo lugar para conhecer pessoas e fazer o bom e velho networking. Todos os trabalhos vieram de contatos que fiz por lá: o gerente financeiro do jornal também era executivo do clube de futebol, uma colega de trabalho era filha de um dos membros do jeep club e a emissora de rádio era uma empresa parceira.&lt;/p&gt;
+
+&lt;p&gt;Devo a bolsa de estudos — e só vejo desta forma hoje, com meus 30 e poucos anos — a alguns professores do ensino médio que sempre nos incentivaram a continuar estudando. Não importava se estávamos em uma escola pública: tínhamos que nos preparar para o ensino superior. Muita gente parou de estudar por ali mesmo, é verdade, mas alguns alunos compraram a ideia. Foi graças a esses professores que me formei.&lt;/p&gt;
+
+&lt;p&gt;Aliás, o próprio Prouni, o programa do governo que me deu a bolsa, foi uma oportunidade que as gerações anteriores de estudantes não tiveram. E mais: o programa ainda era pouco conhecido e menos concorrido. Além de pessoas e oportunidades, às vezes é preciso um pouquinho de sorte.&lt;/p&gt;
+
+&lt;p&gt;Por fim, lembra da entrevista por telefone? Foi indicação da mesma &lt;a href=&#34;https://medium.com/u/20589c3d5e05&#34;&gt;Maria&lt;/a&gt; que conheci através do WMO.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-mito-do-programador-autodidata&#34;&gt;O mito do programador autodidata&lt;/h4&gt;
+
+&lt;p&gt;Pula para 2017.&lt;/p&gt;
+
+&lt;p&gt;Acredito que estamos vivendo um período muito especial na história da computação. A revolução da inteligência artificial está apenas começando, mas já dá para vislumbrar um futuro em que teremos assistentes pessoais para quase tudo e os trabalhos puramente operacionais serão feitos por robôs. Dizem até que &lt;a href=&#34;https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/&#34;&gt;nós, programadores, seremos os próximos trabalhadores de colarinho azul&lt;/a&gt; — a primeira geração de operários cuja função será exclusivamente intelectual e criativa.&lt;/p&gt;
+
+&lt;p&gt;O efeito colateral dessa expansão meteórica da indústria é que não estamos formando novos programadores no ritmo necessário. Longe disso: só nos Estados Unidos, &lt;a href=&#34;https://www.washingtonpost.com/opinions/the-gender-gap-in-computer-science-is-hurting-us-businesses/2016/12/27/fa4f6680-c247-11e6-9578-0054287507db_story.html?linkId=33154571&#34;&gt;há meio milhão de vagas abertas e menos de 40 mil novos graduados para preenchê-las&lt;/a&gt;. Como essas posições são críticas para os negócios, a escassez vira um freio indesejado para a economia.&lt;/p&gt;
+
+&lt;p&gt;Tenho a impressão de que mesmo aqui no Brasil há mais oferta do que procura, um sinal claro de que precisamos, como indústria, de mais programadores, &lt;strong&gt;pessoas de todos os gêneros, idades e origens&lt;/strong&gt; — não só aquelas que se encaixam no estereótipo do sujeito com poucas habilidades sociais, introvertido e superinteligente. Só os nerds não bastam.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;pt&#34; dir=&#34;ltr&#34;&gt;Nós também acreditamos nisso! ❤️ &lt;a href=&#34;https://twitter.com/hashtag/19elw?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#19elw&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/EncontroLocaweb?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#EncontroLocaweb&lt;/a&gt; &lt;a href=&#34;https://t.co/3tye0riWrl&#34;&gt;pic.twitter.com/3tye0riWrl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Locaweb (@locaweb) &lt;a href=&#34;https://twitter.com/locaweb/status/865215159039660032?ref_src=twsrc%5Etfw&#34;&gt;May 18, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A solução de como atrair e acolher esses novos perfis passa inevitavelmente por nós, os mentores naturais da próxima geração de programadores. Estou recontando minha própria história de uma forma menos heroica e mais realista porque acredito que assim sou um modelo mais útil e acessível aos futuros profissionais. Minha esperança é a de que pessoas com histórias de vida parecidas com a minha percebam que podem contar com a mesma ajuda e ter até mais oportunidades do que eu tive.&lt;/p&gt;
+
+&lt;p&gt;Minha carreira sempre foi uma escada, não uma plataforma mágica. Houve pessoas dispostas a ajudar em cada degrau, e foi graças a essas pessoas que consegui aproveitar as oportunidades que apareceram. Por isso, não faz o menor sentido me intitular “autodidata”, porque autodidata é quem aprende sozinho, sem professores ou mentores, e eu sempre tive muitos professores e mentores. Não é só um preciosismo linguístico, mas uma forma de reconhecer esse suporte social e mostrar que a computação pode ser receptiva e amigável.&lt;/p&gt;
+
+&lt;p&gt;Os programadores de amanhã são como crianças com ouvido absoluto ou uma habilidade natural para os esportes: precisam apenas de incentivo e oportunidades para se desenvolver. Sem isso, nem os talentos mais raros conseguem ir em frente. Pessoalmente, quero que cada vez mais pessoas conheçam esse mundo fascinante pelo qual somos todos apaixonados, onde criamos coisas incríveis e inventamos o futuro.&lt;/p&gt;
+
+&lt;p&gt;E que nesse futuro eu possa escrever um novo artigo, contando que Cachoeira do Sul já não exporta apenas jornalistas, cartunistas e misses, mas também programadores e programadoras.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Esse post foi inspirado pelo ótimo&lt;/em&gt; &lt;a href=&#34;http://www.felienne.com/archives/4932&#34;&gt;&lt;em&gt;I am going to stop saying I taught myself programming when I was 10 and maybe you should too&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, de Felienne Hermans.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uma newsletter para programadores que não contém programação</title>
+      <link>https://lfbittencourt.com/uma-newsletter-para-programadores-que-n%C3%A3o-cont%C3%A9m-programa%C3%A7%C3%A3o-b17c48e97eab/</link>
+      <pubDate>Mon, 26 Dec 2016 12:01:55 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/uma-newsletter-para-programadores-que-n%C3%A3o-cont%C3%A9m-programa%C3%A7%C3%A3o-b17c48e97eab/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Ou “Por que criei uma newsletter semanal sobre diversidade, ética e tudo mais, menos desenvolvimento de software”.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/uma-newsletter-para-programadores-que-não-contém-programação-b17c48e97eab/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Foto de Tim Marshall&lt;/p&gt;
+
+&lt;p&gt;Em setembro de 2016, dei uma vida nova a meu velho domínio e comecei a escrever um blog. Na época, estava relendo &lt;a href=&#34;https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c&#34;&gt;Being a Developer After 40&lt;/a&gt; e percebi que o autor Adrian Kosmaczewski tinha adicionado um prólogo agradecendo a repercussão do artigo e colocando links para todas as versões traduzidas do post. Como não havia tradução para o português, decidi que essa era &lt;a href=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445&#34;&gt;uma ótima forma de começar um blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;De lá para cá, escrevi um artigo sobre &lt;a href=&#34;https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26&#34;&gt;a primeira linguagem que todo programador deve aprender&lt;/a&gt;, contei &lt;a href=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6&#34;&gt;a história das programadoras do ENIAC&lt;/a&gt; e até dei dicas de &lt;a href=&#34;https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e&#34;&gt;como se comunicar com clareza&lt;/a&gt; usando conceitos de marketing digital. O que une todos esses artigos é a relação direta com o desenvolvimento de software, mas passando longe de trechos de código ou tutoriais sobre a tecnologia do momento.&lt;/p&gt;
+
+&lt;p&gt;Essa linha editorial não foi um acaso. Sempre acreditei que bons desenvolvedores de software são aqueles que fazem muito mais do que apenas programar bem. Afinal de contas, há uma infinidade de coisas além do código que precisam da nossa atenção se realmente queremos melhorar essa indústria de paradoxos, onde empresas de ponta humilham seus colaboradores e mulheres são marginalizadas.&lt;/p&gt;
+
+&lt;p&gt;Por isso, resolvi criar a &lt;a href=&#34;http://alemdocodigo.com.br&#34;&gt;Além do Código&lt;/a&gt;, uma newsletter semanal com links e comentários sobre os melhores artigos que eu encontrar sobre diversidade, ética, privacidade e outros assuntos não-técnicos ligados à tecnologia. Entre várias ótimas newsletters de tecnologia com enfoque mais técnico, espero que seja um lembrete de que podemos — e devemos — fazer mais.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Como se comunicar com clareza</title>
+      <link>https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/</link>
+      <pubDate>Mon, 07 Nov 2016 00:02:04 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/</guid>
+      <description>
+
+&lt;p&gt;Há uma brincadeira bastante popular entre programadores: dizer que uma das melhores coisas da computação é não precisar conversar com ninguém. Pode ser divertido, mas certamente não é verdade: assim como qualquer outro profissional, programadores precisam se comunicar o tempo todo.&lt;/p&gt;
+
+&lt;p&gt;Pense, por exemplo, na linha do tempo de qualquer emprego. Você se comunica desde quando escreve seu perfil no LinkedIn e faz a primeira entrevista até quando dá bom dia aos colegas ou documenta um projeto. Goste você ou não, &lt;strong&gt;comunicação é fundamental&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fundamental e irônica, pois você pode se comunicar perfeitamente sem dizer ou escrever nada (pense em emojis, libras e turistas se comunicando por gestos) e falar ou escrever até cansar e, ainda assim, não ser compreendido. Ou pior: ser &lt;em&gt;mal&lt;/em&gt; interpretado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ao contrário do que muita gente pensa, se comunicar com clareza não é falar bastante, mas sim dizer as coisas certas, de forma simples e compreensível. Esse detalhe deixa as coisas mais justas entre pessoas mais introspectivas e colegas mais comunicativos: pelo menos nesse sentido, todos têm as mesmas chances no mercado de trabalho.&lt;/p&gt;
+
+&lt;p&gt;O que não significa que seja uma tarefa fácil — graças ao nosso cérebro.&lt;/p&gt;
+
+&lt;h4 id=&#34;como-funciona-nossa-atenção&#34;&gt;Como funciona nossa atenção&lt;/h4&gt;
+
+&lt;p&gt;Quando falamos ou escrevemos, nossa tendência natural é acreditar que quem está nos ouvindo ou lendo prestará atenção em todas as palavras, nos mínimos detalhes de cada frase. Na prática, porém, não é bem isso que acontece. Nosso cérebro evoluiu para usar todo e qualquer atalho para poupar energia e faz isso até nas coisas mais simples, como prestar atenção ao que você diz ou escreve.&lt;/p&gt;
+
+&lt;p&gt;Resumidamente, nossa massa cinzenta vive tentando &lt;em&gt;adivinhar&lt;/em&gt; as informações focando nas partes mais importantes e chutando o resto. Sabe quando você “lê” uma notícia apenas rolando a página e passando os olhos pelos subtítulos? É seu cérebro preguiçoso em ação.&lt;/p&gt;
+
+&lt;p&gt;O efeito colateral disso é que não temos paciência para pessoas prolixas. Explicações mais longas que o necessário soam como desculpas (mesmo quando não são), divagações nos fazem “perder o fio da meada” e &lt;a href=&#34;https://www.goodreads.com/list/show/497.The_Most_Begun_Read_but_Unfinished_Initiated_book_ever&#34;&gt;livros densos como Cem Anos de Solidão são campeões de desistência&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por isso, um grande truque para se comunicar com clareza é garantir que o cérebro seja bem alimentado com pistas sobre o que é importante. E a melhor forma de aprender a fazer isso é prestar atenção em &lt;strong&gt;landing pages&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;anatomia-de-uma-landing-page&#34;&gt;Anatomia de uma landing page&lt;/h4&gt;
+
+&lt;p&gt;Landing pages são páginas web simples extremamente focadas em algum tipo de conversão. Por conversão, entenda qualquer coisa que você deseje que o visitante da sua landing page faça, como baixar um app, preencher um cadastro em troca de um ebook ou deixar um depoimento.&lt;/p&gt;
+
+&lt;p&gt;Comecei a ler mais sobre landing pages no início de 2016, quando minha sócia e eu redefinimos nossas funções na &lt;a href=&#34;http://www.gongo.com.br/&#34;&gt;Gongo&lt;/a&gt; e passei a cuidar também do nosso marketing digital. Como não tenho nenhuma formação na área, li muito sobre o assunto e descobri uma coisa interessante: landing pages são estruturadas cuidadosamente &lt;strong&gt;para prender a atenção&lt;/strong&gt; dos visitantes.&lt;/p&gt;
+
+&lt;p&gt;Por isso, preste atenção nos conceitos abaixo. Mais adiante, eles vão fazer sentido e você verá porque landing pages são ótimos exemplos de como se comunicar com clareza.Cada elemento de uma landing page é pensado para “converter” o maior número possível de visitantes. O design extremamente funcional e o texto trabalhado minuciosamente seguem uma lógica progressiva pensada especialmente para o nosso cérebro preguiçoso: cada pedaço do conteúdo acrescenta um detalhe interessante para manter o visitante na página.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/images/2.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Landing page do Gongo com headline, subheadline, texto com benefícios e CTA&lt;/p&gt;
+
+&lt;p&gt;Tudo começa com uma &lt;strong&gt;headline&lt;/strong&gt; matadora, ou seja, uma frase de poucas palavras que sintetiza o valor do que você está oferecendo. A headline é o primeiro item visto pelo visitante e deve ser suficiente para que ele entenda completamente o produto ou serviço. Sabe por quê? Porque em boa parte das vezes, é só isso mesmo que ele verá.&lt;/p&gt;
+
+&lt;p&gt;Se a headline chamar a atenção, é hora de despertar interesse. Essa é a função da &lt;strong&gt;subheadline&lt;/strong&gt;, um texto de apoio que detalha um pouco mais o produto ou serviço. Pelas razões que você já sabe, a subheadline também é curta, pensada para ser mais persuasiva do que falastrona.&lt;/p&gt;
+
+&lt;p&gt;Se tudo der certo e você conseguir chamar a atenção do visitante, ele topa ler um pouco mais e você tem alguns segundos extras de atenção para vender seu peixe. Nesse &lt;strong&gt;texto com os benefícios&lt;/strong&gt; também não há espaço para enrolação. As frases e parágrafos são curtos e objetivos.&lt;/p&gt;
+
+&lt;p&gt;Por fim, temos também uma &lt;strong&gt;call to action ou CTA&lt;/strong&gt;. Essa “chamada para a ação” é o elemento mais importante da landing page, pois é onde o visitante finalmente faz o que você quer que ele faça, ou seja, converte. Se a landing foi feita para ele baixar um app, por exemplo, o CTA é o botão de download.&lt;/p&gt;
+
+&lt;p&gt;Pronto. Agora que você já sabe criar ótimas landing pages, vamos ver como usar as mesmas ideias para se comunicar com clareza.&lt;/p&gt;
+
+&lt;h4 id=&#34;antes-de-mais-nada-diga-o-que-você-quer-dizer&#34;&gt;Antes de mais nada, diga o que você quer dizer&lt;/h4&gt;
+
+&lt;p&gt;Se você quiser guardar apenas uma coisa desse artigo, guarde isto: &lt;strong&gt;a forma mais clara de se comunicar é simplesmente dizer o que você quer dizer&lt;/strong&gt;, sem rodeios. É por isso que toda landing page começa com uma headline escancarada, para garantir que até o visitante mais distraído entenda a mensagem que ela quer passar.&lt;/p&gt;
+
+&lt;p&gt;Isso é especialmente difícil para nós, brasileiros, principalmente quando precisamos dizer “não”. Antes de negar, nós justificamos, pedimos desculpas, damos voltas e mais voltas. Se você já trabalhou com americanos (&lt;a href=&#34;https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26&#34;&gt;neste artigo&lt;/a&gt; eu digo porque isso é uma ótima ideia, caso você não tenha trabalhado), sabe melhor do que ninguém que eles não têm nenhuma dificuldade com isso. Pode parecer grosseria, mas eles apenas vão direto ao ponto.&lt;/p&gt;
+
+&lt;p&gt;Um exemplo fácil e um bom ponto para praticar são perguntas que podem, ou melhor, &lt;em&gt;devem&lt;/em&gt; ser respondidas com “sim” ou “não”. Por exemplo:
+&amp;gt; Você conseguiu acabar o trabalho?&lt;/p&gt;
+
+&lt;p&gt;Você pode fazer uma dúzia de considerações, mencionar todos os colegas que ajudaram (ou não) a concluir a tarefa ou até mesmo reclamar que o computador lento diminuiu sua produtividade, mas &lt;strong&gt;faça isso depois de dizer “sim” ou “não”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Encare essa resposta objetiva como uma demonstração de respeito ao tempo do seu interlocutor e não tenha medo de parecer ríspido, pois você pode complementar sua resposta depois usando a mesma lógica progressiva das landing pages.&lt;/p&gt;
+
+&lt;p&gt;O “sim” ou “não” é a sua headline. Quem fez a pergunta já tem a resposta que queria e pode encerrar a conversa sem nenhum problema depois dessa única palavra. Se ele ou ela demonstrar interesse e quiser saber mais, escolha sua consideração mais importante e faça dela sua subheadline. E assim por diante, tomando o cuidando de ser suscinto e priorizando o essencial a ser dito.&lt;/p&gt;
+
+&lt;h4 id=&#34;clareza-simplicidade&#34;&gt;Clareza = simplicidade&lt;/h4&gt;
+
+&lt;p&gt;Ao falar e escrever, preze pela simplicidade. Você verá que simplificar as coisas é surpreendentemente difícil, mas aqui vão algumas dicas práticas que vão ajudar a deixar as coisas mais simples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Não deixe nada subentendido. Pessoas diferentes podem entender a mesma coisa de formas diferentes, principalmente se essa coisa não estiver suficientemente clara, então seja explícito.&lt;/li&gt;
+&lt;li&gt;Evite regionalismos e gírias.&lt;/li&gt;
+&lt;li&gt;Não use termos técnicos desnecessários. Tente substituí-los por palavras mais simples, mesmo que elas não representem exatamente a mesma coisa que o termo original. É melhor garantir uma comunicação clara do que se prender a preciosismos técnicos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se estiver escrevendo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Escreva do jeito que você fala, naturalmente. Um bom teste para saber se você está no caminho certo é ler tudo em voz alta e perguntar a si mesmo se você falaria dessa forma, com essas mesmas palavras, com a sua tia, por exemplo. Se a resposta for não, delete e comece de novo.&lt;/li&gt;
+&lt;li&gt;Seja breve: use palavras, frases e parágrafos curtos.&lt;/li&gt;
+&lt;li&gt;Use tópicos para facilitar a leitura de itens que você queira destacar (o perfil do público-alvo do site, as opções de tecnologias para o próximo projeto, os prós e contras do novo banco de horas e assim por diante).&lt;/li&gt;
+&lt;li&gt;Use negrito ou cores diferentes em trechos importantes que não podem passar despercebidos.&lt;/li&gt;
+&lt;li&gt;Cole endereços de links na próxima linha ao invés de escondê-los no meio do texto. Dessa forma, fica mais fácil encontrá-los e clicá-los.&lt;/li&gt;
+&lt;li&gt;Deixe espaço entre os parágrafos para deixá-los mais legíveis e para não assustar ninguém com blocos gigantes de texto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;E como diria George Orwell, um dos meus autores preferidos, quebre qualquer uma dessas regras antes de escrever alguma barbaridade.&lt;/p&gt;
+
+&lt;h4 id=&#34;deixe-claro-o-que-você-quer&#34;&gt;Deixe claro o que você quer&lt;/h4&gt;
+
+&lt;p&gt;Assim como nas landing pages, o call to action é uma parte muito importante da comunicação quando você quer que a outra pessoa faça alguma coisa. Você precisa deixar isso extremamente claro, pois todo o esforço de comunicação irá por água abaixo se ele ou ela não der esse próximo passo.&lt;/p&gt;
+
+&lt;p&gt;Os CTAs do cotidiano são mais sutis que os botões das landing pages e por isso são um pouco mais difíceis de notar. Como exemplo, imagine que você precise receber um relatório até o fim do dia. Nesse caso, a ação desejada é exatamente essa, que alguém envie o relatório até o fim do dia. Já a &lt;em&gt;chamada&lt;/em&gt; para a ação é como você deixará isso o mais claro possível para essa pessoa.&lt;/p&gt;
+
+&lt;p&gt;Aqui, a regra de ouro também vem das landing pages: &lt;strong&gt;foque em uma única ação&lt;/strong&gt;. Como você viu, nossa atenção segue suas próprias regras e, sendo honesto, fazer com que alguém faça uma única coisa já é uma tarefa suficientemente complicada. Várias ações? Esqueça.&lt;/p&gt;
+
+&lt;p&gt;Por isso, evite enviar aqueles emails pedindo mil coisas. Se pedir tudo isso for realmente necessário, priorize a coisa mais importante e a peça primeiro. Se a comunicação fluir, você terá oportunidade de pedir as outras na sequência. Não se afobe: se você insistir em pedir tudo de uma vez, as chances de você ser atendido vão cair drasticamente.&lt;/p&gt;
+
+&lt;p&gt;Por fim, lembre-se que seu CTA é como um botão em uma landing page. Ele é a parte mais importante da comunicação e precisa ser visto e entendido. Deixe claro o que você quer que a outra pessoa faça e evite fazer suposições sobre o que ela sabe ou não. Na dúvida, é sempre melhor pecar pelo excesso.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusão&#34;&gt;Conclusão&lt;/h4&gt;
+
+&lt;p&gt;Se comunicar com clareza é difícil e depende de uma séries de fatores, como resumiu de forma irretocável o escritor francês Bernard Werber:
+&amp;gt; Entre o que eu penso, o que eu quero dizer, o que eu acredito que eu digo, o que eu digo, o que você quer ouvir, o que você acredita ouvir, o que você ouve, o que você quer entender, o que você acha que entende, o que você entende… São dez possibilidades de termos algum problema de comunicação. Mas vamos tentar mesmo assim…&lt;/p&gt;
+
+&lt;p&gt;Porém, com alguma dedicação, todo mundo pode se comunicar de forma mais clara e simples. Ser mais articulado fará você expressar suas ideias com mais facilidade e ser entendido, uma belíssima habilidade para sua carreira e quaisquer outros relacionamentos interpessoais.&lt;/p&gt;
+
+&lt;p&gt;Como disse Werber, não custa tentar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>As programadoras do ENIAC apagadas da história da computação</title>
+      <link>https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/</link>
+      <pubDate>Sun, 16 Oct 2016 17:04:31 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/</guid>
+      <description>
+
+&lt;p&gt;No meio dos anos 80, uma estudante de ciência da computação de Harvard estava se sentindo isolada. À medida que o curso avançava, havia cada vez menos colegas mulheres, um sinal preocupante para seu futuro profissional. Desmotivada, Kathy Kleiman decidiu buscar modelos inspiradores, mulheres que tivessem tido papéis importantes na evolução da computação.&lt;/p&gt;
+
+&lt;p&gt;Em sua pesquisa, Kathy encontrou uma foto famosa do ENIAC, o primeiro computador totalmente eletrônico de uso geral. Publicada nos principais jornais dos Estados Unidos na época de seu lançamento em 1946, a imagem mostrava quatro homens e duas mulheres operando o computador, mas o que realmente chamou a atenção de Kathy foi um detalhe incômodo: apenas os homens da foto estavam identificados na legenda.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A foto que chamou a atenção de Kathy Kleiman (&lt;a href=&#34;http://hdl.library.upenn.edu/1017/d/archives/20020717006&#34;&gt;University of Pennsylvania&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Kathy mostrou a foto a muitas pessoas, mas nem mesmo historiadores da computação sabiam quem eram aquelas mulheres. O mais provável, lhe disseram, era que as mulheres fossem “refrigerator ladies”, ou seja, modelos que posavam junto de eletrodomésticos para torná-los mais atrativos, um truque de marketing bastante comum na época da foto.&lt;/p&gt;
+
+&lt;p&gt;Mas esse palpite estava terrivelmente errado.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-nascimento-do-primeiro-computador&#34;&gt;O nascimento do primeiro computador&lt;/h4&gt;
+
+&lt;p&gt;No final da Segunda Guerra Mundial, o exército dos Estados Unidos tinha uma missão insólita longe dos campos de batalha: calcular a trajetória de mísseis desde o momento em que saíam dos canhões até atingirem seus alvos. E no auge da guerra, com um poder de fogo cada vez maior, esses cálculos eram cada vez mais necessários.&lt;/p&gt;
+
+&lt;p&gt;Por isso, o exército começou a recrutar pessoas formadas em matemática de todo o país para realizar as complexas equações diferenciais que traçavam a rota dos mísseis. E com a maioria dos homens lutando ou trabalhando em outras funções de guerra, essas pessoas eram todas mulheres. Seu título oficial era &lt;em&gt;computer&lt;/em&gt;, “computadora”.&lt;/p&gt;
+
+&lt;p&gt;Em alguns meses, havia uma centena de computadoras preenchendo tabelas balísticas manualmente, resolvendo folhas e mais folhas de equações contando apenas com a ajuda de calculadoras de mesa. Só tinha um problema: cada cálculo levava &lt;strong&gt;30 horas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Logo, ficou claro que contratar mais matemáticas não seria suficiente para suprir toda a demanda de cálculos que a guerra estava produzindo. Foi então que o exército resolveu bancar um experimento altamente arriscado: uma máquina que pudesse realizar as equações em uma fração do tempo que as computadoras levavam. Assim nascia o Electronic Numerical Integrator and Computer, mais conhecido por sua sigla, ENIAC.&lt;/p&gt;
+
+&lt;p&gt;O projeto foi tocado como segredo de guerra e liderado pelos engenheiros John Presper Eckert e John W. Mauchly. Na primavera de 1945, pouco tempo antes do ENIAC ficar pronto, seis computadoras foram escolhidas para o que era considerado um trabalho inferior comparado ao prodígio de engenharia que Eckert e Mauchly haviam criado: descobrir como a máquina funcionava e como ela deveria ser programada para executar os cálculos balísticos. As matemáticas selecionadas foram &lt;strong&gt;Frances Bilas&lt;/strong&gt;, &lt;strong&gt;Jean Jennings&lt;/strong&gt;, &lt;strong&gt;Ruth Lichterman&lt;/strong&gt;, &lt;strong&gt;Kathleen McNulty&lt;/strong&gt;, &lt;strong&gt;Betty Snyder&lt;/strong&gt; e &lt;strong&gt;Marlyn Wescoff&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;programando-um-monstro&#34;&gt;Programando um monstro&lt;/h4&gt;
+
+&lt;p&gt;O ENIAC era um monstro de 18.000 válvulas e um emaranhado de cabos e interruptores que ocupava um andar inteiro da Universidade da Pensilvânia. Tudo que as seis mulheres receberam para descobrir como programá-lo foram os diagramas lógicos dos 40 painéis que compunham o computador.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Betty Snider (&lt;a href=&#34;http://ftp.arl.mil/ftp/historic-computers/&#34;&gt;U.S. Army&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Não havia livros, sistema operacional, linguagem de programação ou ferramentas para ajudá-las. Programar o primeiro computador da história significava escrever toda a lógica no papel, reproduzí-la fisicamente com extrema precisão plugando e desplugando cabos e alternando interruptores e documentá-la nos mínimos detalhes para que pudesse ser reutilizada no futuro. Configurar um único programa levava várias semanas.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Havia diagramas lógicos do ENIAC e nós supostamente tínhamos que estudá-los e descobrir como programá-lo. O ENIAC era uma merda de programar!
+— Jean Jennings em &lt;a href=&#34;https://vimeo.com/ondemand/eniac6&#34;&gt;The Computers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Depois de algum tempo, as programadoras se familiarizaram com o ENIAC. Como ele era basicamente uma calculadora gigante, elas perceberam que a melhor forma de usá-lo para determinar a trajetória dos mísseis era quebrar o cálculo em partes menores que podiam ser executadas uma de cada vez. Cada módulo calculava sua parte da equação, passava esse resultado parcial para o próximo módulo e assim por diante até o resultado final ser impresso.&lt;/p&gt;
+
+&lt;p&gt;E como todo programador, as mulheres do ENIAC também corrigiam bugs. E por corrigir bug, em uma máquina que ocupava 270 m², entenda literalmente entrar de cabeça em um mar de cabos e interruptores para encontrar qual das 18.000 válvulas queimou ou qual das milhões de soldas estava com algum problema. Era algo tão comum que elas desenvolveram métodos para descobrir rapidamente qual componente estava danificado.&lt;/p&gt;
+
+&lt;p&gt;Depois de alguns meses, o trabalho foi recompensado: os cálculos balísticos que levavam 30 horas passaram a ser resolvidos em 15 segundos pelo ENIAC.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-começo-do-esquecimento&#34;&gt;O começo do esquecimento&lt;/h4&gt;
+
+&lt;p&gt;Um dia, Jean Jennings e Betty Snyder foram chamadas por Herman Goldstine, responsável pela comunicação entre o exército e o time do ENIAC. O projeto seria lançado oficialmente em duas semanas em uma cerimônia luxuosa e ele queria saber se as mulheres eram capazes de programar um cálculo balístico a tempo de ser demonstrado ao vivo no lançamento. Elas aceitaram o desafio e começaram a trabalhar dia e noite na tarefa.&lt;/p&gt;
+
+&lt;p&gt;Na véspera do lançamento, em pleno dia dos namorados, ainda havia um detalhe que as duas não conseguiam resolver: o ENIAC estava calculando a trajetória do projétil indefinidamente, ou seja, continuava a projeção mesmo depois que o projétil já havia atingido o chão. Era um bug embaraçoso que arruinaria a festa de lançamento — um míssil que continua sua trajetória dentro da terra era uma imagem tragicômica que colocaria em cheque a capacidade do ENIAC.&lt;/p&gt;
+
+&lt;p&gt;À meia-noite, elas desistiram e pegaram o último trem para suas casas, mas Betty não conseguiu dormir. Repassando mentalmente a trama de cabos e interruptores, descobriu onde estava o problema. No dia seguinte, tomou o primeiro trem, ajustou o cabo defeituoso e rodou o programa. O computador calculou a trajetória perfeitamente e o ENIAC estava pronto para ser apresentado ao mundo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/3.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jean Jennings e Frances Bilas (&lt;a href=&#34;http://hdl.library.upenn.edu/1017/d/archives/20020717006&#34;&gt;University of Pennsylvania&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Além de cientistas, Eckert e Mauchly eram ótimos vendedores. Eles sabiam que uma calculadora gigante executando uma equação diferencial durante alguns poucos segundos não era exatamente empolgante, então cortaram bolinhas de pingue-pongue, as numeraram e as colocaram sobre as válvulas. Com a luzes apagadas, as bolinhas se iluminariam quando as válvulas fossem ligadas e os jornalistas poderiam literalmente acompanhar o cálculo enquanto ele acontecia.&lt;/p&gt;
+
+&lt;p&gt;O cálculo perfeito, a apresentação digna de filmes de ficção científica e o discurso futurista dos engenheiros garantiram o sucesso da festa de lançamento. Mauchly chegou a dizer à imprensa que, no futuro, máquinas como o ENIAC baixariam o preço do pão. Os jornalistas ficaram radiantes com a novidade, o ENIAC virou uma lenda e Eckert e Mauchly gravaram seus nomes permanentemente na história da computação.&lt;/p&gt;
+
+&lt;p&gt;Nenhuma das seis programadoras do ENIAC foi convidada para a festa.&lt;/p&gt;
+
+&lt;h4 id=&#34;legado&#34;&gt;Legado&lt;/h4&gt;
+
+&lt;p&gt;Quando a Segunda Guerra Mundial terminou, as mulheres que estavam ocupando postos de trabalho normalmente destinados aos homens foram aconselhadas a voltar a suas casas e deixar as vagas abertas aos homens que estavam voltando da guerra. As programadoras do ENIAC jamais ouviram essa sugestão, pois eram formadas em uma época em que a maioria dos homens sequer ia à faculdade e o exército sabia que eram fundamentais para levar o projeto além dos cálculos balísticos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Nós éramos como pilotos de caça. Quero dizer, aqui está essa grande, grande máquina, mas você não pode pegar qualquer piloto de avião, colocá-lo em um caça e dizer “vai lá, cara”. Não podia ser desse jeito.
+— Kathleen McNulty em &lt;a href=&#34;https://vimeo.com/ondemand/eniac6&#34;&gt;The Computers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O ENIAC funcionou durante 10 anos e Frances, Jean, Ruth, Kathleen, Betty e Marlyn tornaram-se as primeiras programadoras profissionais, as primeiras professoras da programação moderna e as inventoras de ferramentas que abriram caminho para o software como conhecemos hoje.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/4.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ruth Lichterman e Marlyn Wescoff (&lt;a href=&#34;http://ftp.arl.mil/ftp/historic-computers/&#34;&gt;U.S. Army&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Frances Bilas&lt;/strong&gt; (depois Spence, 1922–2013) continuou programando equações com o ENIAC após a guerra e colaborou com os principais matemáticos do mundo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jean Jennings&lt;/strong&gt; (depois Bartik, 1924–2011) trabalhou no time que transformou o ENIAC em uma máquina de programa armazenado, tornando mais rápido e fácil programar problemas mais complexos. Participou também dos projetos dos dois primeiros computadores comerciais, programando o BINAC e criando a lógica e um sistema de backup de memória eletrostática para o UNIVAC I. Mais tarde, criou relatórios para ajudar negócios a entenderem o potencial dos microcomputadores.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ruth Lichterman&lt;/strong&gt; (depois Teitelbaum, 1924–1986) foi realocada juntamente com o ENIAC para Aberdeen, Maryland, para ser a professora da próxima geração de programadores do projeto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kathleen McNulty&lt;/strong&gt; (depois Mauchly Antonelli, 1921–2006) foi quem teve a ideia de criar subrotinas para conseguir calcular trajetórias que extrapolavam os limites computacionais do ENIAC. Essas subrotinas foram as precursoras das funções e tinham a nobre intenção de reaproveitar partes do programa que se repetiam. Se você pensou em &lt;a href=&#34;https://www.wikiwand.com/en/Don%27t_repeat_yourself&#34;&gt;DRY&lt;/a&gt;, acertou na mosca.&lt;/p&gt;
+
+&lt;p&gt;Frances Elizabeth &lt;strong&gt;“Betty” Snyder&lt;/strong&gt; (depois Holberton, 1917–2001) trabalhou com Jean no UNIVAC I desenhando seu console de controle, teclado e teclado numérico. Também foi para esse projeto que ela escreveu o primeiro algoritmo de ordenação em 1952. Betty ainda escreveu padrões para o FORTRAN e participou de vários comitês nacionais e internacionais de computação como o que foi responsável pela criação do COBOL.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Marlyn Wescoff&lt;/strong&gt; (depois Meltzer, 1922–2008) se desligou do projeto para se casar em 1947, antes do ENIAC ser deslocado para Aberdeen.&lt;/p&gt;
+
+&lt;p&gt;O trabalho delas alterou dramaticamente a computação nos anos 40 e 50, mas elas foram consideradas meras operadoras e não ganharam nenhum crédito até serem descobertas por uma estudante de Harvard 30 anos depois.&lt;/p&gt;
+
+&lt;h4 id=&#34;reconhecimento&#34;&gt;Reconhecimento&lt;/h4&gt;
+
+&lt;p&gt;As mulheres daquela foto famosa não são modelos. Elas são dois dos nomes mais importantes da história da computação e se chamam &lt;strong&gt;Jean Jennings&lt;/strong&gt; e &lt;strong&gt;Ruth Lichterman&lt;/strong&gt;. Quando Kathy Kleiman descobriu isso e foi atrás delas, as programadoras do ENIAC ficaram surpresas de serem reconhecidas.&lt;/p&gt;
+
+&lt;p&gt;Perto do aniversário de 50 anos do lançamento do ENIAC, em 1996, Kathy ligou para a Women in Technology International perguntando o que eles fariam para honrar as seis programadoras e o que ela ouviu foi mais uma triste ironia na história daquelas mulheres. A WITI, criada justamente para promover o valor das mulheres na indústria da tecnologia, não fazia a menor ideia de quem Kathy estava falando.&lt;/p&gt;
+
+&lt;p&gt;Na festa oficial do 50º aniversário, apenas duas programadoras do ENIAC foram reconhecidas. Assim como no lançamento, as outras três mulheres que ainda estavam vivas não foram sequer convidadas.&lt;/p&gt;
+
+&lt;p&gt;Ao saber disso, Kathy decidiu gravar suas histórias e lutar por seu reconhecimento público. Graças a ela, as seis programadoras do ENIAC foram induzidas ao hall da fama da WITI durante a conferência Women in Technology de 1997. Nos anos seguintes, elas também receberam prêmios da IEEE Computer Society e do Computing History Museum.&lt;/p&gt;
+
+&lt;p&gt;Kathy criou o &lt;a href=&#34;http://eniacprogrammers.org/&#34;&gt;ENIAC Programmers Project&lt;/a&gt; e suas gravações resultaram no documentário &lt;em&gt;The Computers&lt;/em&gt;, lançado em 2014 com as entrevistas e filmagens originais que mostram como o ENIAC era operado. Apesar do ressentimento óbvio, as programadoras mantinham um bom humor surpreendente para quem só teve seu trabalho reconhecido 50 anos depois.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-futuro-das-mulheres-na-computação&#34;&gt;O futuro das mulheres na computação&lt;/h4&gt;
+
+&lt;p&gt;Falar sobre o ENIAC sem citar o nome dessas seis mulheres é compactuar com uma injustiça histórica. Tirar o crédito de suas contribuições inestimáveis perpetua os estereótipos que mantêm as mulheres afastadas da programação.&lt;/p&gt;
+
+&lt;p&gt;Em 1946, a computação foi ingrata com as programadoras do ENIAC.&lt;/p&gt;
+
+&lt;p&gt;Em 1986, a computação era hostil às colegas de Kathy Kleiman.&lt;/p&gt;
+
+&lt;p&gt;Em 2016, a computação ainda é uma terra inóspita para mulheres.&lt;/p&gt;
+
+&lt;p&gt;Devemos contar essa história incrível com o mesmo entusiasmo com que falamos de Alan Turing, Bill Gates, Steve Jobs e outros expoentes masculinos.&lt;/p&gt;
+
+&lt;p&gt;De todos os problemas que afastam as mulheres da computação, eliminemos pelo menos este: o mito de que todos os grandes inovadores da história da computação são homens. As seis programadoras do ENIAC são a maior prova de que isso está muito longe da verdade.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tive uma vida fantástica. Tudo que eu fiz foi o começo de algo novo.
+— Betty Snyder em &lt;a href=&#34;https://vimeo.com/ondemand/eniac6&#34;&gt;The Computers&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A primeira linguagem que todo programador deve aprender</title>
+      <link>https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/</link>
+      <pubDate>Mon, 03 Oct 2016 01:04:49 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/</guid>
+      <description>
+
+&lt;p&gt;Escolher uma linguagem de programação para aprender é um dilema clássico entre os desenvolvedores de software, principalmente no começo da carreira. Afinal, Java paga bem mesmo? E esse tal de Node.js, qual é? É verdade que Ruby já era e a onda agora é Python? E PHP, alguém ainda usa? C++ é difícil?&lt;/p&gt;
+
+&lt;p&gt;São muitas opções e é normal ficar em dúvida, mas uma coisa é certa: você não irá muito longe se não dominar outra “linguagem” antes: &lt;strong&gt;inglês&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inglês é a &lt;a href=&#34;https://www.wikiwand.com/pt/L%C3%ADngua_franca&#34;&gt;língua franca&lt;/a&gt; da tecnologia. Tudo, desde os comandos mais básicos da programação como &lt;em&gt;if&lt;/em&gt;, &lt;em&gt;while&lt;/em&gt; e &lt;em&gt;for loop&lt;/em&gt;, está escrito ou é falado em inglês. Por isso, vou mostrar neste artigo como saber inglês pode facilitar sua carreira, aumentar suas chances no mercado de trabalho e contribuir para o seu crescimento pessoal.&lt;/p&gt;
+
+&lt;p&gt;Para começar, vamos ver um único número que deixa bastante claro o abismo que separa os profissionais que sabem inglês dos que não dominam o idioma.&lt;/p&gt;
+
+&lt;h4 id=&#34;uma-goleada-de-75x1&#34;&gt;Uma goleada de 75x1&lt;/h4&gt;
+
+&lt;p&gt;Se inglês é a língua franca da tecnologia, é meio óbvio que a quantidade de informação disponível em inglês seja muito maior do que em português, certo? Mas será que conseguimos estimar de alguma forma o tamanho dessa diferença? Os números do &lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt; dão uma boa ideia.&lt;/p&gt;
+
+&lt;p&gt;O Stack Overflow é uma espécie de terra santa dos programadores. É o &lt;a href=&#34;http://www.alexa.com/siteinfo/stackoverflow.com&#34;&gt;48º site mais acessado do mundo&lt;/a&gt; e tem 40 milhões de visitas todos os meses. Fundado em 2008, ele tem nada mais, nada menos do que 12 milhões de perguntas, &lt;strong&gt;20 milhões de respostas&lt;/strong&gt; e 52 milhões de comentários. Jogue uma dúvida de programação no Google e é praticamente certo que os primeiros resultados da busca venham de lá.&lt;/p&gt;
+
+&lt;p&gt;Em 2014, o Stack Overflow lançou &lt;a href=&#34;http://pt.stackoverflow.com/&#34;&gt;sua versão em português&lt;/a&gt;, que tem até agora 52 mil perguntas e 67 mil respostas. Entre todos os sites de perguntas e respostas lançados a partir do sucesso do SO, a versão brasileira &lt;a href=&#34;http://data.stackexchange.com/&#34;&gt;fica atrás até de fóruns de tecnologias específicas como Drupal e SharePoint e assuntos de nicho como games e cartografia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ou seja, fazendo uma comparação justa levando em conta a quantidade de informação produzida em relação ao tempo de vida de cada projeto, a versão gringa do Stack Overflow gera &lt;strong&gt;75 vezes mais conteúdo&lt;/strong&gt; do que a versão &lt;a href=&#34;https://www.youtube.com/watch?v=At1BlQ0EGEU&#34;&gt;Herbert Richers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dada a importância do Stack Overflow, não é nenhum exagero dizer que um profissional que domina inglês dispõe de uma base de conhecimento 75 vezes maior do que um colega que conta apenas com o português para tornar-se e manter-se um bom programador. Não é impossível, mas é (cada vez) mais difícil.&lt;/p&gt;
+
+&lt;h4 id=&#34;tudo-está-em-inglês&#34;&gt;Tudo está em inglês&lt;/h4&gt;
+
+&lt;h4 id=&#34;documentações&#34;&gt;Documentações&lt;/h4&gt;
+
+&lt;p&gt;Vamos começar pelo básico: documentações, os manuais de instruções das linguagens de programação. Como são a referência básica dos programadores, muitas linguagens já estão documentadas em português, mas outras &lt;strong&gt;não estão&lt;/strong&gt;. E não estou falando apenas de linguagens mais underground como Lua, R ou Go. Node.js e Python, por exemplo, não têm documentação em português.&lt;/p&gt;
+
+&lt;p&gt;Se linguagens com milhões de adeptos têm apenas documentação em inglês, o que esperar de todas as milhares de outras tecnologias como frameworks, bibliotecas, plugins e componentes? Isso mesmo: tá tudo em inglês.&lt;/p&gt;
+
+&lt;p&gt;Como a maior parte das traduções é fruto de trabalho voluntário, você dependerá da boa vontade de outros brasileiros para ter acesso a documentações em português. Por outro lado, se dominar inglês, não precisa esperar nada nem ninguém para saber tudo sobre a tecnologia que deseja aprender.&lt;/p&gt;
+
+&lt;h4 id=&#34;blogs&#34;&gt;Blogs&lt;/h4&gt;
+
+&lt;p&gt;Outra fonte de consulta muito comum são os blogs. Muitas vezes, eles têm a solução perfeita para o problema que você está tentando resolver, principalmente porque o autor é um programador como você e está postando a solução para poupar horas e fios de cabelo de seus colegas. É um recurso e tanto para tópicos avançados e funcionalidades mal documentadas.&lt;/p&gt;
+
+&lt;p&gt;No entanto, mesmo blogueiros que não nasceram em países falantes de língua inglesa costumam escrever seus blogs (muitas vezes apenas) em inglês. O motivo é simples: como há muito mais conteúdo em inglês, há muito mais procura por conteúdo em inglês. Logo, escrever em inglês garante mais visibilidade, mais SEO etc.&lt;/p&gt;
+
+&lt;p&gt;O argentino &lt;a href=&#34;https://ponyfoo.com&#34;&gt;Nicolás Bevacqua&lt;/a&gt; e o norueguês &lt;a href=&#34;https://blog.sindresorhus.com/&#34;&gt;Sindre Sorhus&lt;/a&gt; são dois exemplos de caras que &lt;strong&gt;só escrevem em inglês&lt;/strong&gt;. E acredite em mim: seria muito mais difícil se esses caras escrevessem em castelhano e norueguês.&lt;/p&gt;
+
+&lt;h4 id=&#34;vídeos&#34;&gt;Vídeos&lt;/h4&gt;
+
+&lt;p&gt;Não podemos esquecer do formato mais amado agora que temos uma banda verdadeiramente larga: vídeos. O YouTube, por exemplo, está repleto de ótimos conteúdos que vão desde aulas básicas de programação a screencasts onde você pode ver a tela do programador enquanto ele programa desde hello worlds até soluções super complexas.&lt;/p&gt;
+
+&lt;p&gt;Há também &lt;a href=&#34;https://www.ted.com/talks&#34;&gt;TED&lt;/a&gt; e &lt;a href=&#34;https://www.ted.com/watch/tedx-talks&#34;&gt;TEDx&lt;/a&gt; talks, eventos nos quais palestrantes convidados falam de tecnologia, entretenimento e design (a sigla “TED” vem daí) em apresentações extremamente inspiradoras.&lt;/p&gt;
+
+&lt;p&gt;Isso não significa que não há conteúdos em vídeo em português. No entanto, só quem domina inglês pode assistir a essas &lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/&#34;&gt;aulas completas de introdução à ciência da computação e programação&lt;/a&gt; do MIT, uma das melhores universidades do mundo.&lt;/p&gt;
+
+&lt;h4 id=&#34;livros-e-ebooks&#34;&gt;Livros e ebooks&lt;/h4&gt;
+
+&lt;p&gt;Livros de programação são um pequeno pesadelo para quem só lê em português. Como a tecnologia evolui rápido, os livros de papel e ebooks logo ficam obsoletos. E como as edições em português levam alguns meses para sair, o conteúdo fica desatualizado ainda mais rápido. De quebra, podem surgir algumas pérolas como na tradução do The Lean Startup, que chama framework de “arcabouço”.&lt;/p&gt;
+
+&lt;p&gt;Como os brasileiros &lt;a href=&#34;http://cultura.estadao.com.br/blogs/babel/44-da-populacao-brasileira-nao-le-e-30-nunca-comprou-um-livro-aponta-pesquisa-retratos-da-leitura/&#34;&gt;não gostam de ler&lt;/a&gt;, a maioria dos livros de programação nunca ganha uma versão tupiniquim. Isso significa que muitos livros fantásticos como &lt;a href=&#34;https://apisyouwonthate.com/&#34;&gt;Build APIs You Won’t Hate&lt;/a&gt; só estão disponíveis se você dominar inglês.&lt;/p&gt;
+
+&lt;h4 id=&#34;quem-sabe-inglês-tem-mais-opções-de-mercado&#34;&gt;Quem sabe inglês tem mais opções de mercado&lt;/h4&gt;
+
+&lt;p&gt;Saber inglês também é uma grande alavanca para o crescimento profissional. Em uma entrevista de emprego, por exemplo, o fato de você saber outro idioma mostra no mínimo que você gosta de aprender, uma habilidade fundamental para quem quer ser um ótimo profissional. Mesmo que a empresa não precise diretamente do seu inglês, você será visto com outros olhos e sairá na frente dos outros candidatos. Ela saberá que você tem uma &lt;strong&gt;mentalidade&lt;/strong&gt; diferente.&lt;/p&gt;
+
+&lt;p&gt;E o contrário também acontece: se você disser que não sabe inglês, o recrutador pode pensar que você não gosta de aprender coisas novas e tem um perfil mais acomodado, resistente, que não aceita desafios. E nem pense em mentir que sabe, pois ele pode decidir continuar a entrevista em inglês e aí mesmo é que você não terá chances.&lt;/p&gt;
+
+&lt;h4 id=&#34;projetos-internacionais&#34;&gt;Projetos internacionais&lt;/h4&gt;
+
+&lt;p&gt;Com inglês, você também pode trabalhar em projetos internacionais sem sair do Brasil. Como a mão de obra brasileira é barata comparada à mão de obra de fora, cada vez mais empresas estrangeiras têm contratado fábricas de software e produtoras para desenvolver seus projetos por aqui. É um nicho de mercado bastante aquecido e sempre há vagas, mas dominar inglês é fundamental para conversar tanto com o cliente quanto com seus colegas de projeto gringos.&lt;/p&gt;
+
+&lt;p&gt;A grande vantagem desse tipo de emprego é que a empresa que contrata você recebe em dólar ou euro, ou seja, recebe muito bem. Com isso, ela consegue pagar salários mais generosos e todo mundo sai feliz.&lt;/p&gt;
+
+&lt;h4 id=&#34;freela-em-dólar&#34;&gt;Freela em dólar&lt;/h4&gt;
+
+&lt;p&gt;Outra opção incrível são as redes de programadores freelancers. A mais famosa é a &lt;a href=&#34;https://www.toptal.com/&#34;&gt;Toptal&lt;/a&gt;, que aprova somente &lt;a href=&#34;https://www.toptal.com/top-3-percent&#34;&gt;3%&lt;/a&gt; dos engenheiros de software que se candidatam. Porém, antes de qualquer teste técnico, você precisa passar por uma entrevista que avalia se você sabe “ler, escrever e falar inglês extremamente bem”.&lt;/p&gt;
+
+&lt;p&gt;Se você passar pelo processo, você escolhe seus freelas e recebe em dólar, uma moeda estável que não é afetada pela economia brasileira e vai lhe garantir certa segurança financeira. No momento em que estou escrevendo, por exemplo, 1 dólar vale R$ 3,24, mas já chegou a valer R$ 4,24 em 2015.&lt;/p&gt;
+
+&lt;h4 id=&#34;viver-e-trabalhar-fora&#34;&gt;Viver e trabalhar fora&lt;/h4&gt;
+
+&lt;p&gt;Por último, mas não menos importante, inglês é requisito básico para quem quer viver e trabalhar em outro país. Você precisará dele desde o pedido de um visto de trabalho até sair para comprar pão. Dá um trabalho danado, mas também é muito promissor. Muitos países como o Canadá estão com um déficit muito grande de profissionais qualificados e essa pode ser uma ótima oportunidade para você.&lt;/p&gt;
+
+&lt;h4 id=&#34;crescimento-pessoal&#34;&gt;Crescimento pessoal&lt;/h4&gt;
+
+&lt;p&gt;Quando você aprende inglês, outra pessoa além dos entrevistadores vê que você tem um perfil diferente: &lt;strong&gt;você mesmo&lt;/strong&gt;. Você se sente mais capaz, mais confiante, e com certeza tem uma vida melhor em vários aspectos. Quem consegue aprender uma nova língua consegue aprender qualquer coisa.&lt;/p&gt;
+
+&lt;p&gt;Se você ainda não está certo se vale a pena, pense em todo o crescimento pessoal que o inglês vai lhe proporcionar. Imagine como será legal assistir suas séries favoritas sem legenda, entendendo aqueles detalhes que perdem todo o sentido quando são traduzidos para o português. Pense em como será legal ir ao cinema e não ficar tão preocupado em ler as legendas, porque você entende tudo que os atores falam.&lt;/p&gt;
+
+&lt;p&gt;Você poderá receber gringos na sua cidade e falar sobre as coisas bacanas que só você conhece, aproveitando a oportunidade para saber mais sobre culturas totalmente diferentes da sua. E você se sentirá seguro para &lt;em&gt;ser&lt;/em&gt; esse gringo em qualquer lugar do mundo, pois em todo lugar existe alguém que fala pelo menos um pouco de inglês e pode lhe ajudar com o que for necessário.&lt;/p&gt;
+
+&lt;p&gt;E acima de tudo, lembre dos 75x1. Você terá acesso a um mundo de informação e ficará mais claro o quanto você é parte de algo maior, seja a comunidade de tecnologia ou o mundo em si. Ou melhor: o mundo &lt;em&gt;será&lt;/em&gt; a sua nova comunidade, e você poderá colaborar tanto com linhas de código em um projeto open source quanto contando para seu novo amigo gringo a dor e a delícia do jeitinho brasileiro.&lt;/p&gt;
+
+&lt;h4 id=&#34;conclusão&#34;&gt;Conclusão&lt;/h4&gt;
+
+&lt;p&gt;Vá além do “inglês técnico”. Você pode passar a vida toda praticando o que o inglês instrumental chama de &lt;strong&gt;skimming e scanning&lt;/strong&gt;, ou seja, “pegar a ideia” sem necessariamente entender (ou mesmo ler) todo o conteúdo. Mas só se comprometendo a aprender inglês de verdade é que você perceberá os detalhes que podem mudar completamente o entendimento do que você está lendo.&lt;/p&gt;
+
+&lt;p&gt;Não use a evolução dos tradutores automáticos como desculpa para não estudar. Por mais que o Google Translator seja aperfeiçoado, ele sempre saberá apenas o que você escreve e diz, não necessariamente o que você &lt;em&gt;quer&lt;/em&gt; dizer.&lt;/p&gt;
+
+&lt;h4 id=&#34;treine-seu-ouvido&#34;&gt;Treine seu ouvido&lt;/h4&gt;
+
+&lt;p&gt;Quando ainda somos bebês, nosso cérebro escolhe quais sons devemos reconhecer e reproduzir e ignora todo o resto. E você sabe quais sons ele escolhe? Os sons que ouvimos quando somos bebês: a língua dos nossos pais, muito provavelmente português.&lt;/p&gt;
+
+&lt;p&gt;É por isso que muita gente pronuncia “word” quando quer falar “world”, porque o som é estranho demais para os nossos ouvidos. E aqui não existe atalho: só com muito treino conseguimos reeducar nosso cérebro preguiçoso.&lt;/p&gt;
+
+&lt;p&gt;E como eu sei disso? Porque vi em &lt;a href=&#34;https://www.ted.com/talks/patricia_kuhl_the_linguistic_genius_of_babies&#34;&gt;um TED talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;invista-em-inglês&#34;&gt;Invista em inglês&lt;/h4&gt;
+
+&lt;p&gt;Tecnologias nascem e morrem do dia para a noite, mas essa é uma “linguagem” que você usará pelo resto da vida, seja para escrever um código mais coeso, aprender novas linguagens de programação ou conquistar o mundo. Você escolhe.&lt;/p&gt;
+
+&lt;p&gt;E olha que legal: você será melhor que muito gringo, porque muitos deles só sabem falar inglês.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sendo desenvolvedor depois dos 40</title>
+      <link>https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/</link>
+      <pubDate>Wed, 14 Sep 2016 17:34:19 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Essa é a tradução de um post sensacional de Adrian Kosmaczewski chamado&lt;/em&gt; &lt;a href=&#34;https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c&#34;&gt;&lt;em&gt;Being A Developer After 40&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. Quero que mais desenvolvedores e aspirantes a desenvolvedor, mesmo os que não dominam inglês, consigam aproveitar esses ótimos conselhos.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS: o post original é a transcrição de uma palestra dada por Adrian no&lt;/em&gt; &lt;a href=&#34;https://www.appbuilders.ch/&#34;&gt;&lt;em&gt;App Builders Switzerland&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, em 25 de abril de 2016.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Olá a todos. Eu sou um desenvolvedor autodidata de 42 anos e esta é a minha história.&lt;/p&gt;
+
+&lt;p&gt;Algumas semanas atrás eu vi o tweet abaixo e ele me fez pensar sobre minha carreira, e esses pensamentos me levaram de volta aonde tudo começou para mim:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/5.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Original: &lt;a href=&#34;http://www.smbc-comics.com/index.php?db=comics&amp;amp;id=2436&#34;&gt;http://www.smbc-comics.com/index.php?db=comics&amp;amp;id=2436&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Comecei minha carreira como desenvolvedor de software precisamente às 10:00 do dia 6 de outubro de 1997, uma segunda-feira, em algum lugar na cidade de &lt;a href=&#34;https://www.wikiwand.com/en/Olivos,_Buenos_Aires&#34;&gt;Olivos&lt;/a&gt;, ao norte de &lt;a href=&#34;https://www.wikiwand.com/en/Buenos_Aires&#34;&gt;Buenos Aires&lt;/a&gt;, &lt;a href=&#34;https://www.wikiwand.com/en/Argentina&#34;&gt;Argentina&lt;/a&gt;. O momento exato era &lt;a href=&#34;http://www.epochconverter.com/&#34;&gt;876142800&lt;/a&gt; Era Unix. Eu recém tinha celebrado meus 24 anos.&lt;/p&gt;
+
+&lt;h4 id=&#34;o-mundo-em-1997&#34;&gt;&lt;strong&gt;O mundo em 1997&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;O mundo era um lugar ligeiramente diferente naquela época.&lt;/p&gt;
+
+&lt;p&gt;Sites não tinham alertas de cookie. O futuro da web eram portais como o &lt;a href=&#34;http://www.excite.com/&#34;&gt;Excite.com&lt;/a&gt;. Meu buscador preferido era o AltaVista. Meu email era kosmacze@sc2a.unige.ch, o que significava que meu primeiro site pessoal ficava em &lt;a href=&#34;http://sc2a.unige.ch/~kosmacze&#34;&gt;http://sc2a.unige.ch/~kosmacze&lt;/a&gt;. Nós ainda estávamos chorando pela &lt;a href=&#34;https://www.wikiwand.com/en/Death_of_Diana,_Princess_of_Wales&#34;&gt;Princesa Diana&lt;/a&gt;. Steve Jobs tinha pego o cargo de CEO e convencido a Microsoft a &lt;a href=&#34;http://www.cnet.com/news/microsoft-to-invest-150-million-in-apple/#!&#34;&gt;injetar 150 milhões de dólares&lt;/a&gt; na Apple Computer. A Digital Equipment Corporation estava processando a Dell. Os restos mortais de Che Guevara recém tinham sido levados de volta a Cuba. A &lt;a href=&#34;https://www.wikiwand.com/en/Friends_%28season_4%29&#34;&gt;quarta temporada de Friends&lt;/a&gt; recém tinha começado. &lt;a href=&#34;https://www.wikiwand.com/en/Gianni_Versace&#34;&gt;Gianni Versace&lt;/a&gt; recém tinha sido assassinado em frente a sua casa. &lt;a href=&#34;https://www.wikiwand.com/en/Mother_Teresa&#34;&gt;Madre Teresa&lt;/a&gt;, &lt;a href=&#34;https://www.wikiwand.com/en/Roy_Lichtenstein&#34;&gt;Roy Lichtenstein&lt;/a&gt; e &lt;a href=&#34;https://www.wikiwand.com/en/Jeanne_Calment&#34;&gt;Jeanne Calment&lt;/a&gt; (a pessoa mais velha do mundo) recém tinham falecido. As pessoas estavam jogando &lt;a href=&#34;https://www.wikiwand.com/en/Final_Fantasy_VII&#34;&gt;Final Fantasy 7&lt;/a&gt; como loucas em seus &lt;a href=&#34;https://www.wikiwand.com/en/PlayStation_%28console%29&#34;&gt;PlayStation&lt;/a&gt;. A BBC 2 começou a passar os &lt;a href=&#34;http://www.forbes.com/sites/oracle/2015/07/31/prepare-for-the-teletubby-trained-mobile-workforce/#75086f3b7fb3&#34;&gt;Telletubbies&lt;/a&gt;. James Cameron estava prestes a lançar &lt;a href=&#34;http://www.imdb.com/title/tt0120338/&#34;&gt;Titanic&lt;/a&gt;. O The Verve recém tinha lançado seu sucesso &lt;a href=&#34;https://www.youtube.com/watch?v=1lyu1KKwC74&#34;&gt;“Bitter Sweet Symphony”&lt;/a&gt; e então teve que pagar a maior parte dos royalties para os Rolling Stones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/2.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Excite em 1997, cortesia -do Internet Archive&lt;/p&gt;
+
+&lt;p&gt;Os smartphones pareciam o &lt;a href=&#34;https://www.wikiwand.com/en/Nokia_9000_Communicator&#34;&gt;Nokia 9000 Communicator&lt;/a&gt;. Tinham 8 MB de memória e um CPU i386 de 24 MHz e rodavam o sistema operacional GEOS.&lt;/p&gt;
+
+&lt;p&gt;Os smartwatches pareciam o &lt;a href=&#34;http://www.g-shock.eu/euro/aboutgshock/history/&#34;&gt;CASIO G-SHOCK DW-9100BJ&lt;/a&gt;. Não tinham tantos apps, mas a bateria durava muito mais.&lt;/p&gt;
+
+&lt;p&gt;O Deep Blue da IBM &lt;a href=&#34;https://www.wikiwand.com/en/Deep_Blue_versus_Garry_Kasparov&#34;&gt;tinha derrotado Garry Kasparov pela primeira vez&lt;/a&gt; em um jogo de xadrez.&lt;/p&gt;
+
+&lt;p&gt;Um hacker conhecido como “_eci” publicou o código C para um exploit de Windows 3.1, 95 e NT chamado &lt;a href=&#34;https://www.wikiwand.com/en/WinNuke&#34;&gt;“WinNuke”&lt;/a&gt;, um ataque de negação de serviço sobre a porta TCP 139 (NetBIOS) que causava a Tela Azul da Morte.&lt;/p&gt;
+
+&lt;p&gt;A propósito, 1997 também foi o ano em que &lt;a href=&#34;https://www.malala.org/malalas-story&#34;&gt;Malala Yousafzai&lt;/a&gt;, &lt;a href=&#34;http://www.imdb.com/name/nm1631269/&#34;&gt;Chloë Moretz&lt;/a&gt; e &lt;a href=&#34;https://www.wikiwand.com/en/Kylie_Jenner&#34;&gt;Kylie Jenner&lt;/a&gt; nasceram.&lt;/p&gt;
+
+&lt;p&gt;Muitos enredos de filmes se passam em 1997. Para citar alguns: &lt;a href=&#34;http://www.imdb.com/title/tt0082340/&#34;&gt;Fuga de Nova York&lt;/a&gt;, &lt;a href=&#34;http://www.imdb.com/title/tt0100403/&#34;&gt;O Predador 2&lt;/a&gt;, &lt;a href=&#34;http://www.imdb.com/title/tt0421715/&#34;&gt;O Curioso Caso de Benjamin Button&lt;/a&gt;, &lt;a href=&#34;http://www.imdb.com/title/tt0417741/&#34;&gt;Harry Potter e o Enigma do Príncipe&lt;/a&gt;, &lt;a href=&#34;http://www.imdb.com/title/tt0099674/&#34;&gt;O Poderoso Chefão III&lt;/a&gt; e, de acordo com &lt;a href=&#34;http://www.imdb.com/title/tt0103064/&#34;&gt;O Exterminador do Futuro 2: O Julgamento Final&lt;/a&gt;, a Skynet se tornou autoconsciente às 2:14 do dia 29 de agosto de 1997. Isso não aconteceu; no entanto, em uma reviravolta interessante de eventos, o domínio google.com foi registrado em 15 de setembro daquele ano.&lt;/p&gt;
+
+&lt;p&gt;Nós estávamos a dois anos do &lt;a href=&#34;https://www.wikiwand.com/en/Year_2000_problem&#34;&gt;Bug do Milênio&lt;/a&gt; e a mídia estava começando a deixar as pessoas nervosas com isso.&lt;/p&gt;
+
+&lt;h4 id=&#34;meu-primeiro-trabalho-como-desenvolvedor&#34;&gt;&lt;strong&gt;Meu primeiro trabalho como desenvolvedor&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Meu primeiro trabalho consistia em escrever páginas ASP em vários editores, variando do &lt;a href=&#34;https://www.wikiwand.com/en/Microsoft_FrontPage&#34;&gt;Microsoft FrontPage&lt;/a&gt;, para o &lt;a href=&#34;http://www.hotmetalpro.com/press/&#34;&gt;HotMeTaL Pro&lt;/a&gt;, para o &lt;a href=&#34;https://www.editplus.com/&#34;&gt;EditPlus&lt;/a&gt;, cuidando a compatibilidade cross-browser entre o Netscape Navigator e o Internet Explorer 4 e escrevendo stored procedures em &lt;a href=&#34;http://stackoverflow.com/questions/194/upgrading-sql-server-6-5&#34;&gt;SQL Server 6.5&lt;/a&gt; para um site comercial publicado em japonês, russo, inglês e espanhol — sem nenhum &lt;a href=&#34;http://www.alanwood.net/unicode/netscape.html&#34;&gt;suporte consistente a UTF-8&lt;/a&gt; na arquitetura de software.&lt;/p&gt;
+
+&lt;p&gt;O produto desses esforços rodava em um servidor &lt;a href=&#34;https://www.wikiwand.com/en/Pentium_II&#34;&gt;Pentium II&lt;/a&gt; hospedado em algum lugar dos EUA, com um impressionante HD de 2 GB e colossais 256 MB de RAM. Era um single server rodando &lt;a href=&#34;https://www.wikiwand.com/en/Windows_NT_4.0&#34;&gt;Windows NT 4&lt;/a&gt;, &lt;a href=&#34;https://www.wikiwand.com/en/Microsoft_SQL_Server&#34;&gt;SQL Server 6.5&lt;/a&gt; e &lt;a href=&#34;https://www.wikiwand.com/en/Internet_Information_Services&#34;&gt;IIS 2.0&lt;/a&gt;, servindo cerca de 10 mil visitantes por dia.&lt;/p&gt;
+
+&lt;p&gt;Minha primeira linguagem de programação oficial era esse mutante chamado &lt;a href=&#34;https://www.wikiwand.com/en/VBScript&#34;&gt;VBScript&lt;/a&gt;, e um pouquinho de JavaScript no lado do cliente, é claro, recheado de “se isso for Netscape, então faça aquilo, senão faça aquele outro”, porque naquele tempo eu não tinha a menor ideia de como usar JavaScript apropriadamente.&lt;/p&gt;
+
+&lt;p&gt;O interessante é que estamos em 2016 e &lt;a href=&#34;http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/&#34;&gt;mal começamos&lt;/a&gt; a entender como fazer qualquer coisa em JavaScript.&lt;/p&gt;
+
+&lt;p&gt;Ninguém tinha ouvido falar de testes unitários. O &lt;a href=&#34;http://www.agilemanifesto.org/&#34;&gt;Manifesto Ágil&lt;/a&gt; ainda não tinha sido escrito. Integração contínua era um sonho. XML não era nem uma palavra da moda. Nossa estratégia de QA consistia em reiniciar o servidor uma vez por semana, porque senão ele dava pau aleatoriamente. Nós desenvolvemos nosso próprio componente &lt;a href=&#34;https://www.microsoft.com/com/default.mspx&#34;&gt;COM+&lt;/a&gt; em &lt;a href=&#34;https://www.wikiwand.com/en/Visual_J%2B%2B&#34;&gt;Visual J++&lt;/a&gt; para interpretar arquivos JPG enviados para o servidor. Assim que começaram a aparecer arquivos codificados com &lt;a href=&#34;https://www.wikiwand.com/en/JPEG_2000&#34;&gt;JPEG-2000&lt;/a&gt;, nosso componente falhou miseravelmente.&lt;/p&gt;
+
+&lt;p&gt;Nós não usávamos controle de versão, nem mesmo &lt;a href=&#34;http://www.nongnu.org/cvs/&#34;&gt;CVS&lt;/a&gt;, &lt;a href=&#34;https://www.gnu.org/software/rcs/&#34;&gt;RCS&lt;/a&gt; ou, Deus me livre, &lt;a href=&#34;https://www.wikiwand.com/en/Microsoft_Visual_SourceSafe&#34;&gt;SourceSafe&lt;/a&gt;. &lt;a href=&#34;http://subversion.apache.org/&#34;&gt;Subversion&lt;/a&gt; ainda não existia. Nossa pontuação no &lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000043.html&#34;&gt;Joel Test&lt;/a&gt; era -25.&lt;/p&gt;
+
+&lt;h4 id=&#34;6776-dias&#34;&gt;&lt;strong&gt;6776 dias&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Nos últimos 6776 dias eu tenho tomado uma xícara de café pela manhã e escrito código com coisas chamadas VBScript, JavaScript, Linux, SQL, HTML, Makefiles, Node.js, CSS, XML, .NET, YAML, Podfiles, JSON, Markdown, PHP, Windows, Doxygen, C#, Visual Basic, Visual Basic.NET, Java, Socket.io, Ruby, testes unitários, Python, scripts shell, C++, Objective-C, arquivos batch e, recentemente, Swift.&lt;/p&gt;
+
+&lt;p&gt;Nesses 6776 dias muitas coisas aconteceram; mais importante, minha esposa e eu nos casamos. Pedi demissão de 6 empregos e fui demitido duas vezes. Comecei e fechei meu próprio negócio. Concluí meu mestrado. Publiquei alguns projetos open source, e um deles me rendeu um artigo no &lt;a href=&#34;http://arstechnica.com/apple/2009/04/iphone-dev-convert-xib-files-to-objective-c/&#34;&gt;Ars Technica escrito pela própria Erica Sadun&lt;/a&gt;. Apareci em programas de TV suíços e bolivianos. Vi palestras de Bill Gates e Steve Jobs em Seattle e São Francisco. &lt;a href=&#34;http://www.infoq.com/presentations/Introduction-to-iOS-Software-Development&#34;&gt;Palestrei&lt;/a&gt; e coorganizei conferências em quatro continentes. Escrevi e publiquei &lt;a href=&#34;http://amazon.com/author/akosma&#34;&gt;dois livros&lt;/a&gt;. Tive dois burnouts e muitas outras coisas aconteceram, tanto maravilhosas quanto horríveis.&lt;/p&gt;
+
+&lt;p&gt;Já pensei várias vezes em abandonar completamente a profissão. Mas de alguma forma, o código sempre me chama de volta depois de algum tempo. Eu gosto de escrever apps, sistemas, software. Tive que desenvolver estratégias para evitar burnouts.&lt;/p&gt;
+
+&lt;p&gt;Nessa palestra eu vou contar meus segredos para que vocês também possam chegar à gloriosa idade de 40 anos como um desenvolvedor experiente, com vontade de continuar nessa profissão.&lt;/p&gt;
+
+&lt;h4 id=&#34;conselhos-de-um-jovem-de-espírito&#34;&gt;&lt;strong&gt;Conselhos de um jovem de espírito&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Algumas dicas simples para chegar à gloriosa idade de 40 anos como um feliz desenvolvedor de software.&lt;/p&gt;
+
+&lt;h4 id=&#34;1-esqueçam-as-modinhas&#34;&gt;&lt;strong&gt;1. Esqueçam as modinhas&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;O primeiro conselho que eu posso dar a vocês todos é: não prestem atenção às modinhas. Todo ano há uma nova linguagem de programação, framework, biblioteca, padrão, arquitetura de componentes ou paradigma que conquista a blogosfera. Pessoas enlouquecem com isso. Conferências são dadas. Livros são escritos. &lt;a href=&#34;http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp&#34;&gt;Ciclos do Gartner&lt;/a&gt; sobem e descem. Consultores cobram quantidades insanas de dinheiro para ensinar, implantar ou quando não para foder com as vidas das pessoas nessa indústria. A imprensa irá apoiar esses horrores e vai fazer vocês se sentirem culpados se não prestarem atenção a eles.&lt;/p&gt;
+
+&lt;p&gt;Em 1997 era &lt;a href=&#34;https://www.wikiwand.com/en/Common_Object_Request_Broker_Architecture&#34;&gt;CORBA&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://www.wikiwand.com/en/Rational_Unified_Process&#34;&gt;RUP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 2000 era &lt;a href=&#34;https://www.wikiwand.com/en/SOAP&#34;&gt;SOAP&lt;/a&gt; &amp;amp; XML.&lt;/p&gt;
+
+&lt;p&gt;Em 2003 era &lt;a href=&#34;https://www.wikiwand.com/en/Model-driven_architecture&#34;&gt;Model Driven Architecture&lt;/a&gt; e &lt;a href=&#34;https://www.wikiwand.com/en/Software_factory&#34;&gt;Software Factories&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 2006 era &lt;a href=&#34;https://www.wikiwand.com/en/Semantic_Web&#34;&gt;Web Semântica&lt;/a&gt; e &lt;a href=&#34;https://www.wikiwand.com/en/One_Laptop_per_Child&#34;&gt;OLPC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 2009 era &lt;a href=&#34;https://www.wikiwand.com/en/Augmented_reality&#34;&gt;Realidade Aumentada&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 2012 era &lt;a href=&#34;https://www.wikiwand.com/en/Big_data&#34;&gt;Big Data&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em 2015… Realidade Virtual? Bots?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Não se preocupem com o hype.&lt;/strong&gt; Continuem fazendo suas coisas, continuem aprendendo o que vocês estavam aprendendo e sigam em frente. Prestem atenção só se tiverem um interesse genuíno ou sentirem que isso pode lhes trazer algum benefício a médio ou longo prazo.&lt;/p&gt;
+
+&lt;p&gt;De fato, a razão para essas mentiras, como os romanos diziam no passado, é que &lt;strong&gt;nihil sub sole novum&lt;/strong&gt;. A maior parte do que vocês veem e aprendem em Ciência da Computação está por aí há décadas, e esse fato é escondido de propósito debaixo de pilhas de marketing, livros, posts em blogs e perguntas no Stack Overflow. Toda nova arquitetura é apenas uma reimaginação e uma readaptação de uma ideia que estava por aí há décadas.&lt;/p&gt;
+
+&lt;h4 id=&#34;2-escolham-sua-galáxia-com-sabedoria&#34;&gt;&lt;strong&gt;2. Escolham sua galáxia com sabedoria&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Na nossa indústria, toda tecnologia gera o que eu chamo de “galáxia”. Essas galáxias têm estrelas e também buracos negros; mudanças meteóricas que desaparecem na noite, muitos planetas, dos quais apenas uma pequena fração abriga alguma forma de vida, e um monte de poeira cósmica e matéria escura.&lt;/p&gt;
+
+&lt;p&gt;Exemplos de galáxias são .NET, Cocoa, Node.js, PHP, Emacs, SAP etc. Cada uma dessas tem seus evangelistas, desenvolvedores, blogueiros, podcasts, conferências, livros, cursos, serviços de consultoria e problemas de inclusão. Galáxias são construídas sobre a suposição de que sua tecnologia é a resposta para todos os problemas. Cada galáxia, portanto, é baseada numa suposição errada.&lt;/p&gt;
+
+&lt;p&gt;Os desenvolvedores dessas diferentes galáxias incorporam as atitudes arquetípicas que trouxeram aquela tecnologia à vida. Eles aderem às ideias e vão vestir as camisetas com entusiasmo e evangelizar outros sobre os méritos da sua escolha.&lt;/p&gt;
+
+&lt;p&gt;Na verdade, eu uso o termo “galáxia” para evitar o levemente mais apropriado, se não menos controverso, termo “religião”, que deve descrever melhor esse fenômeno.&lt;/p&gt;
+
+&lt;p&gt;No meu caso, gastei os primeiros 10 anos da minha carreira na galáxia Microsoft, e os nove seguintes na galáxia Apple.&lt;/p&gt;
+
+&lt;p&gt;Me arrisco a dizer que uma das maiores razões por que eu troquei de galáxia foi Steve Ballmer. Eu cansei da atitude geral das pessoas da galáxia Microsoft contra o software open source.&lt;/p&gt;
+
+&lt;p&gt;Por outro lado, eu também tenho que dizer que a galáxia Apple é um lugar fantástico, cheio de artistas e músicos e escritores que, por sorte ou azar, também escrevem código.&lt;/p&gt;
+
+&lt;p&gt;Eu fui a conferências na galáxia Microsoft, como o Barcelona TechEd 2003, ou vários Tech Talks em Buenos Aires, Genebra ou Londres. Eu até palestrei no Microsoft DevDays 2006, em Genebra. A atitude geral dos desenvolvedores na galáxia Microsoft é antipática, “corporativa” e presa a sigilos, NDAs e processos bizarros de TI.&lt;/p&gt;
+
+&lt;p&gt;A galáxia Apple foi para mim, lá em 2006, exatamente o contrário; estava cheia de pessoas que eram musicistas, artistas, pintores; escreviam software para ajudar sua paixão e escreviam software com paixão. Isso fez toda a diferença e até hoje curto tremendamente essa galáxia, a que estamos, exatamente agora, e que nos juntou.&lt;/p&gt;
+
+&lt;p&gt;E então o iPhone surgiu, e o resto é história.&lt;/p&gt;
+
+&lt;p&gt;Então minha recomendação para vocês é: escolham sua galáxia com sabedoria, curtam o quanto quiserem, mas mantenham seu telescópio apontado na direção de outras galáxias, e se preparem para se transportar a outros lugares se for necessário.&lt;/p&gt;
+
+&lt;h4 id=&#34;3-estudem-a-história-do-software&#34;&gt;&lt;strong&gt;3. Estudem a história do software&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Isso me leva ao próximo ponto: estudem como sua tecnologia favorita surgiu. Vocês gostam de C#? Vocês sabem quem o criou? Como surgiu o projeto .NET? Quem era o arquiteto líder? Quais eram as limitações do projeto e como a linguagem se tornou o que é hoje?&lt;/p&gt;
+
+&lt;p&gt;Apliquem a mesma receita a qualquer linguagem ou arquitetura de CPU que vocês curtam ou amem: Python, Ruby, Java, qualquer que seja a linguagem de programação; estudem suas origens, como elas surgiram. O mesmo para sistemas operacionais, tecnologias de rede, hardware, qualquer coisa. Vão e estudem como as pessoas apareceram com essas ideias, e quanto demorou para elas crescerem e amadurecem. Porque &lt;a href=&#34;http://www.joelonsoftware.com/articles/fog0000000017.html&#34;&gt;bom software leva dez anos&lt;/a&gt;, vocês sabem.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The mobile phone evolution &lt;a href=&#34;https://twitter.com/ValaAfshar?ref_src=twsrc%5Etfw&#34;&gt;@ValaAfshar&lt;/a&gt; &lt;a href=&#34;https://t.co/ShP206GiYL&#34;&gt;pic.twitter.com/ShP206GiYL&lt;/a&gt;&lt;/p&gt;&amp;mdash; JM Alvarez-Pallete (@jmalvpal) &lt;a href=&#34;https://twitter.com/jmalvpal/status/669781283732631553?ref_src=twsrc%5Etfw&#34;&gt;November 26, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;As histórias que cercam a gênese da nossa indústria são fascinantes e lhes mostrarão duas coisas: primeiro, que &lt;a href=&#34;http://everythingisaremix.info/&#34;&gt;tudo é um remix&lt;/a&gt;. Segundo, que poderiam ser vocês remixando a próxima tendência. Não, melhor: &lt;strong&gt;serão&lt;/strong&gt; vocês os criadores da próxima tendência.&lt;/p&gt;
+
+&lt;p&gt;E para ajudar vocês a chegarem lá, aqui está minha (altamente tendenciosa) seleção de livros de história que eu gosto e recomendo:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Dealers-Lightning-Michael-A-Hiltzik-ebook/dp/B0029PBVCA&#34;&gt;Dealers of Lightning&lt;/a&gt;, de Michael A. Hiltzik&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Revolution-The-Valley-Paperback-Insanely/dp/1449316247&#34;&gt;Revolution in the Valley&lt;/a&gt;, de Andy Hertzfeld&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088&#34;&gt;A Catedral e o Bazar&lt;/a&gt;, de Eric S. Raymond&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Success-Open-Source-Steven-Weber/dp/0674018583&#34;&gt;The Success of Open Source&lt;/a&gt;, de Steven Weber&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Old-New-Thing-Development-Throughout/dp/0321440307/&#34;&gt;The Old New Thing&lt;/a&gt;, de Raymond Chen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959&#34;&gt;The Mythical Man Month&lt;/a&gt;, de Frederick P. Brooks Jr.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vocês também aprenderão a valorizar aquelas coisas que passaram pelo teste do tempo: &lt;a href=&#34;https://en.wikipedia.org/wiki/Lisp_%28programming_language%29&#34;&gt;Lisp&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/TeX&#34;&gt;TeX&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Unix&#34;&gt;Unix&lt;/a&gt;, &lt;a href=&#34;https://www.gnu.org/software/bash/&#34;&gt;bash&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/C_%28programming_language%29&#34;&gt;C&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Cocoa_%28API%29&#34;&gt;Cocoa&lt;/a&gt;, &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;Emacs&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Vim_%28text_editor%29&#34;&gt;Vim&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Python_%28programming_language%29&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/ARM_architecture&#34;&gt;ARM&lt;/a&gt;, &lt;a href=&#34;https://www.gnu.org/software/make/&#34;&gt;GNU make&lt;/a&gt;, &lt;a href=&#34;http://manpages.bsd.lv/history.html&#34;&gt;man pages&lt;/a&gt;. Esses são exemplos de coisas úteis que duram muito e são algo para celebrar, proteger e aprender.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I felt like saying this. &lt;a href=&#34;https://t.co/mHJ1rENoX1&#34;&gt;pic.twitter.com/mHJ1rENoX1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hisham (@hisham_hm) &lt;a href=&#34;https://twitter.com/hisham_hm/status/675845003709702144?ref_src=twsrc%5Etfw&#34;&gt;December 13, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;4-continuem-aprendendo&#34;&gt;&lt;strong&gt;4. Continuem aprendendo&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Aprendam. Vale qualquer coisa. Querem aprender Fortran? Vão em frente. Acham Erlang interessante? Excelente. Pensam que COBOL pode ser a próxima tendência nas suas carreiras? Fantástico. Precisam saber mais sobre &lt;a href=&#34;https://www.wikiwand.com/en/Functional_reactive_programming&#34;&gt;Programação Funcional Reativa&lt;/a&gt;? Fiquem à vontade. Design? É claro. UX? Vocês devem. Poesia? &lt;a href=&#34;https://www.brainpickings.org/2014/02/17/joseph-brodsky-how-to-read-a-book/&#34;&gt;Vocês deveriam&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Muitos conceitos comuns na Ciência da Computação estão por aí há décadas, o que faz valer a pena estudar velhas linguagens de programação e frameworks, mesmo que tenham caído em desuso. Primeiro, vai fazer vocês valorizarem o estado atual da indústria (ou odiar, depende), e segundo, vocês aprenderão como usar as ferramentas atuais com mais efetividade — no mínimo, porque vocês entenderão seu legado e suas origens.&lt;/p&gt;
+
+&lt;p&gt;Dica 1: &lt;strong&gt;aprendam pelo menos uma nova linguagem de programação todo ano.&lt;/strong&gt; Eu não tive essa ideia; ela é do livro &lt;a href=&#34;http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X&#34;&gt;The Pragmatic Programmer&lt;/a&gt;. E funciona.&lt;/p&gt;
+
+&lt;p&gt;Uma nova linguagem de programação todo ano. Simples, não? Vão além do típico estágio do “Hello, World” e construam algo útil com ela. Eu geralmente construo uma &lt;a href=&#34;https://github.com/akosma/CodeaCalc&#34;&gt;calculadora&lt;/a&gt; simples com qualquer nova tecnologia que eu aprenda. Me ajuda a entender a sintaxe, ficar familiarizado com as APIs ou a IDE etc.&lt;/p&gt;
+
+&lt;p&gt;Dica 2: &lt;strong&gt;leiam pelo menos 6 livros por ano.&lt;/strong&gt; Eu mostrei acima uma lista de seis livros que vocês devem ler; isso deve manter vocês ocupados por um ano. Aqui está a lista para o segundo ano:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Peopleware-Productive-Projects-Teams-Edition/dp/0321934113&#34;&gt;Peopleware&lt;/a&gt;, de Tom DeMarco e Tim Lister&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/The-Psychology-Computer-Programming-Anniversary/dp/0932633420&#34;&gt;The Psychology of Software Programming&lt;/a&gt;, de Gerald M. Weinberg&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Facts-Fallacies-Software-Engineering-Robert/dp/0321117425&#34;&gt;Facts and Fallacies of Software Engineering&lt;/a&gt;, de Robert L. Glass&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654&#34;&gt;O Design do Dia-a-dia&lt;/a&gt;, de Don Norman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Agile-The-Good-Hype-Ugly/dp/3319051547&#34;&gt;Agile!: The Good, the Hype and the Ugly&lt;/a&gt; de Bertrand Meyer&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Rework-Jason-Fried/dp/0307463745&#34;&gt;Rework&lt;/a&gt;, de Jason Fried e David Heinemeier Hansson&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amazon.com/Geekonomics-Real-Insecure-Software-paperback/dp/0321735978&#34;&gt;Geekonomics&lt;/a&gt;, de David Rice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(OK, são sete livros.)&lt;/p&gt;
+
+&lt;p&gt;Seis livros por ano parece muito, mas significa apenas um a cada 2 meses. E a maioria dos livros que eu mencionei nessa apresentação não são tão longos, e melhor, são extraordinariamente bem escritos, divertidos de ler e cheios de sabedoria.&lt;/p&gt;
+
+&lt;p&gt;Veja desta forma: se vocês têm 20 anos agora, com 30 vocês terão lido mais de 60 livros, e mais de 120 quando vocês tiverem a minha idade. E vocês terão brincado com pelo menos 20 linguagens de programação diferentes. Pensem nisso por um segundo.&lt;/p&gt;
+
+&lt;p&gt;Alguns dos doze livros que eu selecionei foram escritos nos anos setenta, outros nos oitenta, alguns nos noventa e, por fim, a maioria deles são da última década. Eles representam o que de melhor foi escrito sobre a nossa indústria.&lt;/p&gt;
+
+&lt;p&gt;Mas não apenas os leiam; tomem notas. Marquem as páginas. Escrevam nas páginas dos livros. Então os releiam de vez em quando. &lt;a href=&#34;https://www.wikiwand.com/en/Jorge_Luis_Borges&#34;&gt;Borges&lt;/a&gt; costumava dizer que um prazer maior que ler um livro é relê-lo. E também, por favor, comprem aqueles livros que vocês realmente gostam em papel. Ebooks são superestimados. Nada supera um livro de papel.&lt;/p&gt;
+
+&lt;p&gt;É claro, por favor entendam que quando vocês envelhecerem, o número de coisas classificadas como novas e/ou importantes vai cair dramaticamente. Se preparem para isso. E está tudo bem se vocês derramarem uma lágrima quando se derem conta disso.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;If I could go back in time and tell the younger me exactly one and only one thing, it would be &amp;quot;learn UNIX&amp;quot;&lt;/p&gt;&amp;mdash; Jeff Atwood (@codinghorror) &lt;a href=&#34;https://twitter.com/codinghorror/status/695072624322293760?ref_src=twsrc%5Etfw&#34;&gt;February 4, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;5-ensinem&#34;&gt;&lt;strong&gt;5. Ensinem&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Quando vocês tiverem aprendido, &lt;strong&gt;ensinem&lt;/strong&gt;. Isso é muito importante.&lt;/p&gt;
+
+&lt;p&gt;Isso não significa que vocês devam organizar uma sala de aula e convidar pessoas para ouvir suas divagações (apesar de que seria incrível se vocês organizassem!). Isso pode significar simplesmente vocês darem respostas relevantes no Stack Overflow, escreverem um livro, publicarem um podcast sobre a sua tecnologia favorita, manterem um blog, escreverem no Medium, irem a outro continente e organizarem escolas de programação usando Raspberry Pis ajudarem um desenvolvedor mais jovem virando seu mentor (mas não façam isso antes dos 30).&lt;/p&gt;
+
+&lt;p&gt;Ensinar vai fazer vocês serem mais humildes, porque vai mostrar dolorosamente o quão limitado seu conhecimento é. &lt;strong&gt;Ensinar é a melhor forma de aprender.&lt;/strong&gt; Apenas testando seu conhecimento com outros vocês aprenderão direito. Isso também vai fazer vocês serem mais respeitosos em relação a outros desenvolvedores e outras tecnologias; toda tecnologia, não importa quão modesta ou obsoleta, tem seu lugar no &lt;a href=&#34;http://canonical.org/~kragen/tao-of-programming.html&#34;&gt;Tao da Programação&lt;/a&gt;, e somente através do ensino vocês serão capazes de sentí-la.&lt;/p&gt;
+
+&lt;p&gt;E através do ensino vocês realmente, realmente podem fazer a diferença nesse mundo. Em 2012 eu recebi um email de uma pessoa que tinha ido a um dos meus treinamentos. Ela costumava trabalhar como desenvolvedora Flash. Lembra do ActionScript e tudo aquilo? Bem, &lt;a href=&#34;https://www.apple.com/hotnews/thoughts-on-flash/&#34;&gt;como era esperado&lt;/a&gt;, ela se viu desempregada após 12 anos trabalhando como desenvolvedora Flash freelancer. Sozinha. Com um bebê para alimentar. Ela me disse em sua mensagem que tinha ido ao meu treinamento, que tinha curtido e também aprendido algo útil, e que depois daquilo tinha achado um emprego como mobile web developer. Ela me escreveu para dizer &lt;em&gt;obrigado&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Não posso dizer que eu mudei o mundo, mas talvez eu o tenha empurrado um pouquinho para uma direção (espero) melhor. Esse pensamento tem feito cada aula que eu dou desde então mais valiosa e significativa.&lt;/p&gt;
+
+&lt;h4 id=&#34;6-escritórios-são-um-saco&#34;&gt;&lt;strong&gt;6. Escritórios são um saco&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Every day, with every action and choice, you&amp;#39;re either a teacher and an inspiration, or a lesson and a reminder.&lt;/p&gt;&amp;mdash; Cat Swart (@Jexx) &lt;a href=&#34;https://twitter.com/Jexx/status/602943242024390656?ref_src=twsrc%5Etfw&#34;&gt;May 25, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Não esperem que empresas de software ofereçam qualquer tipo de plano de carreira. Eles podem fazer isso nos EUA, mas nunca vi nada disso na Europa. Isso significa que vocês são os únicos responsáveis pelo sucesso das suas carreiras. Ninguém vai dizer “ah, bem, ano que vem vocês podem crescer para ser líderes de time, então gerentes, então CTOs…”.&lt;/p&gt;
+
+&lt;p&gt;Nem. A. Pau. Muito pelo contrário, na verdade: vocês são, sempre foram e sempre serão desenvolvedores de software, ou seja, trabalhadores de fábrica relativamente caros, cujas tarefas seus gerentes ficariam felizes em terceirizar, não importa o que eles digam.&lt;/p&gt;
+
+&lt;p&gt;Não aceitem um emprego somente pelo dinheiro. &lt;a href=&#34;https://twitter.com/carlfish/status/721738272070762496&#34;&gt;Empresas de software se tornaram fábricas exploradoras&lt;/a&gt; onde vocês supostamente têm que justificar seu salário absurdamente alto com uma carga horária insana e expectativas irreais. E, pelo menos no caso da Suíça, não há sindicato para ajudá-los se a coisa ficar feia. Na verdade até há sindicatos na Suíça, mas eles não se importam muito com situações que não levarão a nenhum tipo de exposição na mídia.&lt;/p&gt;
+
+&lt;p&gt;Pior ainda; na maioria dos ambientes de trabalho vocês serão assediados, especialmente se forem mulheres, membros da comunidade LGBT ou não forem brancos. Eu vi desenvolvedores serem ameaçados de não terem seus vistos de trabalho renovados se não trabalhassem mais rápido. Eu testemunhei colegas mulheres e gays serem assediados.&lt;/p&gt;
+
+&lt;p&gt;Algumas partes da nossa indústria são completamente nojentas, e vocês não precisam estar no Vale do Silício para viver isso. Vocês não precisam do Medium para ler sobre. Vocês podem experimentar isso aqui mesmo na Suíça. Muitos bancos têm ambientes de trabalho atrozes. Instituições financeiras querem que vocês vomitem código 15 horas por dia, mesmo que as leis trabalhistas da Suíça proíbam explicitamente tais tratamentos. Companhias farmacêuticas querem que vocês escrevam códigos para fraudar resultados de testes e ajudá-las a escapar de regulamentações. Startups querem a sua pele, trabalhando 18 horas sem nenhuma compensação, lhes dizendo bobagens como “porque lhe damos stock options” ou “porque todos nós somos membros de um time”.&lt;/p&gt;
+
+&lt;p&gt;Não importa se vocês são Zach Holman e podem dizer no seu CV que literalmente escreveram o Github do zero: &lt;a href=&#34;https://zachholman.com/talk/firing-people&#34;&gt;vocês serão demitidos&lt;/a&gt; pela mais estúpida das razões.&lt;/p&gt;
+
+&lt;p&gt;Não importa que o app traga mais da metade do tráfego e receita do seu empregador; o time de API vai tratar vocês e suas ideias com desprezo e desleixo.&lt;/p&gt;
+
+&lt;p&gt;Pessoas muito conhecidas na indústria, inclusive com página na Wikipedia, têm pedido que eu trabalhe de graça, e isso é simplesmente apavorante. Eu não vou dar seus nomes, mas vou prevenir qualquer júnior de chegar perto delas, porque pessoas que trabalham sem ética &lt;strong&gt;não merecem o cérebro de ninguém&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sempre que um gerente de RH diz que “vocês devem fazer isso (qualquer coisa errada no seu entendimento) porque nós pagamos seu salário”, lembrem de responder o seguinte: “você paga o meu salário, mas eu dou meu cérebro em troca, e eu me recuso a obedecer essa ordem”.&lt;/p&gt;
+
+&lt;p&gt;E acima de tudo, eles colocarão vocês em um espaço aberto, e por alguma razão terão orgulho disso. &lt;strong&gt;Espaços abertos são um câncer.&lt;/strong&gt; Eles são sem dúvida o pior layout de escritório possível já inventado, e o menos apropriado para desenvolvimento de software — ou qualquer tipo de trabalho intelectual que importe.&lt;/p&gt;
+
+&lt;p&gt;Lembre-se disso: o fato de vocês &lt;em&gt;entenderem&lt;/em&gt; alguma coisa não significa que vocês devam &lt;em&gt;concordar&lt;/em&gt; com ela.&lt;/p&gt;
+
+&lt;p&gt;Desobedeçam autoridades. Digam &lt;a href=&#34;https://www.youtube.com/watch?v=bWXazVhlyxQ&#34;&gt;“foda-se, eu não vou fazer o que você me diz”&lt;/a&gt; e mudem de emprego. Há ambientes de trabalho fantásticos lá fora; não muitos, mas existem. Eu tive a sorte de trabalhar em alguns deles. Não deixem que um emprego ruim mate seu entusiasmo. Não vale a pena. Desobedeçam e vão em frente.&lt;/p&gt;
+
+&lt;p&gt;Ou, melhor ainda, tornem-se independentes.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Myth: Open offices result in massive collaboration.&lt;br&gt;&lt;br&gt;Reality: 2 people loudly collaborate; 30 must wear headphones to get any work done.&lt;/p&gt;&amp;mdash; Jochen Wolters (@jochenWolters) &lt;a href=&#34;https://twitter.com/jochenWolters/status/718175220637392897?ref_src=twsrc%5Etfw&#34;&gt;April 7, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;7-saibam-seu-valor&#34;&gt;&lt;strong&gt;7. Saibam seu valor&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Vocês provavelmente ouviram sobre o mito do “Engenheiro de Software 10x”, certo? Bem, aqui está: não é um mito, mas ele não funciona como vocês pensam.&lt;/p&gt;
+
+&lt;p&gt;Ele funciona do ponto de vista do empregador: um “Engenheiro de Software 10x” gera um valor 10 vezes maior do que o que o empregador paga. Isso significa que se ela ou ele ganha 100 KCHF por ano, ela ou ele está na verdade gerando um valor acima de um milhão de francos. E é claro que &lt;em&gt;eles&lt;/em&gt; ganham os bônus no final do ano fiscal, porque, vocês sabem, capitalismo. Saibam seu valor. Leiam &lt;a href=&#34;http://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684&#34;&gt;Karl Marx&lt;/a&gt; e &lt;a href=&#34;http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X&#34;&gt;Thomas Piketty&lt;/a&gt;. Tenho dito.&lt;/p&gt;
+
+&lt;p&gt;Sigam andando; sejam como o tubarão que continua nadando, porque suas habilidades são extremamente valiosas. Falem seus salários, falem alto, postem sobre isso, para que seus colegas saibam o quanto o trabalho deles vale. As empresas querem que vocês se calem sobre isso para que mulheres recebam 70% do que é pago aos homens. Então falem! Postem sobre isso! Tuítem! Eu estou ganhando 135 KCHF por ano. Esse é meu salário atual. Que tal vocês? E vocês? Quanto mais falarmos, menor será a desigualdade. Qualquer pessoa fazendo meu trabalho com a minha experiência deve ganhar o mesmo dinheiro, independentemente de raça, sexo, idade ou time do coração. Fim de papo. Mas não é assim. Não é.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;A customer walks into a bar. He asks for a beer made out of wine. The project manager agrees. Both question the bartender&amp;#39;s competence.&lt;/p&gt;&amp;mdash; Daniel Méndez (@mendezfe) &lt;a href=&#34;https://twitter.com/mendezfe/status/579559198247260160?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;8-ajudem-os-outros&#34;&gt;&lt;strong&gt;8. Ajudem os outros&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Se vocês são homens brancos, lembrem de todos os privilégios que vocês desfrutaram desde o nascimento simplesmente porque vocês nasceram assim. É sua responsabilidade mudar a indústria e seus preconceitos para gerar mais inclusão social.&lt;/p&gt;
+
+&lt;p&gt;É seu &lt;strong&gt;dever&lt;/strong&gt; ajudar os outros.&lt;/p&gt;
+
+&lt;p&gt;Tomem decisões conscientes na sua vida. Estejam cientes das suas ações e das suas consequências. Não fiquem vermelhos ou envergonhados por mudar suas opiniões. Digam “me desculpe” quando for preciso. Ouçam. Não sejam espertalhões. Tenham integridade e amor-próprio.&lt;/p&gt;
+
+&lt;p&gt;Não critiquem ou tirem sarro das escolhas tecnológicas dos seus colegas, porque outras pessoas terão suas razões para escolhê-las e devem ser respeitadas. Estejam preparados para mudar de ideia a qualquer momento através do aprendizado. Um dia vocês podem gostar de Windows. Um dia vocês podem gostar de Android. Eu mesmo estou gostando de algumas coisas do Android ultimamente. E isso é OK.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/3.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O pônei diz “nada é tão simples como parece no começo, sem solução como parece no meio ou acabado como parece no fim”&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Desirable developer skills:&lt;br&gt;&lt;br&gt;1 Ability to ignore new tools and technologies&lt;br&gt;2 Taste for simplicity &lt;br&gt;3 Good code deletion skills &lt;br&gt;4 Humility&lt;/p&gt;&amp;mdash; David Winterbottom (@codeinthehole) &lt;a href=&#34;https://twitter.com/codeinthehole/status/540117725604216832?ref_src=twsrc%5Etfw&#34;&gt;December 3, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;9-llvm&#34;&gt;&lt;strong&gt;9. LLVM&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Todo mundo está falando sobre Swift, mas na realidade o que eu mais presto atenção nesses dias é o LLVM em si.&lt;/p&gt;
+
+&lt;p&gt;Eu acho que o LLVM é o projeto de software &lt;strong&gt;mais&lt;/strong&gt; importante hoje, considerando seu impacto de longo prazo. Objective-C blocks, Rust &amp;amp; Swift (as duas linguagem de programação fortemente tipadas e compiladas mais amadas na &lt;a href=&#34;http://stackoverflow.com/research/developer-survey-2016&#34;&gt;pesquisa de desenvolvimento do Stack Overflow em 2016&lt;/a&gt;), &lt;a href=&#34;https://github.com/dropbox/pyston&#34;&gt;Dropbox Pyston&lt;/a&gt;, o Clang Static Analyser, ARC, &lt;a href=&#34;https://github.com/google/souper&#34;&gt;Google Souper&lt;/a&gt;, &lt;a href=&#34;https://kripken.github.io/emscripten-site/&#34;&gt;Emscripten&lt;/a&gt;, &lt;a href=&#34;http://llvmsharp.org/&#34;&gt;LLVMSharp&lt;/a&gt;, &lt;a href=&#34;http://www.dotnetfoundation.org/llilc&#34;&gt;Microsoft LLILC&lt;/a&gt;, &lt;a href=&#34;http://www.rubymotion.com/tour/features/&#34;&gt;Rubymotion&lt;/a&gt;, &lt;a href=&#34;http://leaningtech.com/cheerp/&#34;&gt;cheerp&lt;/a&gt;, apps watchOS, o &lt;a href=&#34;https://android.googlesource.com/platform/ndk.git/+/master/CHANGELOG.md&#34;&gt;Android NDK&lt;/a&gt;, &lt;a href=&#34;https://developer.apple.com/metal/&#34;&gt;Metal&lt;/a&gt;, todas essas coisas surgiram ou só foram possíveis pelo LLVM. Há compiladores usando LLVM como backend para praticamente todas as linguagens mais importantes da atualidade. O .NET CLR eventualmente vai &lt;a href=&#34;https://github.com/dotnet/llilc&#34;&gt;interoperar&lt;/a&gt; com ele; o Mono &lt;a href=&#34;http://mono-framework.com/Mono_LLVM&#34;&gt;já usa&lt;/a&gt;. O Facebook &lt;a href=&#34;http://hhvm.com/blog/10205/llvm-code-generation-in-hhvm&#34;&gt;tentou integrar o LLVM com a HHVM&lt;/a&gt; e o WebKit &lt;a href=&#34;https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/&#34;&gt;migrou recentemente seu compilador JavaScript do LLVM para o novo JIT B3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;LLVM é &lt;a href=&#34;http://llvm.org/docs/doxygen/html/classllvm_1_1Triple.html&#34;&gt;multiplataforma&lt;/a&gt;, multiarquitetura de CPU, multilinguagem, multicompilador, multitestado, grátis como a cerveja e livre como os pássaros.&lt;/p&gt;
+
+&lt;p&gt;Aprendam tudo que puderem sobre LLVM. Essa é a galáxia onde a verdadeira inovação está acontecendo agora. Esse é o alicerce dos próximos 20 anos.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/owensd?ref_src=twsrc%5Etfw&#34;&gt;@owensd&lt;/a&gt; Java is 20 years old, C# is 15 - I think it is better to see Swift as a response to that sort of managed language (the next step?)&lt;/p&gt;&amp;mdash; Chris Lattner (@clattner_llvm) &lt;a href=&#34;https://twitter.com/clattner_llvm/status/568128101625933824?ref_src=twsrc%5Etfw&#34;&gt;February 18, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;10-siga-sua-intuição&#34;&gt;&lt;strong&gt;10. Siga sua intuição&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Tive a sensação de que o .NET seria grande quando vi sua &lt;a href=&#34;http://www.zulenet.com/see/BillGatesNET.html&#34;&gt;apresentação em junho de 2000&lt;/a&gt;. Tive a sensação de que o iPhone seria grande quando vi sua &lt;a href=&#34;https://www.youtube.com/watch?v=9hUIxyE2Ns8&#34;&gt;apresentação em 2007&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em ambos os casos as pessoas riram de mim, literalmente. Em ambos os casos eu segui minha intuição e acho que não fui tão mal.&lt;/p&gt;
+
+&lt;p&gt;Sigam sua intuição. Vocês também podem se dar bem.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Follow your heart&lt;br&gt;Follw yur heart&lt;br&gt;Fllw yr hart&lt;br&gt;Fw y art&lt;br&gt;Fart&lt;/p&gt;&amp;mdash; Daniel Kibblesmith ☃️ (@kibblesmith) &lt;a href=&#34;https://twitter.com/kibblesmith/status/534421408575922176?ref_src=twsrc%5Etfw&#34;&gt;November 17, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;11-apis-são-rei&#34;&gt;&lt;strong&gt;11. APIs são rei&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Grandes APIs possibilitam grandes apps. Se a API é um desastre, o app será um desastre também, não importa o quão bonito seja o design.&lt;/p&gt;
+
+&lt;p&gt;Lembrem que “&lt;strong&gt;chunky” é melhor que “chatty”&lt;/strong&gt; (ou seja, é melhor enviar muita informação com pouca frequência que pouca informação com muita frequência) e que clientes devem ser burros; coloquem o máximo de lógica que vocês puderem na API.&lt;/p&gt;
+
+&lt;p&gt;Não inventem seus próprios protocolos de segurança.&lt;/p&gt;
+
+&lt;p&gt;Aprendam algumas tecnologias server-side, e se certifiquem de que Node seja uma delas.&lt;/p&gt;
+
+&lt;p&gt;Deixem o REST de lado e abracem Socket.io, ZeroMQ, RabbitMQ, Erlang, XMPP; encarem realtime como o próximo passo no desenvolvimento de apps. Realtime não é apenas para apps de chat. Tirem o polling da equação para sempre.&lt;/p&gt;
+
+&lt;p&gt;Ah, e comecem a &lt;a href=&#34;http://www.economist.com/news/business-and-finance/21696477-market-apps-maturing-now-one-text-based-services-or-chatbots-looks-poised&#34;&gt;construir bots&lt;/a&gt; sobre essas APIs. Conselho de amigo.&lt;/p&gt;
+
+&lt;h4 id=&#34;12-combatam-a-complexidade&#34;&gt;&lt;strong&gt;12. Combatam a complexidade&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Mais simples é melhor. Lembrem do princípio KISS. E eu não quero dizer apenas na camada de UI, mas em tudo, até as camadas mais profundas do seu código.&lt;/p&gt;
+
+&lt;p&gt;Refactoring, testes unitários, revisões de código, pull requests, todas essas ferramentas estão à sua disposição para garantir que o código que vocês publiquem seja a arquitetura funcional mais simples possível. É assim que se constrói sistemas resilientes de longo prazo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/4.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Um cruzamento britânico com 6 rotatórias e 38 setas&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;Ok, let&amp;#39;s make a rails app&amp;quot;&lt;br&gt;&amp;quot;Oh, I need rails first&amp;quot;&lt;br&gt;&amp;quot;Oh, I need rbenv first&amp;quot;&lt;br&gt;&amp;quot;Oh I need brew&amp;quot;&lt;br&gt;&amp;quot;Oh I need xcode tools&amp;quot;&lt;br&gt;... rage.&lt;/p&gt;&amp;mdash; Matthew Jewell (@mattisfrommars) &lt;a href=&#34;https://twitter.com/mattisfrommars/status/558373483798073344?ref_src=twsrc%5Etfw&#34;&gt;January 22, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h4 id=&#34;conclusão&#34;&gt;&lt;strong&gt;Conclusão&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;A coisa mais importante para lembrar é que sua idade não importa.
+&amp;gt; Um dos meus filhos disse para mim “Impossível, papai. Matemáticos fazem todos os seus melhores trabalhos até os 40 anos. E você tem mais de 80. É impossível para você ter uma boa ideia agora.”&amp;gt; Se você ainda estiver mentalmente desperto e alerta quando você tiver mais de 80, você tem a vantagem de ter vivido um longo tempo e ter visto muitas coisas, e você ganha perspectiva. Eu tenho 86 anos agora, e foi nos últimos anos que tive essas ideias. Novas ideias surgem e você pega partes daqui e dali, e agora é a hora propícia de colher, enquanto poderiam não estar maduras cinco ou 10 anos atrás.&amp;gt; &lt;a href=&#34;http://www.wired.com/2016/04/mathematical-matchmaker-michael-atiyah-dreams-quantum-union/&#34;&gt;Michael Atiyah&lt;/a&gt;, matemático ganhador da Medalha Fields e do Prêmio Abel, citado em um artigo da Wired.&lt;/p&gt;
+
+&lt;p&gt;Enquanto seus corações lhe disserem para continuar codificando e construindo novas coisas, vocês serão jovens, para sempre.&lt;/p&gt;
+
+&lt;p&gt;Em 2035, exatamente daqui a 19 anos, alguém vai dar uma palestra em uma conferência de software parecida com essa, começando assim:&lt;/p&gt;
+
+&lt;p&gt;“Olá, eu tenho 42 anos, e esta é a minha história.”&lt;/p&gt;
+
+&lt;p&gt;Tomara que seja um de vocês dando essa palestra; caso contrário, será um bot com inteligência artificial. Vocês darão alguns fatos curiosos sobre 2016, como, por exemplo, que esse foi o ano em que morreram &lt;a href=&#34;https://en.wikipedia.org/wiki/David_Bowie&#34;&gt;David Bowie&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Umberto_Eco&#34;&gt;Umberto Eco&lt;/a&gt;, &lt;a href=&#34;https://en.m.wikipedia.org/wiki/Gato_Barbieri&#34;&gt;Gato Barbieri&lt;/a&gt; e &lt;a href=&#34;https://en.wikipedia.org/wiki/Johan_Cruyff&#34;&gt;Johan Cruyff&lt;/a&gt;, ou que o SQL Server foi &lt;a href=&#34;https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/&#34;&gt;disponibilizado para Linux&lt;/a&gt;, ou que o &lt;a href=&#34;https://www.wikiwand.com/en/AlphaGo&#34;&gt;Google AlphaGo&lt;/a&gt; bateu um campeão de Go, ou que os &lt;a href=&#34;http://panamapapers.sueddeutsche.de/en/&#34;&gt;Papéis do Panamá&lt;/a&gt; e o &lt;a href=&#34;http://185.100.87.84/&#34;&gt;Turkish Citizenship Database&lt;/a&gt; foram vazados no mesmo dia, ou que o &lt;a href=&#34;http://www.macrumors.com/2016/04/07/google-possibly-adopting-swift-for-android/&#34;&gt;Google considerou usar Swift para o Android pela primeira vez&lt;/a&gt;, ou que foi o último ano no qual as pessoas aproveitaram essa coisa inútil chamada privacidade.&lt;/p&gt;
+
+&lt;p&gt;Nós estaremos a três anos do &lt;a href=&#34;https://www.wikiwand.com/en/Year_2038_problem&#34;&gt;Problema do Ano 2038&lt;/a&gt; e pessoas ficarão bem nervosas com isso.&lt;/p&gt;
+
+&lt;p&gt;É claro que eu não sei o que acontecerá daqui a 19 anos, mas eu posso dizer a vocês três coisas que acontecerão com certeza:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Alguém vai perguntar no Stack Overflow como filtrar endereços de email usando expressões regulares.&lt;/li&gt;
+&lt;li&gt;Alguém vai lançar um novo framework JavaScript.&lt;/li&gt;
+&lt;li&gt;Alguém vai construir alguma coisa legal usando LLVM.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;E talvez vocês lembrem dessa palestra com um sorriso.&lt;/p&gt;
+
+&lt;p&gt;Muito obrigado pela atenção.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

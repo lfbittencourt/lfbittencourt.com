@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LF Bittencourt</title>
+    <link>https://lfbittencourt.com/</link>
+    <description>Recent content on LF Bittencourt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 27 Oct 2017 12:40:46 +0000</lastBuildDate>
+    
+        <atom:link href="https://lfbittencourt.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://lfbittencourt.com/posts/</link>
+      <pubDate>Fri, 27 Oct 2017 12:40:46 +0000</pubDate>
+      
+      <guid>https://lfbittencourt.com/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alem-do-codigos</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/</link>
+      <pubDate>Wed, 31 May 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

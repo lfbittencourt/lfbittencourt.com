@@ -1,0 +1,1075 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alem-do-codigos on LF Bittencourt</title>
+    <link>https://lfbittencourt.com/alem-do-codigo/</link>
+    <description>Recent content in Alem-do-codigos on LF Bittencourt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 31 May 2017 10:00:00 -0300</lastBuildDate>
+    
+        <atom:link href="https://lfbittencourt.com/alem-do-codigo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O fim do código</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/o-fim-do-codigo/</link>
+      <pubDate>Wed, 31 May 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/o-fim-do-codigo/</guid>
+      <description>
+
+&lt;p&gt;A indústria da tecnologia muda todos os dias e exige atualização. Seu framework favorito, a linguagem de programação que você domina, suas ferramentas — tudo pode ficar velho do dia para a noite.&lt;/p&gt;
+
+&lt;p&gt;Por outro lado, a programação em si não teve mudanças drásticas nas últimas décadas. Nosso melhor código ainda tem ares de C, mas esse cenário pode estar com os dias contados.&lt;/p&gt;
+
+&lt;p&gt;Com o aprendizado de máquina, programadores poderão deixar de ser criadores onipotentes para se tornarem algo como pais ou treinadores de cachorro. Será, no mínimo, interessante.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;logo-não-programaremos-computadores-nós-os-treinaremos-como-cachorros-https-www-wired-com-2016-05-the-end-of-code&#34;&gt;&lt;a href=&#34;https://www.wired.com/2016/05/the-end-of-code&#34;&gt;Logo não programaremos computadores. Nós os treinaremos como cachorros&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Vivemos um “determinismo baseado em regras, um senso de que as coisas são produto de suas instruções fundamentais. O aprendizado de máquina sugere o contrário, uma visão de fora para dentro em que código não determina sozinho comportamento, mas comportamento também determina código”.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-impacto-que-o-github-está-tendo-na-sua-carreira-agora-mesmo-https-medium-com-sitapati-the-impact-github-is-having-on-your-software-career-right-now-6ce536ec0b50&#34;&gt;&lt;a href=&#34;https://medium.com/@sitapati/the-impact-github-is-having-on-your-software-career-right-now-6ce536ec0b50&#34;&gt;O impacto que o GitHub está tendo na sua carreira agora mesmo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esse post mostra como trabalhar em projetos de código aberto pode ser um grande diferencial de carreira. A ideia básica é criar uma “reputação portátil” e não depender somente das contribuições feitas aos repositórios privados da empresa para a qual você trabalha — temporariamente.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-ensinamos-dezenas-de-refugiados-a-programar-e-então-os-ajudamos-a-conseguir-vagas-de-desenvolvedor-https-medium-freecodecamp-com-how-we-taught-dozens-of-refugees-to-code-then-helped-them-get-developer-jobs-fd37036c13b0-gi-5e34f2781800&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/how-we-taught-dozens-of-refugees-to-code-then-helped-them-get-developer-jobs-fd37036c13b0?gi=5e34f2781800&#34;&gt;Como ensinamos dezenas de refugiados a programar e então os ajudamos a conseguir vagas de desenvolvedor&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Conheça a belíssima história do &lt;a href=&#34;http://hackyourfuture.net/&#34;&gt;HackYourFuture&lt;/a&gt;, um projeto nascido na Holanda que ensina programação a refugiados nos até 18 meses em que eles vivem em acampamentos provisórios esperando por asilo.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-preço-psicológico-do-empreendedorismo-https-jornaldoempreendedor-com-br-destaques-inspiracao-o-preco-psicologico-do-empreendedorismo&#34;&gt;&lt;a href=&#34;https://jornaldoempreendedor.com.br/destaques/inspiracao/o-preco-psicologico-do-empreendedorismo/&#34;&gt;O preço psicológico do empreendedorismo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;É ótimo olhar para os unicórnios do Vale do Silício, mas não dá para ignorar o lado (infelizmente) mais provável da jornada empreendedora: “é hora de ser honesto sobre como isso pode ser brutal”.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-mítico-desenvolvedor-full-stack-https-dev-to-evgenyk-a-mythical-full-stack-developer&#34;&gt;&lt;a href=&#34;https://dev.to/evgenyk/a-mythical-full-stack-developer&#34;&gt;O mítico desenvolvedor full stack&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Artigo curtinho, direto ao ponto. Ser um desenvolvedor de “pilha cheia/completa” depende er… de que pilha, exatamente, estamos falando. O autor defende que evoluir na arte de descobrir rapidamente o que é necessário é mais importante do que se enquadrar nessa ou naquela caixinha.&lt;/p&gt;
+
+&lt;h2 id=&#34;diretrizes-para-construir-softwares-que-farão-pessoas-lhe-odiarem-https-hackernoon-com-guidelines-for-building-software-that-will-make-people-hate-you-23049d7209af-gi-b4c78ac0a367&#34;&gt;&lt;a href=&#34;https://hackernoon.com/guidelines-for-building-software-that-will-make-people-hate-you-23049d7209af?gi=b4c78ac0a367&#34;&gt;Diretrizes para construir softwares que farão pessoas lhe odiarem&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Um prato cheio para quem gosta de ironia. TL;DR: “se você não construir coisas que as pessoas precisam e não ajudá-las, haverá ódio”.&lt;/p&gt;
+
+&lt;p&gt;Você faz freelances? Já ficou sem receber por um trabalho? Hora de relembrar do velho e sempre ótimo &lt;a href=&#34;http://www.paguemeufreela.com.br/&#34;&gt;Pague Meu Freela&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#6e0f0a0d2e02080c071a1a0b000d011b1c1a400d0103511d1b0c040b0d1a533d1b090b1d1a4b2d5d4b2f5d014b5c5e0a0b4b5c5e0f1c1a070901480f031e551b1a03310d0f031e0f070900532f024b2d5d4b2f57034b5c5e0a014b5c5e2d4b2d5d4b2c5d0a070901480f031e551b1a0331030b0a071b03530b030f0702480f031e551b1a03311d011b1c0d0b533c0b181b0b4b5c5e000b191d020b1a1a0b1c&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🔮&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Como eu aprendi a programar</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/como-eu-aprendi-a-programar/</link>
+      <pubDate>Wed, 24 May 2017 10:00:18 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/como-eu-aprendi-a-programar/</guid>
+      <description>
+
+&lt;p&gt;Chateado com a situação política do país, um amigo disse há alguns dias que seria melhor colocarmos um supercomputador no poder. Parece ficção científica, mas os algoritmos já estão decidindo quais propagandas devemos ver e muitas outras coisas completamente sozinhos.&lt;/p&gt;
+
+&lt;p&gt;Deixo aqui a mesma provocação que fiz a ele: se esses sistemas são treinados por nós, humanos cheios de preconceito, até que ponto essas decisões são justas?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;como-eu-aprendi-a-programar-https-lfbittencourt-com-como-eu-aprendi-a-programar-22126b49cc32-gi-d7e23ee3ed2a&#34;&gt;&lt;a href=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32?gi=d7e23ee3ed2a&#34;&gt;Como eu aprendi a programar&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esse post é uma transcrição da minha palestra no 19º Encontro Locaweb. Nele eu conto porque decidi recontar minha própria história profissional de forma menos heroica e mais realista e o que isso tem a ver com o futuro da computação.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-não-usamos-um-framework-estudo-de-caso-https-www-smashingmagazine-com-2017-05-why-no-framework&#34;&gt;&lt;a href=&#34;https://www.smashingmagazine.com/2017/05/why-no-framework/&#34;&gt;Por que não usamos um framework (estudo de caso)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Uma etapa bem comum na definição da &lt;em&gt;stack&lt;/em&gt; tecnológica de um projeto é a escolha do(s) framework(s). Esse artigo mostra como a MeetSpace fez justamente o contrário, construindo sua plataforma de videoconferência sem nenhum framework frontend ou backend.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-um-desenvolvedor-cego-usa-o-visual-studio-https-www-youtube-com-watch-feature-youtu-be&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?feature=youtu.be&#34;&gt;Como um desenvolvedor cego usa o Visual Studio&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Ver um desenvolvedor cego programando com a ajuda de um leitor de tela é motivo suficiente para você assistir esse vídeo, mas Saqib Shaikh vai além e conta como pequenas melhorias no Visual Studio o tornaram muito mais produtivo.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-somos-tão-hipócritas-sobre-privacidade-online-https-hbr-org-2017-05-why-were-so-hypocritical-about-online-privacy&#34;&gt;&lt;a href=&#34;https://hbr.org/2017/05/why-were-so-hypocritical-about-online-privacy&#34;&gt;Por que somos tão hipócritas sobre privacidade online&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Estamos cada vez mais cientes da vigilância online das grandes plataformas “grátis” e sabemos que elas estão compilando um grande perfil de cada um de nós. Mesmo assim, vivemos o paradoxo da privacidade e não nos importamos de pagá-las com nossos dados pessoais. Por quê?&lt;/p&gt;
+
+&lt;h2 id=&#34;conheça-as-pessoas-que-treinam-os-robôs-para-fazerem-seu-próprio-trabalho-https-www-nytimes-com-2017-04-28-technology-meet-the-people-who-train-the-robots-to-do-their-own-jobs-html-r-0&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/2017/04/28/technology/meet-the-people-who-train-the-robots-to-do-their-own-jobs.html?_r=0&#34;&gt;Conheça as pessoas que treinam os robôs (para fazerem seu próprio trabalho)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Os robôs do futuro precisam ser treinados antes de se tornarem suficientemente inteligentes. Esse artigo é sobre os treinadores, profissionais que estão procurando formas de ficarem mais competitivos e valiosos a medida em que os sistemas vão ficando mais inteligentes.&lt;/p&gt;
+
+&lt;h2 id=&#34;melinda-gates-e-fei-fei-li-querem-liberar-a-inteligência-artificial-de-caras-com-cangurus-https-backchannel-com-melinda-gates-and-fei-fei-li-want-to-liberate-ai-from-guys-with-hoodies-17f058889a4c-gi-737262efa38b&#34;&gt;&lt;a href=&#34;https://backchannel.com/melinda-gates-and-fei-fei-li-want-to-liberate-ai-from-guys-with-hoodies-17f058889a4c?gi=737262efa38b&#34;&gt;Melinda Gates e Fei-Fei Li querem liberar a inteligência artificial de &amp;ldquo;caras com cangurus&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Falando em treinadores, um projeto chamado &lt;a href=&#34;http://ai-4-all.org/&#34;&gt;AI4ALL&lt;/a&gt; quer garantir que os robôs não aprendam a partir de um único ponto de vista, pois há um grande risco de que essa construção os faça representar apenas uma parte da sociedade. Diversidade é fundamental para que esses sistemas não reproduzam nossos próprios vieses.&lt;/p&gt;
+
+&lt;h2 id=&#34;não-deixe-o-facebook-fazer-você-se-sentir-miserável-https-www-nytimes-com-2017-05-06-opinion-sunday-dont-let-facebook-make-you-miserable-html-r-0&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/2017/05/06/opinion/sunday/dont-let-facebook-make-you-miserable.html?_r=0&#34;&gt;Não deixe o Facebook fazer você se sentir miserável&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nesse artigo, o economista Seth Stephens-Davidowitz apresenta vários números que escancaram a discrepância entre a vida real e a vida que ostentamos nas redes sociais. Preste atenção especial às diferenças de &lt;em&gt;autocomplete&lt;/em&gt; entre o Facebook e o Google. O autor, aliás, escreveu um livro sugestivo: &lt;a href=&#34;https://www.harpercollins.com/9780062390851/everybody-lies&#34;&gt;Todo Mundo Mente&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#54353037143832363d2020313a373b2126207a373b396b2721363e313720690721333127207117677115673b71666430317166643526203d333b723539246f2120390b37353924353d333a69153871176771156d39716664303b71666417711767711667303d333b723539246f2120390b3931303d2139693139353d38723539246f2120390b273b212637316906312221317166643a312327383120203126&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🧀&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>COBOL, MVP, ransomware &amp; culpa</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/cobol-mvp-ransomware-culpa/</link>
+      <pubDate>Wed, 17 May 2017 10:00:02 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/cobol-mvp-ransomware-culpa/</guid>
+      <description>
+
+&lt;p&gt;Chegamos à vigésima edição da Além do Código 🙌&lt;/p&gt;
+
+&lt;p&gt;Muito obrigado pelo apoio e boa leitura!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;cobol-está-em-toda-parte-quem-irá-mantê-la-https-thenewstack-io-cobol-everywhere-will-maintain&#34;&gt;&lt;a href=&#34;https://thenewstack.io/cobol-everywhere-will-maintain&#34;&gt;COBOL está em toda parte. Quem irá mantê-la?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;COBOL foi desenhada por ninguém menos do que Grace Hopper, tem 58 anos e cerca de 220 bilhões de linhas de código espalhadas pelo mundo. Migrações custam caro (em dólares e anos) e os negócios de muitas empresas dependem completamente da linguagem e dos poucos programadores que a dominam.&lt;/p&gt;
+
+&lt;h2 id=&#34;até-logo-mvp-olá-minimum-loveable-product-https-medium-com-the-happy-startup-school-beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c&#34;&gt;&lt;a href=&#34;https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c&#34;&gt;Até logo, MVP. Olá, Minimum Loveable Product&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Produto Viável Mínimo é um conceito popularizado no livro &lt;a href=&#34;http://www.buscape.com.br/a-startup-enxuta-como-os-empreendedores-atuais-utilizam-a-inovacao-eric-ries-8581780040&#34;&gt;A Startup Enxuta&lt;/a&gt; que significa, basicamente, o menor produto possível para validar uma ideia de negócio. A ideia do Produto &lt;strong&gt;Amável&lt;/strong&gt; Mínimo é evitar que boas ideias sejam descartadas porque o protótipo é muito pobre.&lt;/p&gt;
+
+&lt;h2 id=&#34;trabalhei-muito-dormi-pouco-comi-mal-e-me-sinto-diariamente-culpado-http-emais-estadao-com-br-blogs-ruth-manus-trabalhei-muito-dormi-pouco-comi-mal-e-me-sinto-diariamente-culpado&#34;&gt;&lt;a href=&#34;http://emais.estadao.com.br/blogs/ruth-manus/trabalhei-muito-dormi-pouco-comi-mal-e-me-sinto-diariamente-culpado/&#34;&gt;Trabalhei muito, dormi pouco, comi mal e me sinto diariamente culpado&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;“Entramos numa lógica cruel que funciona mais ou menos assim: praticamente não importa o que a gente fez de bom, só importa aquilo que ficou faltando. Tudo o que ficou faltando, grita dentro da nossa cabeça como se estivesse escrito em caixa alta”. Em uma indústria conhecida pelo burnout, vale a leitura.&lt;/p&gt;
+
+&lt;h2 id=&#34;herói-acidental-quem-parou-o-ataque-do-ransomware-wannacrypt-http-www-techtudo-com-br-noticias-2017-05-heroi-acidental-quem-parou-o-ataque-do-ransomware-wannacrypt-ghtml&#34;&gt;&lt;a href=&#34;http://www.techtudo.com.br/noticias/2017/05/heroi-acidental-quem-parou-o-ataque-do-ransomware-wannacrypt.ghtml&#34;&gt;Herói acidental? Quem &amp;lsquo;parou&amp;rsquo; o ataque do ransomware WannaCrypt&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Na sexta-feira passada, um ransomware chamado WannaCrypt se espalhou através de 45 mil ataques em 74 países, incluindo o Brasil. Só não foi pior porque um britânico de 22 anos descobriu como parar a propagação — sem querer.&lt;/p&gt;
+
+&lt;p&gt;Falando em WannaCrypt, as coisas seriam diferentes se a NSA colaborasse com as empresas para corrigir falhas ao invés de estocá-las em benefício próprio: a brecha explorada pelo ransomware era um dos materiais vazados por hackers em abril.&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#35545156755953575c4141505b565a4047411b565a580a4640575f505641086640525046411076061074065a10070551501007055447415c525a135458450e4041586a56545845545c525b08745910760610740c58100705515a10070576107606107706515c525a135458450e4041586a5850515c4058085058545c59135458450e4041586a465a404756500867504340501007055b504246595041415047&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🚴&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deadlines: desculpa ruim para código ruim</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/deadlines-desculpa-ruim-para-codigo-ruim/</link>
+      <pubDate>Wed, 10 May 2017 10:00:05 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/deadlines-desculpa-ruim-para-codigo-ruim/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Você pode não pensar que programadores são artistas, mas programação é uma profissão extremamente criativa. É criatividade baseada em lógica.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;— John Romero, via &lt;a href=&#34;https://twitter.com/CodeWisdom&#34;&gt;@CodeWisdom&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;deadlines-desculpa-ruim-para-código-ruim-https-blog-mindorks-com-deadlines-bad-reason-for-bad-code-d3d5fe22f3ff-gi-ade8964a2355&#34;&gt;&lt;a href=&#34;https://blog.mindorks.com/deadlines-bad-reason-for-bad-code-d3d5fe22f3ff?gi=ade8964a2355&#34;&gt;Deadlines — Desculpa ruim para código ruim&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;“A maioria dos gerentes quer a verdade, mesmo quando não parece. A maioria dos gerentes quer bom código, mesmo quando estão obcecados com o calendário. Eles podem defender o cronograma e os requisitos com paixão, mas esse é o trabalho deles. O seu é defender o código com a mesma paixão”.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-desenvolver-algo-rápido-e-barato-https-hackernoon-com-how-to-build-it-fast-and-cheap-cffbd21881bc-gi-ed9629688abf&#34;&gt;&lt;a href=&#34;https://hackernoon.com/how-to-build-it-fast-and-cheap-cffbd21881bc?gi=ed9629688abf&#34;&gt;Como desenvolver algo rápido e barato&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se você pensou no triângulo custo-tempo-qualidade, já sabe qual componente ficará de fora, certo? Mas isso não é necessariamente ruim, principalmente em startups. TL;DR: não faça otimizações prematuras e rode protótipos o mais rápido possível (usando as dicas do post). Se eles vingarem, melhore-os.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-instagram-representa-a-morte-do-melhor-que-a-internet-tinha-http-www-mdig-com-br-index-php-itemid-41163&#34;&gt;&lt;a href=&#34;http://www.mdig.com.br/index.php?itemid=41163&#34;&gt;O Instagram representa a morte do melhor que a Internet tinha&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A web foi projetada para ser um espaço colaborativo conectado por links. Uma das maiores plataformas de conteúdo da atualidade, no entanto, não permite links. Será que o Instagram representa o futuro da web, onde a imagem valerá muito mais do que texto? Será que o entretenimento venceu o conteúdo, como na TV?&lt;/p&gt;
+
+&lt;h2 id=&#34;o-facebook-rejeita-o-código-de-engenheiras-mulheres-com-mais-frequência-conclui-análise-https-www-theverge-com-2017-5-2-15517302-facebook-female-engineers-gender-bias-studies-report&#34;&gt;&lt;a href=&#34;https://www.theverge.com/2017/5/2/15517302/facebook-female-engineers-gender-bias-studies-report&#34;&gt;O Facebook rejeita o código de engenheiras mulheres com mais frequência, conclui análise&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O Facebook tem 33% de colaboradoras mulheres, apenas 17% em posições técnicas. O código dessas profissionais é rejeitado 35% mais do que o de seus colegas homens. O trabalho delas é revisado com mais rigor ou, segundo o Facebook, há poucas programadoras seniores. De qualquer forma, é ruim.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-que-líderes-de-negócio-deveriam-saber-sobre-aprendizado-de-máquina-e-ia-https-www-theguardian-com-media-network-2016-oct-05-business-leaders-know-machine-learning-artificial-intelligence&#34;&gt;&lt;a href=&#34;https://www.theguardian.com/media-network/2016/oct/05/business-leaders-know-machine-learning-artificial-intelligence&#34;&gt;O que líderes de negócio deveriam saber sobre aprendizado de máquina e IA&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Apesar do título, acho que todos nós podemos tirar algumas lições importantes daqui. Se você tem interesse em inteligência artificial, reserve um tempo — esse artigo é um complemento interessante aos aspectos técnicos do tema.&lt;/p&gt;
+
+&lt;p&gt;Quer ganhar 55 mil dólares? É muito simples: basta fazer um código da Nasa escrito em Fortran &lt;a href=&#34;https://www.bbc.com/news/technology-39803425&#34;&gt;rodar 10.000 vez mais rápido&lt;/a&gt;. Bora?&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#1b7a7f785b777d79726f6f7e7578746e696f3578747624686e79717e786f26486e7c7e686f3e58283e5a28743e292b7f7e3e292b7a696f727c743d7a766b206e6f7644787a766b7a727c75265a773e58283e5a22763e292b7f743e292b583e58283e59287f727c743d7a766b206e6f7644767e7f726e76267e767a72773d7a766b206e6f764468746e69787e26497e6d6e7e3e292b757e6c68777e6f6f7e69&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 💰&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Por que você deveria ter (pelo menos) duas carreiras</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/por-que-voce-deveria-ter-pelo-menos-duas-carreiras/</link>
+      <pubDate>Wed, 03 May 2017 10:00:03 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/por-que-voce-deveria-ter-pelo-menos-duas-carreiras/</guid>
+      <description>
+
+&lt;p&gt;Estou escrevendo essa introdução da &lt;a href=&#34;https://www.wikiwand.com/pt/Cachoeira_do_Sul&#34;&gt;minha cidade natal, no interior do Rio Grande do Sul&lt;/a&gt;. Meu plano de dados não funciona e meu notebook não passa de uma grande máquina de escrever. Efeitos da nuvem.&lt;/p&gt;
+
+&lt;p&gt;De certa forma, gosto desse choque de realidades. Me faz pensar em quanta gente ainda depende de conexões precárias e se minhas aplicações funcionam nessas condições.&lt;/p&gt;
+
+&lt;p&gt;Às vezes é preciso sair da nossa bolha de monitores gigantes e banda larga e se colocar no lugar dos usuários. Literalmente.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;por-que-você-deveria-ter-pelo-menos-duas-carreiras-https-hbr-org-2017-04-why-you-should-have-at-least-two-careers&#34;&gt;&lt;a href=&#34;https://hbr.org/2017/04/why-you-should-have-at-least-two-careers&#34;&gt;Por que você deveria ter (pelo menos) duas carreiras&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Kabir Sehgal está certo de que uma segunda carreira não tirará seu foco. Segundo ele, acontecerá o contrário: você se sentirá muito mais realizado, fará novos amigos e essa interdisciplinaridade poderá gerar inovação de verdade. Se pensarmos que o computador nasceu de um tear, faz sentido.&lt;/p&gt;
+
+&lt;h2 id=&#34;empregados-de-tecnologia-pedem-demissão-principalmente-por-causa-de-ambientes-de-trabalho-injustos-diz-estudo-https-techcrunch-com-2017-04-27-tech-employees-quit-their-jobs-mostly-because-of-unfair-work-environments-study-says&#34;&gt;&lt;a href=&#34;https://techcrunch.com/2017/04/27/tech-employees-quit-their-jobs-mostly-because-of-unfair-work-environments-study-says/&#34;&gt;Empregados de tecnologia pedem demissão principalmente por causa de ambientes de trabalho injustos, diz estudo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Um estudo concluiu que as quatro maiores causas de pedidos de demissão na tecnologia são práticas injustas de gestão de pessoas, estereotipagem, assédio sexual e bullying/hostilidade. Para ver o problema sob um outro ponto de vista, aqui vai a fatura: 16 bilhões de dólares de prejuízo todos os anos.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-primeira-linguagem-que-todo-programador-deve-aprender-https-www-youtube-com-watch&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch&#34;&gt;A primeira linguagem que todo programador deve aprender&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Saiu na semana passada o vídeo da minha talk no último RSJS. Aproveitei a oportunidade para falar sobre &lt;strong&gt;inglês&lt;/strong&gt;. Há um punhado de exemplos onde saber a língua franca da tecnologia faz uma grande diferença, de situações do dia-a-dia a oportunidades de carreira. Se você prefere ler, &lt;a href=&#34;https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26&#34;&gt;aqui está a versão em prosa&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;as-cidades-high-tech-do-futuro-serão-completamente-solitárias-https-theweek-com-articles-689527-hightech-cities-future-utterly-lonely&#34;&gt;&lt;a href=&#34;https://theweek.com/articles/689527/hightech-cities-future-utterly-lonely&#34;&gt;As cidades high-tech do futuro serão completamente solitárias?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você já reparou que os smartphones estão fazendo com que espaços de convivência como o café virem espaços de isolamento mútuo? Se isso é só a ponta do iceberg em direção às cidades inteligentes, fica a questão: será que tanta tecnologia será suficiente para satisfazer nossas necessidades sociais?&lt;/p&gt;
+
+&lt;h2 id=&#34;sql-tem-43-anos-aqui-estão-as-8-razões-pelas-quais-ainda-a-usamos-hoje-http-blog-sqlizer-io-posts-sql-43&#34;&gt;&lt;a href=&#34;http://blog.sqlizer.io/posts/sql-43/&#34;&gt;SQL tem 43 anos — aqui estão as 8 razões pelas quais ainda a usamos hoje&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Depois de dissecarmos &lt;a href=&#34;https://alemdocodigo.com.br/issues/aprenda-a-dizer-nao-51728&#34;&gt;por que a linguagem de programação C ainda move o mundo&lt;/a&gt;, chegou a vez de falarmos de outra vovó: a SQL. Depois de tanto tempo, por que ela ainda reina quando o assunto é banco de dados? TL;DR: ela simplesmente funciona e é muito, muito boa no que faz.&lt;/p&gt;
+
+&lt;h2 id=&#34;coletando-dados-comece-com-por-quê-https-www-grok-interactive-com-blog-data-start-with-why&#34;&gt;&lt;a href=&#34;https://www.grok-interactive.com/blog/data-start-with-why/&#34;&gt;Coletando dados? Comece com &amp;ldquo;Por quê?&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Como programador ou programadora, &lt;a href=&#34;https://alemdocodigo.com.br/issues/o-codigo-que-voce-escreve-pode-matar-pessoas-48467&#34;&gt;você é a “última linha de defesa contra práticas potencialmente perigosas e antiéticas”&lt;/a&gt;. Se o software que você escreve coleta dados pessoais dos seus usuários, garanta que essas informações sejam 1) realmente necessárias e 2) tratadas com o devido cuidado.&lt;/p&gt;
+
+&lt;p&gt;Por fim, a piada pronta da semana: reza a lenda que &lt;a href=&#34;http://www.infomoney.com.br/carreira/emprego/noticia/6418517/programador-passou-seis-anos-fingindo-trabalhar-ganhando-mil-por-mes&#34;&gt;um programador passou seis anos fingindo trabalhar&lt;/a&gt; e só então foi pego e demitido.&lt;/p&gt;
+
+&lt;p&gt;Não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#e6878285a68a80848f929283888589939492c885898bd99593848c838592dbb59381839592c3a5d5c3a7d589c3d4d68283c3d4d68794928f8189c0878b96dd93928bb985878b96878f8188dba78ac3a5d5c3a7df8bc3d4d68289c3d4d6a5c3a5d5c3a4d5828f8189c0878b96dd93928bb98b83828f938bdb838b878f8ac0878b96dd93928bb9958993948583dbb483909383c3d4d6888391958a8392928394&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🍒&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Desenvolvimento Orientado a Modinha</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/desenvolvimento-orientado-a-modinha/</link>
+      <pubDate>Wed, 26 Apr 2017 10:00:00 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/desenvolvimento-orientado-a-modinha/</guid>
+      <description>
+
+&lt;p&gt;Mais cedo ou mais tarde, acho eu, todo programador chega à mesma conclusão: é impossível acompanhar a evolução da tecnologia. Tentar ficar a par de todas as atualizações é uma missão fadada à frustração.&lt;/p&gt;
+
+&lt;p&gt;Já que nosso tempo é limitado, como distinguir o que é modinha e o que realmente vale a pena acompanhar? É uma linha tênue, e o que é hype para você pode ser a solução perfeita para outra pessoa.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;desenvolvimento-orientado-a-modinha-https-blog-daftcode-pl-hype-driven-development-3469fc2e9b22-gi-89d0fa8183b2&#34;&gt;&lt;a href=&#34;https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22?gi=89d0fa8183b2&#34;&gt;Desenvolvimento Orientado a Modinha&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Programadores adeptos do Hype Driven Development adotam novas tecnologias como React, microserviços e NoSQL pelo &lt;em&gt;buzz&lt;/em&gt;, não necessariamente por acelerar de fato o desenvolvimento. Post um pouco amargo e bastante polêmico — leia com calma e tire suas próprias conclusões.&lt;/p&gt;
+
+&lt;h2 id=&#34;isso-escala-quem-se-importa-https-jacquesmattheij-com-does-it-scale-who-cares&#34;&gt;&lt;a href=&#34;https://jacquesmattheij.com/does-it-scale-who-cares&#34;&gt;Isso escala? Quem se importa!&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se preocupar demais com possíveis problemas de escala pode ser sinal de algo bem mais preocupante: um modelo de negócios frágil. “Se certifique de conseguir os visitantes certos ao invés de quaisquer visitantes e mantenha um olho no funil”. Ótimo para os muitos programadores que são fundadores técnicos de startups.&lt;/p&gt;
+
+&lt;h2 id=&#34;falhas-épicas-11-infames-bugs-de-software-https-www-computerworld-com-article-2515483-enterprise-applications-epic-failures-11-infamous-software-bugs-html&#34;&gt;&lt;a href=&#34;https://www.computerworld.com/article/2515483/enterprise-applications/epic-failures--11-infamous-software-bugs.html&#34;&gt;Falhas épicas: 11 infames bugs de software&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Há bugs cobrindo o telhado / Embaixo do meu travesseiro / Há bugs por todos os lados / Há bugs em tudo o que eu vejo&lt;/em&gt;. Depois de ver essa lista, você nunca mais publicará software sem testá-lo exaustivamente. São falhas que atraíram publicidade negativa, custaram bilhões de dólares e, infelizmente, até mataram pessoas.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-aprender-a-programar-é-como-estar-sozinho-em-marte-https-kasperfred-com-posts-how-learning-to-program-is-like-being-alone-on-mars&#34;&gt;&lt;a href=&#34;https://kasperfred.com/posts/how-learning-to-program-is-like-being-alone-on-mars/&#34;&gt;Como aprender a programar é como estar sozinho em Marte&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Com vocês, o &lt;strong&gt;Método Mark Watney&lt;/strong&gt;: manter um grande objetivo em mente e trabalhar em tarefas menores e mais fáceis de gerenciar aumenta drasticamente suas chances de completar um projeto — seja aprender uma linguagem de programação ou sobreviver. PS: contém spoilers de &lt;a href=&#34;https://www.imdb.com/title/tt3659388/&#34;&gt;Perdido em Marte&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-que-fazer-quando-seus-colegas-ficam-indiferentes-e-não-confiáveis-https-hackernoon-com-what-to-do-when-your-teammates-become-dispassionate-and-unreliable-95756a734eef-gi-f9302827912b&#34;&gt;&lt;a href=&#34;https://hackernoon.com/what-to-do-when-your-teammates-become-dispassionate-and-unreliable-95756a734eef?gi=f9302827912b&#34;&gt;O que fazer quando seus colegas ficam indiferentes e não confiáveis&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você começa um projeto empolgadíssimo, com infinitas possibilidades de criar e muitas coisas a aprender. Com o passar das semanas, surgem pedras no caminho e o entusiasmo diminui. Seja você programador ou gerente, saiba o que mudar no ambiente e na condução do projeto para evitar esse caminho perigoso.&lt;/p&gt;
+
+&lt;p&gt;Para fecharmos com bom humor, veja &lt;a href=&#34;https://toggl.com/programming-princess&#34;&gt;como salvar a princesa em 8 linguagens de programação&lt;/a&gt;. Se você gosta de PHP, melhor não clicar. 👸&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#69080d0a29050f0b001d1d0c070a061c1b1d470a0604561a1c0b030c0a1d543a1c0e0c1a1d4c2a5a4c285a064c5b590d0c4c5b59081b1d000e064f080419521c1d04360a08041908000e075428054c2a5a4c2850044c5b590d064c5b592a4c2a5a4c2b5a0d000e064f080419521c1d0436040c0d001c04540c040800054f080419521c1d04361a061c1b0a0c543b0c1f1c0c4c5b59070c1e1a050c1d1d0c1b&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana!&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>40 horas são suficientes</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/40-horas-sao-suficientes/</link>
+      <pubDate>Wed, 19 Apr 2017 10:00:04 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/40-horas-sao-suficientes/</guid>
+      <description>
+
+&lt;p&gt;Em 1928, o economista britânico John Maynard Keynes previu que os avanços tecnológicos fariam com que a carga horária padrão caísse para 15 horas semanais nos 100 anos seguintes.&lt;/p&gt;
+
+&lt;p&gt;Os avanços tecnológicos vieram, mas não tiveram o efeito previsto por Keynes: vivemos um culto ao workaholic.&lt;/p&gt;
+
+&lt;p&gt;Estamos contrariando o bom senso e a ciência.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;40-horas-são-suficientes-https-hackernoon-com-40-hours-is-enough-86d7166911ea-gi-3c60974fe709&#34;&gt;&lt;a href=&#34;https://hackernoon.com/40-hours-is-enough-86d7166911ea?gi=3c60974fe709&#34;&gt;40 horas são suficientes&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Fazer programadores trabalharem 60-80 horas por semana parece absurdo, mas &lt;a href=&#34;http://brianknapp.me/programmer-60-80-hour-weeks/&#34;&gt;é um interesse real em alguns lugares&lt;/a&gt;. Ao invés de deixar pessoas exaustas e infelizes, devemos valorizá-las e nos concentrarmos nos verdadeiros problemas por trás dessa “cultura”. Esse artigo é um ótimo ponto de partida.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-semana-de-trabalho-ideal-de-acordo-com-a-ciência-https-howwegettonext-com-the-ideal-workweek-according-to-science-b706fa2dd687-gi-54b8a717519f&#34;&gt;&lt;a href=&#34;https://howwegettonext.com/the-ideal-workweek-according-to-science-b706fa2dd687?gi=54b8a717519f&#34;&gt;A semana de trabalho ideal, de acordo com a ciência&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Há vários estudos científicos comprovando que as pessoas só conseguem manter-se produtivas durante 4 ou 5 horas por dia, mas as convenções sociais continuam sustentando as tradicionais 40 horas semanais. A tendência tecnológica queridinha do momento pode ser a peça que faltava para forçar essas mudanças.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-amor-nos-tempos-da-criptografia-https-backchannel-com-love-in-the-time-of-cryptography-dd3a74193ffb-gi-b92994e3688d&#34;&gt;&lt;a href=&#34;https://backchannel.com/love-in-the-time-of-cryptography-dd3a74193ffb?gi=b92994e3688d&#34;&gt;O amor nos tempos da criptografia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Essa é uma das histórias mais bonitas que você lerá hoje. Em uma era em que há logs de tudo, ainda há quem prefira as lembranças que sedimentam na nossa memória do que registros precisos. PS: talvez você conheça Quinn Norton do ótimo &lt;a href=&#34;https://www.imdb.com/title/tt3268458/&#34;&gt;The Internet’s Own Boy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;esqueça-programação-precisar-ensinar-nossas-crianças-a-sonhar-https-www-weforum-org-agenda-2017-04-forget-coding-we-need-to-teach-our-kids-how-to-dream&#34;&gt;&lt;a href=&#34;https://www.weforum.org/agenda/2017/04/forget-coding-we-need-to-teach-our-kids-how-to-dream&#34;&gt;Esqueça programação. Precisar ensinar nossas crianças a sonhar&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Semana passada falamos sobre &lt;a href=&#34;https://alemdocodigo.com.br/issues/sobre-desacelerar-cavalos-e-hackers-52773&#34;&gt;como podemos inspirar mais crianças a aprender programação&lt;/a&gt;. Esse artigo vai além: no futuro, relacionamentos, curiosidade, agilidade, criatividade e empatia serão habilidades muito mais importantes do que meramente saber coisas e repeti-las roboticamente.&lt;/p&gt;
+
+&lt;h2 id=&#34;seu-feedback-sempre-será-tendencioso-mas-aqui-está-o-que-fazer-sobre-isso-https-www-fastcompany-com-3068689-your-feedback-will-always-be-biased-but-heres-what-to-do-about-it&#34;&gt;&lt;a href=&#34;https://www.fastcompany.com/3068689/your-feedback-will-always-be-biased-but-heres-what-to-do-about-it&#34;&gt;Seu feedback sempre será tendencioso, mas aqui está o que fazer sobre isso&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A menos que você trabalhe completamente sozinho, é bastante provável que você receba e/ou dê feedback para outras pessoas frequentemente. Nesse artigo, o investidor Rohit Sharma explica por que ser honesto quanto aos fatores que governam nossa opinião é tão importante quanto o feedback em si.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-psicologia-por-trás-do-nosso-vício-no-tetris-https-brasil-elpais-com-brasil-2017-03-28-ciencia-1490715169-569247-html&#34;&gt;&lt;a href=&#34;https://brasil.elpais.com/brasil/2017/03/28/ciencia/1490715169_569247.html&#34;&gt;A psicologia por trás do nosso vício no Tetris&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Já falamos aqui sobre como &lt;a href=&#34;https://alemdocodigo.com.br/issues/a-historia-do-programador-fraudulento-42744&#34;&gt;o design do Super Mario Bros. é uma ótima referência para nossas aplicações&lt;/a&gt; e como &lt;a href=&#34;https://alemdocodigo.com.br/issues/programadores-serao-a-nova-classe-operaria-44975&#34;&gt;o Minecraft está atraindo crianças para os cursos de tecnologia&lt;/a&gt;. Agora é a vez de dissecarmos um clássico: afinal, por que gostamos tanto de empilhar tijolinhos no Tetris?&lt;/p&gt;
+
+&lt;h2 id=&#34;aquela-vez-que-tive-que-quebrar-minha-própria-senha-do-reddit-https-medium-freecodecamp-com-the-time-i-had-to-crack-my-own-reddit-password-a6077c0a13b4-gi-e5c44aaedbbc&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/the-time-i-had-to-crack-my-own-reddit-password-a6077c0a13b4?gi=e5c44aaedbbc&#34;&gt;Aquela vez que tive que quebrar minha própria senha do Reddit&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Haseeb era um programador que perdia muito tempo no Reddit. Um dia, ele começou a mudar sua senha semanalmente para uma sequência aleatória de caracteres e usar um serviço para enviá-la a si mesmo somente aos fins-de-semana. Até o dia em que, por engano, ele agendou o email para 2018.&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#79181d1a39151f1b100d0d1c171a160c0b0d571a1614460a0c1b131c1a0d442a0c1e1c0a0d5c3a4a5c384a165c4b491d1c5c4b49180b0d101e165f181409420c0d14261a18140918101e174438155c3a4a5c3840145c4b491d165c4b493a5c3a4a5c3b4a1d101e165f181409420c0d1426141c1d100c14441c141810155f181409420c0d14260a160c0b1a1c442b1c0f0c1c5c4b49171c0e0a151c0d0d1c0b&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🌞&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sobre desacelerar, cavalos e hackers</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/sobre-desacelerar-cavalos-e-hackers/</link>
+      <pubDate>Wed, 12 Apr 2017 10:00:04 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/sobre-desacelerar-cavalos-e-hackers/</guid>
+      <description>
+
+&lt;p&gt;Os artigos desta edição me fizeram refletir bastante nos últimos dias. Espero que você aproveite a leitura e também consiga traçar paralelos úteis entre eles e seu dia-a-dia.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;slow-the-fuck-down-http-blog-officehours-io-slow-the-fuck-down&#34;&gt;&lt;a href=&#34;http://blog.officehours.io/slow-the-fuck-down/&#34;&gt;Slow the fuck down&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você não tem tempo para nada durante o dia e chega em casa exausto e com a sensação de não ter produzido absolutamente nada. Soa familiar? Respire: esse artigo é para você. Leitura difícil e obrigatória se você não quer sacrificar sua saúde para fazer dinheiro (e então sacrificar dinheiro para recuperar sua saúde).&lt;/p&gt;
+
+&lt;h2 id=&#34;os-carros-salvaram-nossas-cidades-dos-cavalos-http-nautil-us-issue-7-waste-did-cars-save-our-cities-from-horses&#34;&gt;&lt;a href=&#34;http://nautil.us/issue/7/waste/did-cars-save-our-cities-from-horses&#34;&gt;Os carros salvaram nossas cidades dos cavalos?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Gostamos de acreditar que revoluções tecnológicas acontecem de forma rápida e suave, mas essa é a versão da história contada pelos vencedores. Nada acontece sem engenharia social. Assim, será que os &lt;a href=&#34;http://link.estadao.com.br/noticias/geral,tesla-supera-gm-e-se-torna-montadora-americana-mais-valiosa,70001733599&#34;&gt;carros autônomos&lt;/a&gt; são mesmo a solução para a eterna hora do rush das nossas ruas?&lt;/p&gt;
+
+&lt;h2 id=&#34;um-ataque-sem-precedentes-sequestrou-toda-a-operação-online-de-um-banco-brasileiro-https-www-wired-com-2017-04-hackers-hijacked-banks-entire-online-operation&#34;&gt;&lt;a href=&#34;https://www.wired.com/2017/04/hackers-hijacked-banks-entire-online-operation&#34;&gt;Um ataque sem precedentes sequestrou toda a operação online de um banco brasileiro&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esse artigo da Wired foi bastante comentado na semana passada. Ele conta como hackers conseguiram acesso à conta do &lt;strong&gt;Banrisul&lt;/strong&gt; no Registro.br e apontaram todos os domínios do banco para réplicas maliciosas, coletando dados do home banking, caixas eletrônicos e pontos de venda durante toda a tarde do dia 22 de outubro.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-web-parece-uma-merda-https-theoutline-com-post-1165-the-web-looks-like-shit&#34;&gt;&lt;a href=&#34;https://theoutline.com/post/1165/the-web-looks-like-shit&#34;&gt;A web parece uma merda&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Popups &lt;a href=&#34;https://python.sh/2017/3/i-dont-want-to-subscribe-to-your-newsletter&#34;&gt;pedindo seu email antes de mostrar qualquer conteúdo&lt;/a&gt;, sites como a Wired dando piti se você não desligar o adblocker, anúncios de todos os tipos, vídeos que tocam sozinhos, trackers, botões de compartilhamento, conteúdos relacionados. Por que estamos fazendo da web um lugar tão desagradável?&lt;/p&gt;
+
+&lt;h2 id=&#34;como-nós-podemos-inspirar-mais-crianças-a-aprender-uma-linguagem-de-programação-http-codingbasics-net-can-inspire-children-learn-programming-language&#34;&gt;&lt;a href=&#34;http://codingbasics.net/can-inspire-children-learn-programming-language/&#34;&gt;Como nós podemos inspirar mais crianças a aprender uma linguagem de programação&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;“Se uma criança ler as definições atuais de programação e esportes lado a lado, é seguro assumir que ela escolheria esportes em 9 a cada 10 vezes. Nós devemos mudar o estigma que rotula programar como um passatempo nerd e solitário e mostrar às crianças o verdadeiro potencial da programação quando pessoas colaboram entre si e exploram ideias.”&lt;/p&gt;
+
+&lt;p&gt;Para fechar, uma menção tardia mas totalmente necessária: Tim Berners-Lee, o homem que tornou possível a Além do Código e toda a web como conhecemos, ganhou na semana passada o Prêmio Turing, uma espécie de Prêmio Nobel da computação. Justíssimo.&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#3b5a5f587b575d59524f4f5e5558544e494f1558545604484e59515e584f06684e5c5e484f1e78081e7a08541e090b5f5e1e090b5a494f525c541d5a564b004e4f5664585a564b5a525c55067a571e78081e7a02561e090b5f541e090b781e78081e79085f525c541d5a564b004e4f5664565e5f524e56065e565a52571d5a564b004e4f566448544e49585e06695e4d4e5e1e090b555e4c48575e4f4f5e49&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🍂&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aprenda a dizer &#34;não&#34;</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/aprenda-a-dizer-nao/</link>
+      <pubDate>Wed, 05 Apr 2017 10:00:01 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/aprenda-a-dizer-nao/</guid>
+      <description>
+
+&lt;p&gt;Um dos melhores emails que recebi trabalhando no &lt;a href=&#34;http://www.gongo.com.br/&#34;&gt;Gongo&lt;/a&gt; veio de um psicólogo de Santa Catarina:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Eu possuo uma deficiência visual severa e utilizo recursos de acessibilidade para uso do computador, e o sistema é praticamente 90% acessível ao contrário de outros que tive conhecimento. E por esse fato eu recomendo aos meus colegas e principalmente aos colegas que possuem a mesma dificuldade visual que possuo justamente por ser acessível no sentido de usabilidade.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A acessibilidade torna nossas aplicações melhores não apenas para as pessoas com deficiência, mas para todos os usuários. E no caso do Gongo, isso só aconteceu porque os desenvolvedores disseram “não” a quaisquer tentativas de reduzir o foco na acessibilidade.&lt;/p&gt;
+
+&lt;p&gt;Esse email é a prova de que eles estavam certos.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;desenvolvedores-aprendam-a-dizer-não-https-medium-com-akosma-developers-learn-to-say-no-777fe571b38d&#34;&gt;&lt;a href=&#34;https://medium.com/@akosma/developers-learn-to-say-no-777fe571b38d&#34;&gt;Desenvolvedores: aprendam a dizer &amp;ldquo;não&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A cultura da positividade #gratidao faz com que seja cada vez mais difícil dizer “não”, mas às vezes é necessário. Por isso, diga “não” sempre que um gerente pedir por um milagre no triângulo custo-tempo-qualidade. Com sorte, você iniciará uma discussão saudável e o resultado será um software melhor.&lt;/p&gt;
+
+&lt;h2 id=&#34;intervenção-humana-nos-processos-de-acessibilidade-na-web-https-medium-com-reinaldoferraz-interven-c3-a7-c3-a3o-humana-nos-processos-de-acessibilidade-na-web-60870e7accfd&#34;&gt;&lt;a href=&#34;https://medium.com/@reinaldoferraz/interven%C3%A7%C3%A3o-humana-nos-processos-de-acessibilidade-na-web-60870e7accfd&#34;&gt;Intervenção humana nos processos de acessibilidade na web&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Existem cada vez mais ferramentas que nos ajudam a verificar os fundamentos básicos de acessibilidade nas nossas aplicações, mas ainda precisamos de pessoas de verdade para tornar nossos sites realmente acessíveis. PS: &lt;a href=&#34;http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm&#34;&gt;acessibilidade em páginas web é obrigatória por lei&lt;/a&gt;, caso você não saiba.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-alexa-da-amazon-pode-ser-sua-amiga-http-digg-com-2017-amazon-alexa-is-not-your-friend&#34;&gt;&lt;a href=&#34;http://digg.com/2017/amazon-alexa-is-not-your-friend&#34;&gt;A Alexa da Amazon pode ser sua amiga?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Desde o primeiro chatbot, criado em 1966, pessoas têm usado assistentes virtuais para amenizar sua solidão. Essa motivação pegou os criadores da Alexa de surpresa, mas eles agiram rápido tornando sua assistente ainda mais habilidosa em causar sentimentos de conforto e intimidade. Lembrou de &lt;a href=&#34;https://www.imdb.com/title/&#34;&gt;Her&lt;/a&gt;? Eu também.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-a-linguagem-de-programação-c-ainda-move-o-mundo-https-www-toptal-com-c-after-all-these-years-the-world-is-still-powered-by-c-programming&#34;&gt;&lt;a href=&#34;https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming&#34;&gt;Por que a linguagem de programação C ainda move o mundo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A linguagem C foi criada para migrar o kernel do UNIX para uma linguagem de alto nível — &lt;strong&gt;há 45 anos&lt;/strong&gt;. Muitas linguagens nasceram desde então, mas o C ainda impera em sistemas operacionais, bancos de dados e até mesmo filmes 3D. Esse post da Toptal explica por que e lista as vantagens de aprender a vovó das linguagens.&lt;/p&gt;
+
+&lt;h2 id=&#34;roteiro-para-virar-um-a-desenvolvedor-a-em-2017-https-github-com-kamranahmedse-developer-roadmap&#34;&gt;&lt;a href=&#34;https://github.com/kamranahmedse/developer-roadmap&#34;&gt;Roteiro para virar um(a) desenvolvedor(a) em 2017&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esse repositório é um ótimo exemplo de que o GitHub é muito mais que um grande depósito de código: um roadmap visual para virar desenvolvedor ou desenvolvedora backend, frontend ou DevOps. Ah, mas você precisa de livros grátis? &lt;a href=&#34;https://github.com/vhf/free-programming-books&#34;&gt;Sem problemas.&lt;/a&gt; Prefere ser full stack? &lt;a href=&#34;https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer&#34;&gt;Aqui está o caminho das pedras.&lt;/a&gt;&lt;a href=&#34;https://github.com/vhf/free-programming-books&#34;&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;algoritmos-na-vida-real-https-medium-com-techbasics-find-the-perfect-spouse-job-and-apartment-949bb447b0c9&#34;&gt;&lt;a href=&#34;https://medium.com/techbasics/find-the-perfect-spouse-job-and-apartment-949bb447b0c9&#34;&gt;Algoritmos na vida real&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se você gosta de problemas matemáticos, esse artigo é um prato cheio: como encontrar sua alma gêmea, o banheiro químico em melhores condições de uso, seu próximo emprego e até o apartamento perfeito usando um único algoritmo. Com vocês, o &lt;strong&gt;Problema da Secretária&lt;/strong&gt; e suas aplicações na vida real.&lt;/p&gt;
+
+&lt;p&gt;Para aliviar a barra da Uber aqui na Além do Código, aqui está uma lista curiosa dos &lt;a href=&#34;https://newsroom.uber.com/uberlostandfoundindex/&#34;&gt;itens mais bizarros esquecidos nos carros da empresa.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#abcacfc8ebc7cdc9c2dfdfcec5c8c4ded9df85c8c4c694d8dec9c1cec8df96f8deccced8df8ee8988eea98c48e999bcfce8e999bcad9dfc2ccc48dcac6db90dedfc6f4c8cac6dbcac2ccc596eac78ee8988eea92c68e999bcfc48e999be88ee8988ee998cfc2ccc48dcac6db90dedfc6f4c6cecfc2dec696cec6cac2c78dcac6db90dedfc6f4d8c4ded9c8ce96f9cedddece8e999bc5cedcd8c7cedfdfced9&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🐻&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimativas de tempo de desenvolvimento não funcionam</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/estimativas-de-tempo-de-desenvolvimento-nao-funcionam/</link>
+      <pubDate>Wed, 29 Mar 2017 10:00:01 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/estimativas-de-tempo-de-desenvolvimento-nao-funcionam/</guid>
+      <description>
+
+&lt;p&gt;Spoiler: essa edição contém russos &lt;strong&gt;e&lt;/strong&gt; gatos. Imperdível.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;por-que-estimativas-de-tempo-de-desenvolvimento-de-software-não-funcionam-e-abordagens-alternativas-http-www-innoarchitech-com-why-software-development-time-estimation-does-not-work-alternative-approaches&#34;&gt;&lt;a href=&#34;http://www.innoarchitech.com/why-software-development-time-estimation-does-not-work-alternative-approaches/&#34;&gt;Por que estimativas de tempo de desenvolvimento de software não funcionam e abordagens alternativas&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se “em 99.99% do tempo, projetos estão atrasados por causa de estimativas incorretas e não por causa de problemas de desenvolvimento”, como definir deadlines e medir progresso sem os conhecidos “chutes” de horas?&lt;/p&gt;
+
+&lt;h2 id=&#34;por-dentro-da-caçada-ao-hacker-mais-notório-da-rússia-https-www-wired-com-2017-03-russian-hacker-spy-botnet&#34;&gt;&lt;a href=&#34;https://www.wired.com/2017/03/russian-hacker-spy-botnet&#34;&gt;Por dentro da caçada ao hacker mais notório da Rússia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Há duas edições vimos que &lt;a href=&#34;https://alemdocodigo.com.br/issues/o-codigo-que-voce-escreve-pode-matar-pessoas-48467&#34;&gt;a tecnologia está na raiz de quase todos os crimes sérios&lt;/a&gt;. Evgeniy Bogachev, por exemplo, é o gênio russo que programou uma &lt;a href=&#34;https://alemdocodigo.com.br/issues/botnet-das-coisas-46610&#34;&gt;botnet&lt;/a&gt; responsável pelo desvio de 100 milhões de dólares. Parece filme de ação sobre a guerra fria, mas é uma história real irresistível de tecnologia usada para o mal.&lt;/p&gt;
+
+&lt;h2 id=&#34;não-consegue-resolver-aquele-problema-de-programação-vá-dormir-ou-dê-uma-caminhada-https-m-signalvnoise-com-cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119-gi-ddd061f6505d&#34;&gt;&lt;a href=&#34;https://m.signalvnoise.com/cant-crack-that-programming-problem-go-to-sleep-or-take-a-walk-930c767e1119?gi=ddd061f6505d&#34;&gt;Não consegue resolver aquele problema de programação? Vá dormir (ou dê uma caminhada)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esse artigo coloca um pouco de ciência sobre o que muita gente já sabe: muitos problemas de programação só são resolvidos após uma boa noite de sono, uma caminhada ou qualquer outra forma de &lt;em&gt;dar um tempo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;uma-retrospectiva-de-carreira-10-anos-trabalhando-em-tecnologia-https-medium-com-sailorhg-a-career-retrospective-10-years-working-in-tech-ea0bf2a29696&#34;&gt;&lt;a href=&#34;https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696&#34;&gt;Uma retrospectiva de carreira — 10 anos trabalhando em tecnologia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Uma década na indústria da tecnologia é tempo suficiente para aprender muitas coisas além de código. No caso de Amy Wibowo, são coisas como trabalhar em projetos completamente diferentes e enfrentar a falta de diversidade — sem perder o encanto pela tecnologia.&lt;/p&gt;
+
+&lt;h2 id=&#34;sendo-programador-depois-dos-40-https-medium-freecodecamp-com-being-a-developer-after-40-3c5dd112210c-gi-454af5bd875a&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c?gi=454af5bd875a&#34;&gt;Sendo programador depois dos 40&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Falando em retrospectivas de carreira, é impossível não citar esse post &lt;strong&gt;sensacional&lt;/strong&gt; de Adrian Kosmaczewski. Ele tem mais de 40, ainda desenvolve software e compilou várias dicas valiosas para ter uma carreira feliz, falando desde hypes até desigualdades no mercado de trabalho. &lt;a href=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445&#34;&gt;Versão pt-BR aqui.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;lições-de-design-thinking-dos-nossos-gatos-https-hackernoon-com-design-thinking-lessons-from-our-cats-9a43fd71457a-gi-5d5643bf9f57&#34;&gt;&lt;a href=&#34;https://hackernoon.com/design-thinking-lessons-from-our-cats-9a43fd71457a?gi=5d5643bf9f57&#34;&gt;Lições de design thinking dos nossos gatos&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Gatos têm muito a nos ensinar, inclusive quando o assunto é resolver problemas. Seja para o design thinking ou mesmo o desenvolvimento de software, são grandes lições com uma dose generosa de bom humor.&lt;/p&gt;
+
+&lt;p&gt;E assim encerramos a edição dessa semana. Como de costume, se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#e4858087a48882868d9090818a878b919690ca878b89db9791868e818790d9b79183819790c1a7d7c1a5d78bc1d6d48081c1d6d48596908d838bc2858994df919089bb87858994858d838ad9a588c1a7d7c1a5dd89c1d6d4808bc1d6d4a7c1a7d7c1a6d7808d838bc2858994df919089bb8981808d9189d98189858d88c2858994df919089bb978b91968781d9b681929181c1d6d48a819397888190908196&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🐾&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pare de dizer que você aprendeu a programar sozinho</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/pare-de-dizer-que-voce-aprendeu-a-programar-sozinho/</link>
+      <pubDate>Wed, 22 Mar 2017 10:00:04 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/pare-de-dizer-que-voce-aprendeu-a-programar-sozinho/</guid>
+      <description>
+
+&lt;p&gt;Outra historieta pessoal: há algum tempo, perguntei a uma fundadora de startup se ela podia dar detalhes técnicos do seu produto, me desculpando antecipadamente se estivesse “pedindo demais”. Ela respondeu:&lt;/p&gt;
+
+&lt;p&gt;— Na verdade, fui eu que escrevi todo o código.&lt;/p&gt;
+
+&lt;p&gt;Sem perceber, sequer considerei a possibilidade de ela ser a programadora, pois fugia ao &lt;a href=&#34;https://alemdocodigo.com.br/issues/o-codigo-que-voce-escreve-pode-matar-pessoas-48467&#34;&gt;estereótipo enraizado nas nossas cabeças&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por isso, repita comigo: toda pessoa pode ser programadora.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;vou-parar-de-dizer-que-aprendi-a-programar-sozinha-aos-10-e-talvez-você-devesse-também-http-www-felienne-com-archives-4932&#34;&gt;&lt;a href=&#34;http://www.felienne.com/archives/4932&#34;&gt;Vou parar de dizer que aprendi a programar sozinha aos 10 e talvez você devesse também&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Histórias de pessoas que aprenderam a programar sozinhas quando ainda eram pré-adolescentes são bastante comuns. De certa forma, isso nos coloca no mesmo grupo de outros talentos “natos” como músicos e atletas. Quando não mencionamos as pessoas que nos ajudaram, porém, outros que não têm o mesmo suporte social podem achar que computação não é pra eles. Repense.&lt;/p&gt;
+
+&lt;h2 id=&#34;pare-de-ficar-tão-surpreso-como-microagressões-reforçam-estereótipos-na-tecnologia-https-modelviewculture-com-pieces-stop-acting-so-surprised-how-microaggressions-enforce-stereotypes-in-tech&#34;&gt;&lt;a href=&#34;https://modelviewculture.com/pieces/stop-acting-so-surprised-how-microaggressions-enforce-stereotypes-in-tech&#34;&gt;Pare de ficar tão surpreso: como microagressões reforçam estereótipos na tecnologia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;“Você não parece um programador” é uma microagressão, mesmo dito em tom de brincadeira. Se o interlocutor já ouviu o bastante, talvez essa seja a gota d&amp;rsquo;água para que ele conclua que não tem o perfil necessário para programar.&lt;/p&gt;
+
+&lt;h2 id=&#34;estamos-quebrando-a-internet-https-www-fastcompany-com-3068627-internet-aws-cloud-centralization&#34;&gt;&lt;a href=&#34;https://www.fastcompany.com/3068627/internet-aws-cloud-centralization&#34;&gt;Estamos quebrando a internet?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A internet foi projetada para ligar computadores ao redor do mundo, mas a popularização da nuvem está recentralizando grandes porções da rede em apenas três plataformas: Amazon, Microsoft e Google. Com as falhas recentes da AWS e da Cloudflare, está na hora de repensar os conceitos de confiabilidade e escalabilidade.&lt;/p&gt;
+
+&lt;h2 id=&#34;conserte-a-internet-escrevendo-coisas-boas-e-sendo-legal-com-as-pessoas-http-blog-vickiboykis-com-2016-11-20-fix-the-internet&#34;&gt;&lt;a href=&#34;http://blog.vickiboykis.com/2016/11/20/fix-the-internet/&#34;&gt;Conserte a internet escrevendo coisas boas e sendo legal com as pessoas&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;E quando é o conteúdo que é centralizado em apenas três plataformas? Facebook, Twitter e Medium são tão grandes que precisam de &lt;em&gt;muito&lt;/em&gt; dinheiro para funcionar, um investimento que obviamente cobra retorno. Por isso, não se iluda: esses serviços priorizam cliques, não necessariamente bom conteúdo.&lt;/p&gt;
+
+&lt;h2 id=&#34;administrando-um-negócio-com-peitos-as-coisas-que-eu-nunca-digo-https-medium-com-fuzzy-sharp-running-a-business-with-boobs-the-things-i-never-say-ac58a48c674&#34;&gt;&lt;a href=&#34;https://medium.com/fuzzy-sharp/running-a-business-with-boobs-the-things-i-never-say-ac58a48c674&#34;&gt;Administrando um negócio com peitos: as coisas que eu nunca digo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Jesse Genet é uma CEO americana e publicou uma lista com 5 coisas que você deve fazer para tratar uma mulher de negócios com mais respeito. Se você não clicar, pelo menos anote o item mais importante: &lt;strong&gt;não questione sua ambição&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;as-formas-comprovadas-pela-ciência-pelas-quais-a-música-afeta-seu-cérebro-e-produtividade-https-medium-com-the-mission-the-science-backed-ways-music-affects-your-brain-and-productivity-e11145079305&#34;&gt;&lt;a href=&#34;https://medium.com/the-mission/the-science-backed-ways-music-affects-your-brain-and-productivity-e11145079305&#34;&gt;As formas comprovadas pela ciência pelas quais a música afeta seu cérebro e produtividade&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Seja para dar aquele gás ou apenas isolar o barulho, ouvir música faz parte do nosso dia-a-dia. Esse artigo dá dicas científicas para encontrar as melhores músicas para cada tipo de tarefa e ainda sugere 11 artistas para ouvir enquanto trabalha. Aproveito para sugerir mais duas: &lt;a href=&#34;https://open.spotify.com/album/7w4z35rOtFKt9gHRTU6Qil&#34;&gt;Mogwai&lt;/a&gt; e &lt;a href=&#34;https://open.spotify.com/album/4R3lTd1ergMhYETZ88d24s&#34;&gt;Tides From Nebula&lt;/a&gt; 🤘&lt;/p&gt;
+
+&lt;p&gt;Você também fica de cara quando lhe pedem para consertar um computador ou impressora? Com &lt;a href=&#34;https://turnoff.us/geek/ode-to-my-family/&#34;&gt;esse cartão&lt;/a&gt;, seus problemas acabaram.&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#a0c1c4c3e0ccc6c2c9d4d4c5cec3cfd5d2d48ec3cfcd9fd3d5c2cac5c3d49df3d5c7c5d3d485e39385e193cf859290c4c5859290c1d2d4c9c7cf86c1cdd09bd5d4cdffc3c1cdd0c1c9c7ce9de1cc85e39385e199cd859290c4cf859290e385e39385e293c4c9c7cf86c1cdd09bd5d4cdffcdc5c4c9d5cd9dc5cdc1c9cc86c1cdd09bd5d4cdffd3cfd5d2c3c59df2c5d6d5c5859290cec5d7d3ccc5d4d4c5d2&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🐬&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>O código que você escreve pode matar pessoas</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/o-codigo-que-voce-escreve-pode-matar-pessoas/</link>
+      <pubDate>Wed, 15 Mar 2017 10:00:01 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/o-codigo-que-voce-escreve-pode-matar-pessoas/</guid>
+      <description>
+
+&lt;p&gt;Em 2015, descobriu-se que a Volkswagen usava software para fraudar testes de emissão de óxido de nitrogênio. Dessa forma, seus carros pareciam ser menos poluentes do que de fato eram.&lt;/p&gt;
+
+&lt;p&gt;Estima-se que 60 pessoas morrerão prematuramente por causa disso.&lt;/p&gt;
+
+&lt;p&gt;Na sociedade moderna, programadores têm superpoderes que podem servir ao bem e ao mal com a mesma eficiência, o que nos leva a uma questão fundamental:&lt;/p&gt;
+
+&lt;p&gt;Estamos sendo éticos enquanto programamos?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;o-código-que-ainda-me-envergonha-https-medium-freecodecamp-com-the-code-im-still-ashamed-of-e4c021dff55e-gi-3681aca447b7&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e?gi=3681aca447b7&#34;&gt;O código que ainda me envergonha&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A tecnologia está entranhada em todos os aspectos possíveis da sociedade. O código que você escreve em um dia normal de trabalho pode ter um impacto gigantesco na vida de muitas pessoas e você é a “última linha de defesa contra práticas potencialmente perigosas e antiéticas”. Você já pensou nisso?&lt;/p&gt;
+
+&lt;h2 id=&#34;o-que-uber-volkswagen-e-zenefits-têm-em-comum-todas-elas-usaram-código-oculto-para-infringir-a-lei-https-medium-freecodecamp-com-dark-genius-how-programmers-at-uber-volkswagen-and-zenefits-helped-their-employers-break-the-law-b7a7939c6591-gi-e2618cd8dfbf&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/dark-genius-how-programmers-at-uber-volkswagen-and-zenefits-helped-their-employers-break-the-law-b7a7939c6591?gi=e2618cd8dfbf&#34;&gt;O que Uber, Volkswagen e Zenefits têm em comum? Todas elas usaram código oculto para infringir a lei.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A Uber usava um app falso para despistar investigadores. A Zenefits driblava certificações obrigatórias. A Volkswagen fraudava testes de emissão de poluentes. Sabe quem criou os softwares que permitiram tudo isso? Programadores brilhantes que seguiam ordens sem nenhum questionamento.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-tecnologia-está-na-raiz-de-quase-todos-os-crimes-sérios-https-www-reuters-com-article-us-crime-europol-iduskbn16g1xn&#34;&gt;&lt;a href=&#34;https://www.reuters.com/article/us-crime-europol-idUSKBN16G1XN&#34;&gt;A tecnologia está na raiz de quase todos os crimes sérios&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Fraude de documentos, lavagem de dinheiro, tráfico de drogas e pessoas, &lt;a href=&#34;https://www.wikiwand.com/pt/Ransomware&#34;&gt;ransomware&lt;/a&gt;: crimes seríssimos fortalecidos pela alavanca da tecnologia.&lt;/p&gt;
+
+&lt;h2 id=&#34;três-desafios-para-a-web-segundo-seu-fundador-http-webfoundation-org-2017-03-web-turns-28-letter&#34;&gt;&lt;a href=&#34;http://webfoundation.org/2017/03/web-turns-28-letter/&#34;&gt;Três desafios para a web, segundo seu fundador&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A web foi projetada como uma plataforma aberta para o compartilhamento de informações. No último domingo, seu criador &lt;strong&gt;Tim Berners-Lee&lt;/strong&gt; listou as três tendências que põem em risco esse caráter colaborativo: coleta e monitoramento de dados pessoais, notícias falsas e propaganda política pouco transparente.&lt;/p&gt;
+
+&lt;h2 id=&#34;nascido-para-isso-https-martinfowler-com-articles-born-for-it-html&#34;&gt;&lt;a href=&#34;https://martinfowler.com/articles/born-for-it.html&#34;&gt;Nascido para isso&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Peça a um cidadão médio para descrever um programador e você ouvirá provavelmente “homem branco antissocial”. Nesse ótimo artigo, Birgitta Böckeler mergulha nas origens desse estereótipo e mostra porque ele é altamente nocivo à diversidade na indústria da tecnologia. Leitura obrigatória.&lt;/p&gt;
+
+&lt;h2 id=&#34;trabalhar-como-uma-mulher-pode-ser-uma-droga-https-twitter-com-i-moments-839950218099576832&#34;&gt;&lt;a href=&#34;https://twitter.com/i/moments/839950218099576832&#34;&gt;Trabalhar como uma mulher pode ser uma droga&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Falando nisso, o que acontece quando dois redatores, uma mulher e um homem, trocam suas assinaturas de email durante duas semanas? A reação de seus clientes muda completamente.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-tecnologia-está-mexendo-com-o-cérebro-do-meu-bebê-https-www-theverge-com-2013-9-3-4660216-is-technology-scrambling-my-babys-brain&#34;&gt;&lt;a href=&#34;https://www.theverge.com/2013/9/3/4660216/is-technology-scrambling-my-babys-brain&#34;&gt;A tecnologia está mexendo com o cérebro do meu bebê?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mais um ótimo artigo para quem tem bebês na família. Cuidados para que a relação dos bebês nativos digitais com tantas telas não atrapalhe seu desenvolvimento.&lt;/p&gt;
+
+&lt;h2 id=&#34;e-se-você-começasse-a-usar-windows-como-sistema-operacional-https-medium-com-tedgoas-think-different-designed-with-windows-bf09412d450e&#34;&gt;&lt;a href=&#34;https://medium.com/@tedgoas/think-different-designed-with-windows-bf09412d450e&#34;&gt;E se você começasse a usar Windows como sistema operacional?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se estamos pensando &lt;em&gt;de verdade&lt;/em&gt; na experiência do usuário, deveríamos desenvolver nossas aplicações no mesmo ambiente em que eles as usarão depois, certo? Sim, estamos falando de Windows, Android e telas pequenas, AKA vida real.&lt;/p&gt;
+
+&lt;p&gt;Você viu que cientistas conseguiram armazenar um bit em um… &lt;a href=&#34;https://www.gizmodo.com.au/2017/03/scientists-store-data-on-single-atoms/&#34;&gt;átomo&lt;/a&gt;? No futuro, olharemos para nossos discos rígidos com a mesma diversão com que olhamos hoje fotos dos primeiros computadores.&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#2c4d484f6c404a4e45585849424f43595e58024f4341135f594e46494f58117f594b495f58096f1f096d1f43091e1c4849091e1c4d5e58454b430a4d415c17595841734f4d415c4d454b42116d40096f1f096d1541091e1c4843091e1c6f096f1f096e1f48454b430a4d415c17595841734149484559411149414d45400a4d415c17595841735f43595e4f49117e495a5949091e1c42495b5f40495858495e&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🍄&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hoje é um dia para refletir</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/hoje-e-um-dia-para-refletir/</link>
+      <pubDate>Wed, 08 Mar 2017 10:07:34 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/hoje-e-um-dia-para-refletir/</guid>
+      <description>
+
+&lt;p&gt;Hoje é &lt;strong&gt;Dia Internacional da Mulher&lt;/strong&gt;, uma data para celebrar as lutas femininas por melhores condições de vida e trabalho e refletir por que, em um país com 51,5% de mulheres, só 10% delas estão nos comitês executivos das grandes empresas.&lt;/p&gt;
+
+&lt;p&gt;Na indústria da tecnologia, os números são ainda piores. Na contramão de todos os outros cursos, a computação forma cada vez menos mulheres, &lt;a href=&#34;https://alemdocodigo.com.br/issues/a-desigualdade-de-genero-esta-matando-a-economia-41341&#34;&gt;aumentando o abismo da desigualdade de gênero e chegando ao paradoxo de &lt;em&gt;encolher&lt;/em&gt; a economia&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A boa notícia é que o número de &lt;a href=&#34;https://alemdocodigo.com.br/issues/como-e-ser-velho-na-industria-da-tecnologia-42075&#34;&gt;aliados&lt;/a&gt; está crescendo e já podemos vislumbrar um futuro melhor para nossas meninas. Os esforços pela diversidade estão finalmente &lt;a href=&#34;https://alemdocodigo.com.br/issues/mulheres-na-tecnologia-e-a-sindrome-do-impostor-44123&#34;&gt;acordando a academia e a indústria&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Como disse Hillary Clinton, &lt;strong&gt;o futuro é feminino&lt;/strong&gt;. &lt;em&gt;Precisa&lt;/em&gt; ser.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;mulheres-estão-em-apenas-37-dos-cargos-de-chefia-nas-empresas-http-oglobo-globo-com-economia-mulheres-estao-em-apenas-37-dos-cargos-de-chefia-nas-empresas-21013908&#34;&gt;&lt;a href=&#34;http://oglobo.globo.com/economia/mulheres-estao-em-apenas-37-dos-cargos-de-chefia-nas-empresas-21013908&#34;&gt;Mulheres estão em apenas 37% dos cargos de chefia nas empresas&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A desigualdade de gênero no Brasil em números, muitos números. Encare como uma prova matemática de que ainda temos um longo caminho a percorrer até que as mulheres tenham uma participação justa no mercado de trabalho. Em todas as indústrias, em todos os níveis hierárquicos.&lt;/p&gt;
+
+&lt;h2 id=&#34;as-programadoras-do-eniac-apagadas-da-história-da-computação-https-lfbittencourt-com-mulheres-programadoras-eniac-b68503ef05f6-gi-4ecc5f381fc4&#34;&gt;&lt;a href=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6?gi=4ecc5f381fc4&#34;&gt;As programadoras do ENIAC apagadas da história da computação&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Na computação, a desigualdade tem raízes de 70 anos. A história incrível das seis programadoras do ENIAC, o primeiro computador de uso geral, é um exemplo triste de como as mulheres são tratadas na tecnologia.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-todos-nós-deveríamos-ter-uma-renda-básica-https-www-weforum-org-agenda-2017-01-why-we-should-all-have-a-basic-income&#34;&gt;&lt;a href=&#34;https://www.weforum.org/agenda/2017/01/why-we-should-all-have-a-basic-income&#34;&gt;Por que todos nós deveríamos ter uma renda básica&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Já que os robôs vão assumir os postos de trabalho meramente operacionais, vários países estão discutindo a ideia de uma renda básica universal a todos os cidadãos. Leia com calma e me diga: é uma muleta temporária para ajudar quem mais precisa ou um paliativo que não resolve, de fato, o problema dessas pessoas?&lt;/p&gt;
+
+&lt;h2 id=&#34;a-máquina-do-amor-de-christopher-strachey-nos-anos-1950-https-www-newyorker-com-tech-elements-christopher-stracheys-nineteen-fifties-love-machine&#34;&gt;&lt;a href=&#34;https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine&#34;&gt;A máquina do amor de Christopher Strachey nos anos 1950&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você sabia que um dos precursores da inteligência artificial foi uma… máquina que gerava cartas de amor? Quando cientistas e matemáticos usavam computadores para fins exclusivamente numéricos, Christopher Strachey os ensinou a “falar” — cheios de amor e ironia.&lt;/p&gt;
+
+&lt;h2 id=&#34;programadores-estão-confessando-seus-pecados-de-código-para-protestar-contra-um-processo-seletivo-quebrado-https-theoutline-com-post-1166-programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process&#34;&gt;&lt;a href=&#34;https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process&#34;&gt;Programadores estão confessando seus pecados de código para protestar contra um processo seletivo quebrado&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Sempre detestei fazer “testes práticos” no papel durante processos seletivos. Afinal de contas, quando o bicho pega na vida real, é ao Google e ao Stack Overflow que recorremos, não é? O criador do Ruby on Rails e uma galera concordam.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-programadores-de-computador-deveriam-parar-de-chamar-a-si-mesmos-de-engenheiros-https-www-theatlantic-com-technology-archive-2015-11-programmers-should-not-call-themselves-engineers-414271&#34;&gt;&lt;a href=&#34;https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/&#34;&gt;Por que programadores de computador deveriam parar de chamar a si mesmos de engenheiros&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;TL;DR: porque engenheiro é quem fez engenharia ¯\_(ツ)_/¯&lt;/p&gt;
+
+&lt;p&gt;E assim chegamos ao fim da &lt;strong&gt;décima edição&lt;/strong&gt; da Além do Código, pertinho da marca de 100 leitores! Muito, muito obrigado por apoiar o projeto!&lt;/p&gt;
+
+&lt;p&gt;E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#39585d5a79555f5b504d4d5c575a564c4b4d175a5654064a4c5b535c5a4d046a4c5e5c4a4d1c7a0a1c780a561c0b095d5c1c0b09584b4d505e561f585449024c4d54665a58544958505e570478551c7a0a1c7800541c0b095d561c0b097a1c7a0a1c7b0a5d505e561f585449024c4d5466545c5d504c54045c545850551f585449024c4d54664a564c4b5a5c046b5c4f4c5c1c0b09575c4e4a555c4d4d5c4b&#34;&gt;envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 👩&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Botnet das Coisas?</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/botnet-das-coisas/</link>
+      <pubDate>Wed, 01 Mar 2017 10:01:51 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/botnet-das-coisas/</guid>
+      <description>
+
+&lt;p&gt;O escritor Elbert Hubbard (1856 — 1915) disse o seguinte:&lt;/p&gt;
+
+&lt;p&gt;“Uma máquina pode fazer o trabalho de quinze homens comuns. Nenhuma máquina pode fazer o trabalho de um homem extraordinário”.&lt;/p&gt;
+
+&lt;p&gt;As máquinas de hoje podem substituir um número ainda maior de pessoas, mas a conclusão tirada há mais de um século ainda mostra exatamente para onde as oportunidades estão se movendo.&lt;/p&gt;
+
+&lt;p&gt;Sejamos extraordinários.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;botnet-das-coisas-https-www-technologyreview-com-s-603500-10-breakthrough-technologies-2017-botnets-of-things&#34;&gt;&lt;a href=&#34;https://www.technologyreview.com/s/603500/10-breakthrough-technologies-2017-botnets-of-things/&#34;&gt;Botnet das Coisas&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O que acontece quando hackers têm em mãos o poder computacional de milhares de gadgets sem nenhum mecanismo de segurança? Ataques que ficarão cada vez mais poderosos com a popularização da Internet das Coisas.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-dentro-da-cultura-agressiva-e-sem-restrições-da-uber-https-www-nytimes-com-2017-02-22-technology-uber-workplace-culture-html-r-0&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/2017/02/22/technology/uber-workplace-culture.html?_r=0&#34;&gt;Por dentro da cultura agressiva e sem restrições da Uber&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;“Um gerente da Uber apalpou os seios de colegas mulheres em uma imersão da empresa em Las Vegas. Um diretor gritou uma ofensa homofóbica a um subordinado durante uma discussão acalorada em uma reunião. Outro gerente ameaçou bater na cabeça de um empregado de baixa performance com um taco de basebol”.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-alguns-apps-usam-barras-de-progresso-falsas-https-www-theatlantic-com-technology-archive-2017-02-why-some-apps-use-fake-progress-bars-517233&#34;&gt;&lt;a href=&#34;https://www.theatlantic.com/technology/archive/2017/02/why-some-apps-use-fake-progress-bars/517233/&#34;&gt;Por que alguns apps usam barras de progresso falsas&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Gerar um atraso artificial na entrega de uma resposta é um truque de design relativamente comum. Parece não fazer nenhum sentido, mas funciona — comprovado cientificamente. Dica: tudo se resume a &lt;strong&gt;confiança&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-eu-não-falo-com-recrutadores-da-google-http-www-yegor256-com-2017-02-21-say-no-to-google-recruiters-html&#34;&gt;&lt;a href=&#34;http://www.yegor256.com/2017/02/21/say-no-to-google-recruiters.html&#34;&gt;Por que eu não falo com recrutadores da Google&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Empresas de tecnologia assediando programadores em escala industrial ainda não é algo comum no Brasil, certamente não nas mesmas proporções do Vale do Silício. Esse artigo mostra os efeitos colaterais dessa caçada: comunicação impessoal e entrevistas técnicas com pouca ou nenhuma ligação com a vaga.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-evolução-da-tecnologia-do-amor-dos-classificados-ao-tinder-http-www-clarin-com-next-evolucion-tecnologia-amor-clasificados-tinder-0-hkgngtgkg-html&#34;&gt;&lt;a href=&#34;http://www.clarin.com/next/evolucion-tecnologia-amor-clasificados-tinder_0_HkGNgTgKg.html&#34;&gt;A evolução da tecnologia do amor, dos classificados ao Tinder&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O uso de algum tipo de tecnologia para encontrar a alma gêmea ou arranjar um encontro casual não é exclusividade do Tinder. Muito longe disso, como mostra essa linha do tempo desde os primeiros anúncios em classificados no século XVIII aos apps atuais. PS: é em espanhol, mas é facinho.&lt;/p&gt;
+
+&lt;h2 id=&#34;fiquei-uma-semana-explorando-como-teremos-que-viver-em-uma-américa-pós-água-http-www-popsci-com-week-of-perfect-water-consumption&#34;&gt;&lt;a href=&#34;http://www.popsci.com/week-of-perfect-water-consumption&#34;&gt;Fiquei uma semana explorando como teremos que viver em uma América pós-água&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A fabricação e o transporte dos nossos amados equipamentos eletrônicos (e de todo e qualquer produto)  gera um consumo altíssimo de água, um tema incômodo que ainda evitamos. Esse relato mostra as recompensas e os desafios de tratar a água como um recurso finito e usá-la racionalmente.&lt;/p&gt;
+
+&lt;p&gt;Se você é novo na Além do Código, aproveite para dar uma olhada nas &lt;a href=&#34;https://alemdocodigo.com.br/&#34;&gt;edições anteriores&lt;/a&gt; e nos &lt;a href=&#34;https://lfbittencourt.com/&#34;&gt;posts que escrevi no meu blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Quer compartilhar algum artigo bacana ou tem sugestões de temas que gostaria de ver aqui? &lt;a href=&#34;https://lfbittencourt.com/cdn-cgi/l/email-protection#6f0309440e0b0c2f03090d061b1b0a010c001a1d1b410c0002501c1a0d050a0c1b523c1a080a1c1b4a2c5c4a2e5c004a5d5f0b0a4a5d5f0e1d1b060800490e021f541a1b02300c0e021f0e060801522e034a2c5c4a2e56024a5d5f0b004a5d5f2c4a2c5c4a2d5c0b060800490e021f541a1b0230020a0b061a02520a020e0603490e021f541a1b02301c001a1d0c0a523d0a191a0a4a5d5f010a181c030a1b1b0a1d&#34;&gt;Envie um email!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 👾&lt;/p&gt;
+
+&lt;p&gt;— LF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Um ano muito, muito estranho na Uber</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/um-ano-muito-muito-estranho-na-uber/</link>
+      <pubDate>Wed, 22 Feb 2017 10:00:01 -0300</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/um-ano-muito-muito-estranho-na-uber/</guid>
+      <description>
+
+&lt;p&gt;Ah, o smartphone…&lt;/p&gt;
+
+&lt;p&gt;É graças a ele que aquela tia distante pode enviar frases motivacionais no grupo da família, você sai de casa sabendo se vai chover e tem um motorista particular parado na porta da sua casa. Um aparelhinho revolucionário, sem dúvidas.&lt;/p&gt;
+
+&lt;p&gt;Por outro lado, é triste saber que essa mesma caixinha mágica cria empresas desumanas, aumenta nossa ansiedade e nos distrai mesmo quando não podemos nos distrair.&lt;/p&gt;
+
+&lt;p&gt;O smartphone está em pelo menos metade dos artigos desta edição. Meio invisível, como toda boa tecnologia.&lt;/p&gt;
+
+&lt;p&gt;Boa leitura!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;refletindo-sobre-um-ano-muito-muito-estranho-na-uber-https-www-susanjfowler-com-blog-2017-2-19-reflecting-on-one-very-strange-year-at-uber&#34;&gt;&lt;a href=&#34;https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber&#34;&gt;Refletindo sobre um ano muito, muito estranho na Uber&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A ex-engenheira da Uber Susan Fowler escreveu um artigo contando como o assédio sexual é rotineiramente abafado pelo RH da empresa, principalmente quando o agressor é um funcionário “de alta performance”. Mais uma evidência de uma cultura tóxica que premia o crescimento a qualquer custo.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-achar-tempo-para-ler-me-fez-sentir-menos-ocupado-https-hbr-org-2015-09-how-making-time-for-books-made-me-feel-less-busy&#34;&gt;&lt;a href=&#34;https://hbr.org/2015/09/how-making-time-for-books-made-me-feel-less-busy&#34;&gt;Como achar tempo para ler me fez sentir menos ocupado&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Estamos cada vez mais ligados a nossos smartphones, rolando timelines durante o almoço e distraídos com tantas notificações. O efeito colateral dessa enxurrada de informação fácil é a falta de foco, e a solução pode ser uma mídia bem mais tradicional: o bom e velho livro.&lt;/p&gt;
+
+&lt;h2 id=&#34;como-virei-uma-pessoa-da-manhã-e-porque-fiz-essa-mudança-https-medium-com-time-dorks-how-i-became-a-morning-person-and-why-i-decided-to-make-the-change-eb1b012a16e5&#34;&gt;&lt;a href=&#34;https://medium.com/time-dorks/how-i-became-a-morning-person-and-why-i-decided-to-make-the-change-eb1b012a16e5&#34;&gt;Como virei uma pessoa da manhã (e porque fiz essa mudança)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Falamos &lt;a href=&#34;https://alemdocodigo.com.br/issues/por-que-a-gestao-do-tempo-esta-arruinando-nossas-vidas-43449&#34;&gt;na edição #5&lt;/a&gt; sobre as pessoas que produzem mais à noite. Esse artigo é um relato incomum de uma dessas &lt;em&gt;night owls&lt;/em&gt; que virou uma &lt;em&gt;pessoa da manhã&lt;/em&gt;. Se você já cogitou essa mudança, aqui está um bom ponto de partida.&lt;/p&gt;
+
+&lt;h2 id=&#34;primeiros-números-da-operação-serenata-de-amor-https-datasciencebr-com-um-m-c3-aas-depois-do-primeiro-mutir-c3-a3o-369975af4bb5-gi-6b40217126a2&#34;&gt;&lt;a href=&#34;https://datasciencebr.com/um-m%C3%AAs-depois-do-primeiro-mutir%C3%A3o-369975af4bb5?gi=6b40217126a2&#34;&gt;Primeiros números da Operação Serenata de Amor&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A Operação Serenata de Amor usa inteligência artificial para identificar sinais de corrupção nas contas públicas brasileiras. Em janeiro, eles abriram 587 chamados na Câmara dos Deputados questionando 971 reembolsos de 216 parlamentares. Apenas 62 receberam alguma resposta.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-guia-condensado-para-conduzir-reuniões-https-hbr-org-2015-07-the-condensed-guide-to-running-meetings&#34;&gt;&lt;a href=&#34;https://hbr.org/2015/07/the-condensed-guide-to-running-meetings&#34;&gt;O guia condensado para conduzir reuniões&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Não há nada mais frustrante que uma reunião improdutiva. Por isso, esse guia lista 7 cuidados simples para evitar a sensação de tempo perdido, incluindo chamar o menor número possível de pessoas e proibir o uso de &lt;em&gt;devices&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;80-dos-empregos-de-ti-podem-ser-substituídos-por-automação-https-futurism-com-80-of-it-jobs-can-be-replaced-by-automation-and-its-exciting&#34;&gt;&lt;a href=&#34;https://futurism.com/80-of-it-jobs-can-be-replaced-by-automation-and-its-exciting/&#34;&gt;80% dos empregos de TI podem ser substituídos por automação&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você trabalha com tecnologia e estava certo de que a automação só acabará com funções estritamente operacionais, certo? Não é bem assim. Segundo o fundador da Sun, 80% dos empregos da TI-infraestrutura terão o mesmo fim.&lt;/p&gt;
+
+&lt;p&gt;Para fecharmos essa edição com chave de ouro, se divirta com esses &lt;a href=&#34;https://medium.freecodecamp.com/how-pcs-were-advertised-in-the-1990s-cdaee59f2555&#34;&gt;anúncios de computador dos anos 90&lt;/a&gt;. Old but gold!&lt;/p&gt;
+
+&lt;p&gt;Bom carnaval &amp;amp; até semana que vem! 🎭&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Programadores serão a nova classe operária</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/programadores-serao-a-nova-classe-operaria/</link>
+      <pubDate>Wed, 15 Feb 2017 10:00:00 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/programadores-serao-a-nova-classe-operaria/</guid>
+      <description>
+
+&lt;p&gt;Há alguns dias o prefeito de Porto Alegre anunciou que investirá ainda mais na bilhetagem eletrônica e disse que cobrador de ônibus será uma função extinta no futuro. A resposta dos rodoviários foi rápida: paralisação. O argumento era o de que a declaração do prefeito “ameaça o trabalho de 3,6 mil cobradores”.&lt;/p&gt;
+
+&lt;p&gt;A ameaça existe, é claro, mas não é a declaração em si. O que o prefeito disse, aliás, é bastante óbvio e já poderia ter acontecido há tempos. O verdadeiro “inimigo” é a automação — e é desmitificando essa tendência irreversível que começamos a edição de hoje da Além do Código.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;aqueles-empregos-se-foram-para-sempre-vamos-nos-preparar-para-o-que-vem-por-aí-https-medium-freecodecamp-com-we-cant-bring-back-the-old-manufacturing-jobs-12214a0ab057-gi-bc75eab3e934&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/we-cant-bring-back-the-old-manufacturing-jobs-12214a0ab057?gi=bc75eab3e934&#34;&gt;Aqueles empregos se foram para sempre. Vamos nos preparar para o que vem por aí.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O que os cobradores de Porto Alegre e Donald Trump têm em comum? Ambos querem resgatar funções que já estão sendo desempenhadas muito bem por máquinas. Ao invés disso, por que não focar em preencher as milhares de vagas que nasceram justamente da automação? Sim, estamos falando de programação.&lt;/p&gt;
+
+&lt;h2 id=&#34;programar-é-o-próximo-grande-trabalho-de-colarinho-azul-https-www-wired-com-2017-02-programming-is-the-new-blue-collar-job&#34;&gt;&lt;a href=&#34;https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/&#34;&gt;Programar é o próximo grande trabalho de colarinho azul&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Essa migração de vagas fará com que programadores sejam a nova classe operária. Uma classe digníssima, diga-se de passagem: o salário médio de um programador americano, por exemplo, é o dobro da média das outras profissões.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-geração-minecraft-https-www-nytimes-com-2016-04-17-magazine-the-minecraft-generation-html-r-1&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/2016/04/17/magazine/the-minecraft-generation.html?_r=1&#34;&gt;A Geração Minecraft&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Como um jogo que anda na contramão das tendências está atraindo crianças e adolescentes para os cursos de tecnologia ao forçá-las a aprender lógica, debugging, linha de comando e colaboração.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-maior-parte-da-web-é-uma-droga-se-você-tem-uma-conexão-lenta-https-danluu-com-web-bloat&#34;&gt;&lt;a href=&#34;https://danluu.com/web-bloat/&#34;&gt;A maior parte da web é uma droga se você tem uma conexão lenta&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você acaba de desenvolver um novo site, testa em uma boa banda larga e tudo parece ótimo. O problema é que um grande número de pessoas não tem acesso a conexões de alta velocidade, e para essas pessoas boa parte de tudo que construímos é inacessível.&lt;/p&gt;
+
+&lt;h2 id=&#34;sobre-o-que-você-deveria-pensar-enquanto-usa-o-facebook-https-veekaybee-github-io-facebook-is-collecting-this&#34;&gt;&lt;a href=&#34;https://veekaybee.github.io/facebook-is-collecting-this/&#34;&gt;Sobre o que você deveria pensar enquanto usa o Facebook?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você sabia que o Facebook salva até as frases que você desistiu de postar no último momento? Essa e várias outras formas de monitoramento estão listadas nessa ótima compilação feita por Vicki Boykis. Não surpreende, mas assusta.&lt;/p&gt;
+
+&lt;h2 id=&#34;designers-deveriam-programar-ou-programadores-deveriam-desenhar-https-medium-muz-li-should-designers-code-or-should-developers-design-23e480c6700a-gi-ceccc234e59c&#34;&gt;&lt;a href=&#34;https://medium.muz.li/should-designers-code-or-should-developers-design-23e480c6700a?gi=ceccc234e59c&#34;&gt;Designers deveriam programar&amp;hellip; ou programadores deveriam desenhar?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Artigo curtinho para enviar para aquele programador que pensa que design é bobagem e para o designer que jura que a função do desenvolvedor é estragar os layouts. Afinal de contas, o objetivo é um só: entregar um ótimo produto.&lt;/p&gt;
+
+&lt;p&gt;E assim encerramos a edição #7. Até a próxima semana! 👷&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mulheres na tecnologia e a Síndrome do Impostor</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/mulheres-na-tecnologia-e-a-sindrome-do-impostor/</link>
+      <pubDate>Wed, 08 Feb 2017 10:00:01 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/mulheres-na-tecnologia-e-a-sindrome-do-impostor/</guid>
+      <description>
+
+&lt;p&gt;Vou resumir a introdução dessa semana a uma única pergunta tendenciosa: você já assistiu &lt;a href=&#34;https://www.imdb.com/title/tt4846340/&#34;&gt;Estrelas Além do Tempo&lt;/a&gt;?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;o-que-quero-que-outros-pais-saibam-sobre-mulheres-na-tecnologia-https-medium-com-code-like-a-girl-what-i-want-other-parents-to-know-about-women-in-tech-543fac2bae4d&#34;&gt;&lt;a href=&#34;https://medium.com/code-like-a-girl/what-i-want-other-parents-to-know-about-women-in-tech-543fac2bae4d&#34;&gt;O que quero que outros pais saibam sobre mulheres na tecnologia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esse post é para quem é &lt;strong&gt;pai ou mãe de menina&lt;/strong&gt;: suas filhas podem ter uma carreira brilhante na tecnologia! Os esforços pela diversidade de gênero estão finalmente fazendo a indústria acordar e em poucos anos teremos um espaço seguro para “construir tecnologia para todo mundo — não apenas para os meninos”.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-harvey-mudd-college-assumiu-a-desigualdade-de-gênero-na-tecnologia-e-agora-mais-da-metade-dos-graduados-são-mulheres-https-qz-com-730290-harvey-mudd-college-took-on-gender-bias-and-now-more-than-half-its-computer-science-majors-are-women&#34;&gt;&lt;a href=&#34;https://qz.com/730290/harvey-mudd-college-took-on-gender-bias-and-now-more-than-half-its-computer-science-majors-are-women/&#34;&gt;A Harvey Mudd College assumiu a desigualdade de gênero na tecnologia e agora mais da metade dos graduados são mulheres&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Aliás, não é só a indústria que está acordando. A academia também está revendo o ensino de computação, tido como um dos maiores fatores de desistência de mulheres. Essa faculdade da Califórnia fez uma série de mudanças e agora forma, pela primeira vez, mais mulheres do que homens.&lt;/p&gt;
+
+&lt;h2 id=&#34;sou-a-melhor-desenvolvedora-de-software-que-eu-posso-ser-http-corgibytes-com-blog-2017-02-07-the-best-developer&#34;&gt;&lt;a href=&#34;http://corgibytes.com/blog/2017/02/07/the-best-developer/&#34;&gt;Sou a melhor desenvolvedora de software (que eu posso ser)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A &lt;strong&gt;Síndrome do Impostor&lt;/strong&gt; é a dificuldade de internalizar conquistas e o medo permanente de ser exposto como uma fraude. Fique atento ao principal sintoma: tentar ser o programador ou programadora perfeitos.&lt;/p&gt;
+
+&lt;h2 id=&#34;programando-em-uma-pequena-cidade-do-interior-de-ohio-https-imagirlwhocodes-com-coding-in-a-21st-century-little-rural-town-in-ohio-99e51308199e&#34;&gt;&lt;a href=&#34;https://imagirlwhocodes.com/coding-in-a-21st-century-little-rural-town-in-ohio-99e51308199e&#34;&gt;Programando em uma pequena cidade do interior de Ohio&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;É relativamente fácil aprender a programar com um computador em casa e banda larga à vontade, mas isso ainda é um pequeno luxo em muitos lugares. Grace Barnhart conta como está encarando esse desafio em uma cidade onde “porcos e vacas são mais comuns que computadores”.&lt;/p&gt;
+
+&lt;h2 id=&#34;tudo-ou-alguma-coisa-https-m-signalvnoise-com-all-or-something-9831830b3b9-gi-b343ca28cfd5&#34;&gt;&lt;a href=&#34;https://m.signalvnoise.com/all-or-something-9831830b3b9?gi=b343ca28cfd5&#34;&gt;Tudo ou alguma coisa&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A cultura média de startup é dar o sangue e ficar milionário em poucos anos ou falhar miseravelmente — não há espaço para meio-termo. Nesse artigo, o criador do Ruby on Rails defende que não precisa ser assim. É possível ter um projeto paralelo de sucesso trabalhando apenas &lt;em&gt;algumas&lt;/em&gt; horas por semana.&lt;/p&gt;
+
+&lt;h2 id=&#34;eu-trabalho-de-casa-https-www-newyorker-com-humor-daily-shouts-i-work-from-home&#34;&gt;&lt;a href=&#34;https://www.newyorker.com/humor/daily-shouts/i-work-from-home&#34;&gt;Eu trabalho de casa&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Já que falamos sobre trabalho remoto na semana passada, aqui está uma crônica sobre home office e procrastinação. Seria cômico se não fosse trágico.&lt;/p&gt;
+
+&lt;p&gt;“Entrará para a história como o momento em que um dos últimos bastiões da dominância masculina caiu”. Foi assim que o Guardian anunciou que a iraniana Maryam Mirzakhani foi &lt;a href=&#34;https://www.theguardian.com/science/2014/aug/13/fields-medal-mathematics-prize-woman-maryam-mirzakhani&#34;&gt;a primeira mulher a ganhar a Medalha Fields&lt;/a&gt;, o “Prêmio Nobel da matemática”.&lt;/p&gt;
+
+&lt;p&gt;E você, leu alguma coisa interessante por aí? Quer compartilhar comigo?&lt;/p&gt;
+
+&lt;p&gt;Até semana que vem! 🏖️&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Por que a gestão do tempo está arruinando nossas vidas</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/por-que-a-gestao-do-tempo-esta-arruinando-nossas-vidas/</link>
+      <pubDate>Wed, 01 Feb 2017 10:00:00 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/por-que-a-gestao-do-tempo-esta-arruinando-nossas-vidas/</guid>
+      <description>
+
+&lt;p&gt;Quero contar uma historinha pessoal.&lt;/p&gt;
+
+&lt;p&gt;No início do ano passado, decidi deixar de lado as muitas listas de coisas a fazer que eu mantinha. Filmes que eu queria assistir, livros que eu queria ler, newsletters não lidas. Motivo? As listas se multiplicaram e o que devia ser uma forma de organizar meu tempo virou uma grande frustração.&lt;/p&gt;
+
+&lt;p&gt;Produtividade é um assunto quente porque todo mundo tem medo da morte. Temos só 4.000 semanas de vida e queremos aproveitá-las da melhor forma possível, mas na ânsia de controlar esse tempo acabamos esquecendo de… viver.&lt;/p&gt;
+
+&lt;p&gt;Se você já se sentiu assim, culpado por não fazer “nada” nas horas livres, dedique alguns minutos do seu dia ao primeiro link dessa edição. Se estiver sem tempo, leia só esse – talvez você mude de ideia quanto a estar sem tempo e volte aqui mais tarde.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;por-que-a-gestão-do-tempo-está-arruinando-nossas-vidas-https-www-theguardian-com-technology-2016-dec-22-why-time-management-is-ruining-our-lives&#34;&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives&#34;&gt;Por que a gestão do tempo está arruinando nossas vidas&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;“Nos sentimos obrigados a responder à pressão do tempo sendo tão eficientes quanto possível – mesmo quando isso não traz o alívio prometido para o estresse”. Esse artigo é um soco no estômago e joga um pouco de luz sobre o mito da produtividade e suas raízes históricas. Leitura obrigatória.&lt;/p&gt;
+
+&lt;h2 id=&#34;por-que-eu-só-trabalho-remotamente-https-shift-newco-co-why-i-only-work-remotely-2e5eb07ae28f-gi-476eb630b1a1&#34;&gt;&lt;a href=&#34;https://shift.newco.co/why-i-only-work-remotely-2e5eb07ae28f?gi=476eb630b1a1&#34;&gt;Por que eu só trabalho remotamente&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Se está comprovado cientificamente que algumas pessoas &lt;em&gt;funcionam&lt;/em&gt; melhor de dia e outras de noite, por que as empresas insistem em horários de expediente engessados? Por que ainda recebemos por hora-bunda ao invés de resultados?&lt;/p&gt;
+
+&lt;h2 id=&#34;pioneira-das-redes-https-nic-br-media-docs-publicacoes-3-revista-br-ano-07-2016-edicao-11-pdf&#34;&gt;&lt;a href=&#34;https://nic.br/media/docs/publicacoes/3/revista-br-ano-07-2016-edicao-11.pdf&#34;&gt;Pioneira das redes&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A gaúcha Liane Tarouco foi a pioneira das redes no Brasil. Nessa entrevista, ela conta como escreveu o primeiro livro brasileiro sobre comunicação de dados em uma época que o curso de ciência da computação não existia no país e a melhor ideia para conectar dois mainframes da UFRGS era instalar um cabo de três quilômetros entre os campi.&lt;/p&gt;
+
+&lt;h2 id=&#34;ninguém-quer-usar-software-https-medium-freecodecamp-com-nobody-wants-to-use-software-a75643bee654-gi-e594bd86e662&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/nobody-wants-to-use-software-a75643bee654?gi=e594bd86e662&#34;&gt;Ninguém quer usar software&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Um lembrete necessário de que software é um meio de suprir alguma necessidade do usuário que não vale nada por si só, ou seja, encurtar a jornada do usuário é muito mais importante do que qualquer preciosismo técnico.&lt;/p&gt;
+
+&lt;p&gt;Nos últimos dias, muitas empresas de tecnologia se posicionaram sobre os decretos migratórios de Donald Trump. Vale ficar de olho no que os CEOs dos serviços que você usa (Spotify, Uber, Airbnb etc) estão fazendo.&lt;/p&gt;
+
+&lt;p&gt;Ironicamente, a segunda marca mais valiosa do mundo foi fundada por refugiado russo. O nome dele é &lt;strong&gt;Sergey Mikhaylovich Brin&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Até quarta que vem! ⏱️&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A história do programador fraudulento</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/a-historia-do-programador-fraudulento/</link>
+      <pubDate>Wed, 25 Jan 2017 10:00:02 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/a-historia-do-programador-fraudulento/</guid>
+      <description>
+
+&lt;p&gt;O criador do Stack Overflow Jeff Atwood disse há uns dias que nenhuma senha com menos de 12 caracteres está segura em 2017. Pela &lt;a href=&#34;https://www.wikiwand.com/pt/Lei_de_Moore&#34;&gt;Lei de Moore&lt;/a&gt;, o poder de quebrar senhas criptografadas dobra a cada 18 meses, ou seja, precisaremos de senhas cada vez maiores!&lt;/p&gt;
+
+&lt;p&gt;E senhas maiores, você sabe, são difíceis de lembrar (e de escrever na tela touch do seu smartphone). Precisamos de novas formas de segurança, mas ainda não há substitutos óbvios. Autenticação de dois fatores? Biometria?&lt;/p&gt;
+
+&lt;p&gt;Que seja mais prático do que digitar &lt;strong&gt;planaltodotemer2016&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;a-história-do-programador-fraudulento-https-shakycode-com-the-story-of-the-fraudulent-coder-d4c6fcf273f7-gi-e163616df9ad&#34;&gt;&lt;a href=&#34;https://shakycode.com/the-story-of-the-fraudulent-coder-d4c6fcf273f7?gi=e163616df9ad&#34;&gt;A história do programador fraudulento&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Quando me perguntam se a profissão de programador deveria ser regulamentada, sempre respondo que, pelo menos &lt;em&gt;nesse&lt;/em&gt; sentido, o próprio mercado se regula. Como disse Abraham Lincoln, “você pode enganar uma pessoa por muito tempo; algumas por algum tempo; mas não consegue enganar a todas por todo o tempo”. PS: não seja o Bryan.&lt;/p&gt;
+
+&lt;h2 id=&#34;o-que-é-preciso-para-ser-um-bom-programador-https-dimitrov2k-wordpress-com-2017-01-22-what-does-it-take-to-be-a-good-programmer&#34;&gt;&lt;a href=&#34;https://dimitrov2k.wordpress.com/2017/01/22/what-does-it-take-to-be-a-good-programmer/&#34;&gt;O que é preciso para ser um bom programador?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Resumo em um post-it: seja humilde, escreva bom código e mova-se mais rápido.&lt;/p&gt;
+
+&lt;h2 id=&#34;chatbots-uma-nova-era-para-as-mulheres-na-tecnologia-https-chatbotnewsdaily-com-chatbots-ushering-in-a-new-era-for-women-in-tech-d0ee7304d7c5-gi-91a863b284&#34;&gt;&lt;a href=&#34;https://chatbotnewsdaily.com/chatbots-ushering-in-a-new-era-for-women-in-tech-d0ee7304d7c5?gi=91a863b284&#34;&gt;Chatbots: uma nova era para as mulheres na tecnologia&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O boom dos bots está criando novos cargos como arquiteto e designer conversacionais - combinações de outros cargos já dominados por mulheres. É uma oportunidade inédita de tomar a frente da aposta da década enquanto ela ensaia seus primeiros passos.&lt;/p&gt;
+
+&lt;h2 id=&#34;caixas-de-ferramenta-para-a-mente-https-www-technologyreview-com-s-536356-toolkits-for-the-mind&#34;&gt;&lt;a href=&#34;https://www.technologyreview.com/s/536356/toolkits-for-the-mind/&#34;&gt;Caixas de ferramenta para a mente&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Leia o artigo e responda: as linguagens de programação emprestam seus princípios às empresas que as adotam ou é a cultura dessas empresas que determina intuitivamente quais são as linguagens mais adequadas?&lt;/p&gt;
+
+&lt;h2 id=&#34;como-o-inventor-do-mario-pensa-o-design-de-um-game-https-www-youtube-com-watch&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch&#34;&gt;Como o inventor do Mario pensa o design de um game&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Vídeo curtinho onde Shigeru Miyamoto, designer dos games mais icônicos da Nintendo, fala sobre como ele pensa o design de um jogo. A primeira fase de Super Mario Bros., por exemplo, é uma aula sobre como ensinar a jogar &lt;em&gt;durante&lt;/em&gt; o jogo. Uma ótima referência para o onboarding de produtos e aplicações.&lt;/p&gt;
+
+&lt;p&gt;Por fim, quero lhe pedir um pequeno favor: &lt;strong&gt;encaminhe essa newsletter&lt;/strong&gt; para pelo menos um amigo na área de tecnologia que possa gostar desses artigos. É um jeito simples de compartilhar boas leituras e uma ajuda valiosa para o projeto. 🙏&lt;/p&gt;
+
+&lt;p&gt;Até semana que vem!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Como é ser &#34;velho&#34; na indústria da tecnologia</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/como-e-ser-velho-na-industria-da-tecnologia/</link>
+      <pubDate>Wed, 18 Jan 2017 10:00:03 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/como-e-ser-velho-na-industria-da-tecnologia/</guid>
+      <description>
+
+&lt;p&gt;No século XVI, o sabão era tão caro que os ingleses tinham uma desculpa padrão para não tomar banho: quanto mais se mexe na sujeira, mais ela fede. Em 2017, dá para dizer a mesma coisa sobre a diversidade na tecnologia: quanto mais lemos sobre, mais claro fica que ela não existe.&lt;/p&gt;
+
+&lt;p&gt;Você já reparou, por exemplo, que há um preconceito velado contra pessoas mais velhas? No primeiro artigo que separei para essa edição, você verá que a indústria da tecnologia tem uma preferência clara por jovens, uma escolha perigosa em países como o Brasil, cada vez mais velhos.&lt;/p&gt;
+
+&lt;p&gt;Para mudar esse cenário, incluí uma lista com 12 coisas relativamente simples que você pode fazer pela diversidade. Falaremos ainda de bots, do valor excessivo que damos a linguagens de programação e do VisiCalc, o primeiro software de planilhas eletrônicas.&lt;/p&gt;
+
+&lt;p&gt;Boa leitura!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;on-getting-old-er-in-tech-http-corgibytes-com-blog-2016-12-06-getting-old-er-in-tech&#34;&gt;&lt;a href=&#34;http://corgibytes.com/blog/2016/12/06/getting-old-er-in-tech/&#34;&gt;On Getting Old(er) in Tech&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Você sabia que a média de idade nas principais empresas de tecnologia não passa dos 30 anos? Em uma indústria que tem fixação na juventude, a única forma de ter uma carreira duradoura é preservar a capacidade de aprender e se adaptar. Só assim poderemos desfazer o preconceito de que ser jovem é ser mais capaz.&lt;/p&gt;
+
+&lt;h2 id=&#34;tech-diversity-12-things-allies-can-do-https-blog-techinclusion-co-tech-diversity-12-things-an-ally-can-do-ca5c93435d26-gi-c7224af83369&#34;&gt;&lt;a href=&#34;https://blog.techinclusion.co/tech-diversity-12-things-an-ally-can-do-ca5c93435d26?gi=c7224af83369&#34;&gt;Tech Diversity: 12 Things Allies Can Do&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Qualquer pessoa que lute por mais diversidade na indústria da tecnologia é um aliado. Esse post é um checklist básico do que você pode fazer hoje mesmo para ajudar pessoas tradicionalmente marginalizadas que não podem mudar o estado das coisas contando apenas com seus próprios esforços.&lt;/p&gt;
+
+&lt;h2 id=&#34;10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-https-medium-com-code-school-10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-5bce0d8bdf0&#34;&gt;&lt;a href=&#34;https://medium.com/code-school/10-things-my-friends-and-i-are-doing-to-be-even-better-developers-in-2017-5bce0d8bdf0&#34;&gt;10 things my friends and I are doing to be even better developers in 2017&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Todo ano começa com uma enxurrada de resoluções. Quando essas listas são feitas por programadores, é muito comum incluir as tecnologias do momento, a próxima grande onda etc. A lista desse artigo foge do clichê e só tem resoluções sem prazo de validade, coisas simples que você também pode colocar em prática em 2017.&lt;/p&gt;
+
+&lt;h2 id=&#34;bots-won-t-replace-apps-better-apps-will-replace-apps-http-dangrover-com-blog-2016-04-20-bots-wont-replace-apps-html&#34;&gt;&lt;a href=&#34;http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html&#34;&gt;Bots won&amp;rsquo;t replace apps. Better apps will replace apps.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Falando em onda, agora todo mundo quer um bot. Por isso, designers e programadores precisam superar o hype e criar bots realmente efetivos. Essa belíssima referência explica, entre outras coisas, a diferença entre &lt;strong&gt;conversações&lt;/strong&gt; e &lt;strong&gt;interfaces conversacionais&lt;/strong&gt;. O exemplo do pedido de pizza é fantástico!&lt;/p&gt;
+
+&lt;h2 id=&#34;do-programming-languages-matter-http-blog-professorbeekums-com-2017-01-do-programming-languages-matter-html&#34;&gt;&lt;a href=&#34;http://blog.professorbeekums.com/2017/01/do-programming-languages-matter.html&#34;&gt;Do Programming Languages Matter?&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Algumas linguagens tornam algumas tarefas mais fáceis ou mais difíceis, mas o resto é só uma questão de gosto. Conhecer profundamente os fundamentos do desenvolvimento de software é muito mais importante do que pregar o evangelho de uma única linguagem de programação.&lt;/p&gt;
+
+&lt;h2 id=&#34;dan-bricklin-meet-the-inventor-of-the-electronic-spreadsheet-https-www-ted-com-talks-dan-bricklin-meet-the-inventor-of-the-electronic-spreadsheet&#34;&gt;&lt;a href=&#34;https://www.ted.com/talks/dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet&#34;&gt;Dan Bricklin: Meet the inventor of the electronic spreadsheet&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Dan Bricklin programou o VisiCalc, uma espécie de avô do Excel. Nesse TED, ele conta como uma combinação única de formações e habilidades e a vontade de simplificar um trabalho chato o levaram a criar um dos softwares mais revolucionários da história da computação.&lt;/p&gt;
+
+&lt;p&gt;Na semana passada, o The Guardian anunciou que a União Europeia está trabalhando para &lt;a href=&#34;https://www.theguardian.com/technology/2017/jan/12/give-robots-personhood-status-eu-committee-argues&#34;&gt;regulamentar a criação e o uso de robôs&lt;/a&gt;. Foi impossível não lembrar do detalhe nerd no &lt;a href=&#34;https://www.last.fm/robots.txt&#34;&gt;robots.txt do Last.fm&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;Disallow: /harming/humans&lt;/p&gt;
+
+&lt;p&gt;Disallow: /ignoring/human/orders&lt;/p&gt;
+
+&lt;p&gt;Disallow: /harm/to/self&lt;/p&gt;
+
+&lt;p&gt;Será que as &lt;a href=&#34;https://www.wikiwand.com/pt/Leis_da_Rob%C3%B3tica&#34;&gt;leis da robótica&lt;/a&gt; escritas por Isaac Asimov há quase 75 anos estarão na regulamentação?&lt;/p&gt;
+
+&lt;p&gt;Vejo você na próxima semana! 🤖&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A desigualdade de gênero está matando a economia</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/a-desigualdade-de-genero-esta-matando-a-economia/</link>
+      <pubDate>Wed, 11 Jan 2017 10:00:00 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/a-desigualdade-de-genero-esta-matando-a-economia/</guid>
+      <description>
+
+&lt;p&gt;Quando o assunto é tecnologia, o que acontece nos Estados Unidos sempre leva um tempo para dar as caras no Brasil. Mesmo sendo um sinal claro de atraso, esse gap permite que nos preparemos para o que está por vir, seja bom ou ruim.&lt;/p&gt;
+
+&lt;p&gt;Por lá, pesquisas mostram que o número de vagas abertas é infinitamente maior do que a quantidade de pessoas se formando em computação, o que retarda o crescimento econômico. Um mercado aquecido como esse deveria atrair jovens profissionais, mas o número de mulheres cientistas da computação continua caindo.&lt;/p&gt;
+
+&lt;p&gt;Já sentimos essa mesma escassez por aqui. É hora de agir.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;the-gender-gap-in-computer-science-is-hurting-u-s-businesses-https-www-washingtonpost-com-opinions-the-gender-gap-in-computer-science-is-hurting-us-businesses-2016-12-27-fa4f6680-c247-11e6-9578-0054287507db-story-html-linkid-33154571&#34;&gt;&lt;a href=&#34;https://www.washingtonpost.com/opinions/the-gender-gap-in-computer-science-is-hurting-us-businesses/2016/12/27/fa4f6680-c247-11e6-9578-0054287507db_story.html?linkId=33154571&#34;&gt;The gender gap in computer science is hurting U.S. businesses&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A desigualdade de gênero na tecnologia faz com que seja ainda mais difícil preencher as 500.000 vagas abertas nos Estados Unidos. A solução mais simples para a crise é repensar como ensinamos computação à metade tradicionalmente ignorada dos nossos talentos - as mulheres.&lt;/p&gt;
+
+&lt;h2 id=&#34;women-in-tech-https-www-linkedin-com-pulse-women-tech-ezekiel-buchheit&#34;&gt;&lt;a href=&#34;https://www.linkedin.com/pulse/women-tech-ezekiel-buchheit&#34;&gt;Women in tech&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;As poucas mulheres que se arriscam nas empresas de tecnologia precisam manter uma parede impenetrável de profissionalismo. Como a fundadora de startup Ashley Lewis &lt;a href=&#34;http://www.cbc.ca/news/technology/sexism-tech-industry-pringle-1.3786521&#34;&gt;disse à CBC News&lt;/a&gt;, é preciso “ser duas vezes melhor que colegas homens para ganhar o mesmo respeito e confiança”.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-world-wide-web-project-http-line-mode-cern-ch-www-hypertext-www-theproject-html&#34;&gt;&lt;a href=&#34;http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html&#34;&gt;The World Wide Web project&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A primeira página da web completará 25 anos em 2017, mas você faz ideia de como era “navegar na Internet” naquela época? Pois o CERN recriou a experiência! É tão tosco quanto incrível, principalmente quando lembramos que quase tudo foi feito por uma única pessoa, Sir Tim Berners-Lee.&lt;/p&gt;
+
+&lt;h2 id=&#34;planalto-publica-no-twitter-por-engano-senhas-de-redes-sociais-do-governo-http-g1-globo-com-politica-noticia-planalto-publica-no-twitter-por-engano-senhas-de-redes-sociais-do-governo-ghtml&#34;&gt;&lt;a href=&#34;http://g1.globo.com/politica/noticia/planalto-publica-no-twitter-por-engano-senhas-de-redes-sociais-do-governo.ghtml&#34;&gt;Planalto publica no Twitter por engano senhas de redes sociais do governo&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Essa piada pronta comprova uma máxima: a parte mais insegura de qualquer sistema é a pecinha que fica entra a cadeira e o teclado. Nenhum processo é infalível quando as pessoas não &lt;em&gt;pensam&lt;/em&gt; sobre segurança.&lt;/p&gt;
+
+&lt;h2 id=&#34;renewing-medium-s-focus-https-blog-medium-com-renewing-mediums-focus-98f374a960be&#34;&gt;&lt;a href=&#34;https://blog.medium.com/renewing-mediums-focus-98f374a960be&#34;&gt;Renewing Medium’s focus&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Ev Willians criou o Blogger, o Twitter e o Medium, todos produtos fantásticos com modelos de negócio depois-a-gente-pensa-nisso. Se você é ou quer ser empreendedor de tecnologia, fica a lição: tenha uma ideia clara de como ganhar dinheiro com seu produto, desde o começo.&lt;/p&gt;
+
+&lt;h2 id=&#34;keep-the-internet-weird-https-medium-com-ohhoe-keep-the-internet-weird-1137eece27c4&#34;&gt;&lt;a href=&#34;https://medium.com/@ohhoe/keep-the-internet-weird-1137eece27c4&#34;&gt;Keep the Internet Weird&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Falando em Blogger, muita gente aprendeu HTML, CSS e Javascript trocando dicas sobre como fazer um template bonitão. Mais do que blogs de gosto duvidoso, essa colaboração produziu comunidades amigáveis e ótimos profissionais.&lt;/p&gt;
+
+&lt;p&gt;Para encerrar, uma dica de leitura mais densa. &lt;a href=&#34;http://www.buscape.com.br/inovadores-os-uma-biografia-da-revolucao-digital-walter-isaacson-8535925023&#34;&gt;Os Inovadores: Uma Biografia da Revolução Digital&lt;/a&gt; é um passeio irresistível pelas invenções e personalidades que pavimentaram a revolução digital, desde Ada Lovelace até os criadores do Google. Leitura obrigatória!&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AdC #1 Escrever código é difícil</title>
+      <link>https://lfbittencourt.com/alem-do-codigo/adc-1-escrever-codigo-e-dificil/</link>
+      <pubDate>Wed, 04 Jan 2017 10:00:00 -0200</pubDate>
+      
+      <guid>https://lfbittencourt.com/alem-do-codigo/adc-1-escrever-codigo-e-dificil/</guid>
+      <description>
+
+&lt;p&gt;Bom dia!&lt;/p&gt;
+
+&lt;p&gt;Antes de mais nada, &lt;strong&gt;muito obrigado&lt;/strong&gt; pelo apoio nessa primeira edição da Além do Código, um lembrete semanal de que é nossa responsabilidade fazer com que o fator humano da tecnologia fique tão bom quanto as ferramentas que estão revolucionando nosso trabalho.&lt;/p&gt;
+
+&lt;p&gt;Sem mais delongas, vamos ao que interessa: conteúdo!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;writing-software-is-hard-https-m-signalvnoise-com-writing-software-is-hard-388d5e982ad9-gi-828974d30e93&#34;&gt;&lt;a href=&#34;https://m.signalvnoise.com/writing-software-is-hard-388d5e982ad9?gi=828974d30e93&#34;&gt;Writing software is hard&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Estamos comemorando (merecidamente) que nunca foi tão fácil começar a programar, mas não contamos para os novatos que também nunca foi tão difícil ir além dos primeiros passos. TL;DR: não há atalhos quando se quer dominar algo.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-terrible-code-gets-written-by-perfectly-sane-people-https-ponyfoo-com-articles-terrible-code-sane-people&#34;&gt;&lt;a href=&#34;https://ponyfoo.com/articles/terrible-code-sane-people&#34;&gt;How Terrible Code Gets Written by Perfectly Sane People&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Alguns hábitos ruins podem fazer com que até mesmo ótimos programadores escrevam código ruim. Alguns desses fatores extra-código são:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Não dar importância ao conhecimento do projeto&lt;/li&gt;
+&lt;li&gt;Focar em métricas pobres como “issues fechadas” ou “commits por dia”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pensar que bons processos consertam pessoas ruins&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;facebook-doesn-t-tell-users-everything-it-really-knows-about-them-https-www-propublica-org-article-facebook-doesnt-tell-users-everything-it-really-knows-about-them&#34;&gt;&lt;a href=&#34;https://www.propublica.org/article/facebook-doesnt-tell-users-everything-it-really-knows-about-them&#34;&gt;Facebook Doesn’t Tell Users Everything It Really Knows About Them&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O Facebook usa algoritmos para categorizar usuários e permitir anúncios extremamente direcionados. Para traçar um perfil ainda mais preciso, ele compra dados de outras empresas, mas os esconde dos verdadeiros donos - os usuários.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bônus:&lt;/strong&gt; no Brasil, esses dados são vendidos pela Serasa Experian. Você pode impedir que suas informações continuem sendo comercializadas &lt;a href=&#34;https://marketing.serasaexperian.com.br/descadastro/&#34;&gt;nesse formulário&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-artificial-intelligence-will-redefine-management-https-hbr-org-2016-11-how-artificial-intelligence-will-redefine-management&#34;&gt;&lt;a href=&#34;https://hbr.org/2016/11/how-artificial-intelligence-will-redefine-management&#34;&gt;How Artificial Intelligence Will Redefine Management&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;A inteligência artificial vai cuidar de tarefas administrativas e analíticas, permitindo (e forçando) que gerentes foquem em coisas que só humanos podem fazer. E você? Que tarefas suas serão feitas por um robô em alguns anos? E quais novas coisas você fará ao invés disso?&lt;/p&gt;
+
+&lt;h2 id=&#34;tech-s-alcohol-soaked-culture-isn-t-a-party-for-everybody-https-www-wired-com-2016-12-techs-alcohol-soaked-culture-isnt-party-everybody&#34;&gt;&lt;a href=&#34;https://www.wired.com/2016/12/techs-alcohol-soaked-culture-isnt-party-everybody/&#34;&gt;Tech’s Alcohol-Soaked Culture Isn’t a Party for Everybody&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;O prestígio social do álcool é ainda maior nas empresas de tecnologia, mas isso não é tão legal quanto parece. Presumir que todo mundo adora beber é &lt;em&gt;mais&lt;/em&gt; um gol contra à diversidade no nosso mercado.&lt;/p&gt;
+
+&lt;h2 id=&#34;resumes-suck-here-s-the-data-https-medium-freecodecamp-com-resumes-suck-heres-the-data-ee88fcc27615-gi-1df78acc8a67&#34;&gt;&lt;a href=&#34;https://medium.freecodecamp.com/resumes-suck-heres-the-data-ee88fcc27615?gi=1df78acc8a67&#34;&gt;Resumes suck. Here’s the data.&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Um experimento concluiu que filtrar candidatos a vagas técnicas usando o currículo como único critério de seleção &lt;strong&gt;é tão preciso quanto decidir no cara ou coroa&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Isso é tudo, pessoal! Espero que você goste dos artigos e responda esse email se tiver qualquer sugestão ou comentário.&lt;/p&gt;
+
+&lt;p&gt;Até a próxima semana!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
