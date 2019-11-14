@@ -1,4 +1,4 @@
-baseURL = "https://lfbittencourt.com/"
+baseURL = "/"
 languageCode = "pt-br"
 title = "LF Bittencourt"
 theme = "one"
