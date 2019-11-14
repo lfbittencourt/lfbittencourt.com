@@ -1,26 +1,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on LF Bittencourt</title>
-    <link>https://lfbittencourt.github.io/lfbittencourt.com/posts/</link>
+    <link>https://lfbittencourt.com/posts/</link>
     <description>Recent content in Posts on LF Bittencourt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 27 Oct 2017 12:40:46 +0000</lastBuildDate>
     
-        <atom:link href="https://lfbittencourt.github.io/lfbittencourt.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lfbittencourt.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como é ser programador em uma agência digital</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/programador-agencia-digital-d94a9c617455/</link>
+      <link>https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/</link>
       <pubDate>Fri, 27 Oct 2017 12:40:46 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/programador-agencia-digital-d94a9c617455/</guid>
+      <guid>https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/</guid>
       <description>
 
 &lt;p&gt;&lt;em&gt;Esse post é a versão em prosa de uma conversa divertida que tive com os alunos do&lt;/em&gt; &lt;a href=&#34;https://eventos.osorio.ifrs.edu.br/dtec/&#34;&gt;&lt;em&gt;IFRS de Osório&lt;/em&gt;&lt;/a&gt; &lt;em&gt;no dia 26 de outubro de 2017. Spoiler: contém gatos.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Parece foto de banco de imagens, mas é o cantinho do café da DZ Estúdio&lt;/p&gt;
 
@@ -34,7 +34,7 @@
 
 &lt;p&gt;Imagine o lançamento de um produto revolucionário: &lt;strong&gt;uma coleira que traduz os pensamentos dos gatos&lt;/strong&gt;. Se você já conviveu com um bichano e presenciou algum comportamento estranho, sabe que uma invenção dessa magnitude mereceria um lançamento apropriado, não é mesmo? Para isso, até alguns anos atrás, a marca inventora da coleira só precisaria contratar uma agência de publicidade clássica ou &lt;strong&gt;agência off&lt;/strong&gt;. Essas agências &lt;a href=&#34;https://www.wikiwand.com/en/Advertising_agency#/History&#34;&gt;existem desde o século XVIII&lt;/a&gt; e, grosso modo, cuidam de toda a publicidade de seus clientes que é veiculada &lt;strong&gt;fora da Internet.&lt;/strong&gt; No nosso lançamento fictício, ela poderia criar propagandas para a TV, jornal, spots no rádio etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Eu ouvi “gatos”?&lt;/p&gt;
 
@@ -99,7 +99,7 @@
 
 &lt;p&gt;No fim das contas, optou-se por um site simples em PHP puro e MySQL publicado na Heroku, pois essa plataforma permitiria escalar recursos imediatamente caso fosse necessário. Na abertura das inscrições, o time fez um plantão na hora do almoço e os ingressos se esgotaram em apenas seis minutos. Foram mais de 4 mil acessos simultâneos e nenhum downtime.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/3.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/3.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vai dizer que não dá vontade de se jogar?&lt;/p&gt;
 
@@ -108,7 +108,7 @@
 &lt;p&gt;Este projeto foi feito com Node.js, Express e Socket.IO.
 &amp;gt; Ao acessar o site da campanha, os visitantes eram convidados a sincronizar o celular com o computador (ou com outro celular) para ter uma experiência inesquecível.​ ​A partir daí, um vídeo iniciava simultaneamente​ ​nos dois dispositivos, revelando a verdade sobre o fábula natalina: o Papai Noel não faz nada sozinho. Na tela principal, o bom velhinho aparecia sorridente, abrindo as cartinhas, preparando os presentes e enviando para as crianças. Na segunda tela, descobríamos que tudo aquilo só ​era possível com a cooperação dos duendes.&amp;gt; Explorando o comportamento multitela, que é uma realidade no Brasil (90% dos usuários se conectam com 2 ou mais dispositivos), a ação Juntos Pelo Natal virou assunto. O interesse pela marca cresceu imediatamente​ e as buscas por Sicredi aumentaram 20% durante o período da campanha,​ em relação à média do ano.&amp;gt; — &lt;a href=&#34;http://dzestudio.com.br/cases/sicredi-natal/&#34;&gt;DZ Estúdio&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/4.gif&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/programador-agencia-digital-d94a9c617455/images/4.gif&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;chefbot-nutrella&#34;&gt;ChefBot (Nutrella)&lt;/h4&gt;
 
@@ -128,15 +128,15 @@
     
     <item>
       <title>Como eu aprendi a programar</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/</link>
+      <link>https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/</link>
       <pubDate>Sat, 20 May 2017 15:49:16 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/</guid>
+      <guid>https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/</guid>
       <description>
 
 &lt;p&gt;&lt;em&gt;Esse post é uma transcrição aproximada da minha palestra no&lt;/em&gt; &lt;a href=&#34;http://eventos.locaweb.com.br/proximos-eventos/19o-encontro-locaweb-porto-alegre/&#34;&gt;&lt;em&gt;19º Encontro Locaweb Porto Alegre&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, que aconteceu no dia 18 de maio de 2017.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;13 anos depois, fazendo uma das apresentações do RSJS 2017&lt;/p&gt;
 
@@ -148,7 +148,7 @@
 
 &lt;p&gt;Mergulhei na história de João Neves assim que minha inscrição foi aprovada. Conversei com historiadores e até com um sobrinho-neto que me emprestou livros raros. Caminhava até a biblioteca pública da cidade quase todos os dias, 11 quilômetros a pé para economizar os R$ 150 de ajuda de custo que recebemos durante três meses: era o pagamento da digitadora.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Pura alegria ao ganhar o concurso&lt;/p&gt;
 
@@ -184,7 +184,7 @@
 
 &lt;p&gt;Eu era um completo amador fazendo perguntas completamente amadoras, mas sempre havia alguém disposto a responder pacientemente todas essas dúvidas. Essas pessoas, muitas quase tão amadoras quanto eu, saíram do anonimato dos nicknames e tornaram-se nomes conhecidos e até mesmo colegas de trabalho especialíssimos, como a &lt;a href=&#34;https://medium.com/u/20589c3d5e05&#34;&gt;Maria&lt;/a&gt; e o Mozart Petter.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/3.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-eu-aprendi-a-programar-22126b49cc32/images/3.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Aprendendo um dos fundamentos básicos da programação no WMO&lt;/p&gt;
 
@@ -224,13 +224,13 @@
     
     <item>
       <title>Uma newsletter para programadores que não contém programação</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/uma-newsletter-para-programadores-que-n%C3%A3o-cont%C3%A9m-programa%C3%A7%C3%A3o-b17c48e97eab/</link>
+      <link>https://lfbittencourt.com/uma-newsletter-para-programadores-que-n%C3%A3o-cont%C3%A9m-programa%C3%A7%C3%A3o-b17c48e97eab/</link>
       <pubDate>Mon, 26 Dec 2016 12:01:55 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/uma-newsletter-para-programadores-que-n%C3%A3o-cont%C3%A9m-programa%C3%A7%C3%A3o-b17c48e97eab/</guid>
+      <guid>https://lfbittencourt.com/uma-newsletter-para-programadores-que-n%C3%A3o-cont%C3%A9m-programa%C3%A7%C3%A3o-b17c48e97eab/</guid>
       <description>&lt;p&gt;&lt;em&gt;Ou “Por que criei uma newsletter semanal sobre diversidade, ética e tudo mais, menos desenvolvimento de software”.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/uma-newsletter-para-programadores-que-não-contém-programação-b17c48e97eab/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/uma-newsletter-para-programadores-que-não-contém-programação-b17c48e97eab/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Foto de Tim Marshall&lt;/p&gt;
 
@@ -246,10 +246,10 @@
     
     <item>
       <title>Como se comunicar com clareza</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/</link>
+      <link>https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/</link>
       <pubDate>Mon, 07 Nov 2016 00:02:04 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/</guid>
+      <guid>https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/</guid>
       <description>
 
 &lt;p&gt;Há uma brincadeira bastante popular entre programadores: dizer que uma das melhores coisas da computação é não precisar conversar com ninguém. Pode ser divertido, mas certamente não é verdade: assim como qualquer outro profissional, programadores precisam se comunicar o tempo todo.&lt;/p&gt;
@@ -258,7 +258,7 @@
 
 &lt;p&gt;Fundamental e irônica, pois você pode se comunicar perfeitamente sem dizer ou escrever nada (pense em emojis, libras e turistas se comunicando por gestos) e falar ou escrever até cansar e, ainda assim, não ser compreendido. Ou pior: ser &lt;em&gt;mal&lt;/em&gt; interpretado.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ao contrário do que muita gente pensa, se comunicar com clareza não é falar bastante, mas sim dizer as coisas certas, de forma simples e compreensível. Esse detalhe deixa as coisas mais justas entre pessoas mais introspectivas e colegas mais comunicativos: pelo menos nesse sentido, todos têm as mesmas chances no mercado de trabalho.&lt;/p&gt;
 
@@ -282,7 +282,7 @@
 
 &lt;p&gt;Por isso, preste atenção nos conceitos abaixo. Mais adiante, eles vão fazer sentido e você verá porque landing pages são ótimos exemplos de como se comunicar com clareza.Cada elemento de uma landing page é pensado para “converter” o maior número possível de visitantes. O design extremamente funcional e o texto trabalhado minuciosamente seguem uma lógica progressiva pensada especialmente para o nosso cérebro preguiçoso: cada pedaço do conteúdo acrescenta um detalhe interessante para manter o visitante na página.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/images/2.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/como-se-comunicar-com-clareza-6d6d5b03c67e/images/2.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Landing page do Gongo com headline, subheadline, texto com benefícios e CTA&lt;/p&gt;
 
@@ -359,17 +359,17 @@
     
     <item>
       <title>As programadoras do ENIAC apagadas da história da computação</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/</link>
+      <link>https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/</link>
       <pubDate>Sun, 16 Oct 2016 17:04:31 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/</guid>
+      <guid>https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/</guid>
       <description>
 
 &lt;p&gt;No meio dos anos 80, uma estudante de ciência da computação de Harvard estava se sentindo isolada. À medida que o curso avançava, havia cada vez menos colegas mulheres, um sinal preocupante para seu futuro profissional. Desmotivada, Kathy Kleiman decidiu buscar modelos inspiradores, mulheres que tivessem tido papéis importantes na evolução da computação.&lt;/p&gt;
 
 &lt;p&gt;Em sua pesquisa, Kathy encontrou uma foto famosa do ENIAC, o primeiro computador totalmente eletrônico de uso geral. Publicada nos principais jornais dos Estados Unidos na época de seu lançamento em 1946, a imagem mostrava quatro homens e duas mulheres operando o computador, mas o que realmente chamou a atenção de Kathy foi um detalhe incômodo: apenas os homens da foto estavam identificados na legenda.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A foto que chamou a atenção de Kathy Kleiman (&lt;a href=&#34;http://hdl.library.upenn.edu/1017/d/archives/20020717006&#34;&gt;University of Pennsylvania&lt;/a&gt;)&lt;/p&gt;
 
@@ -393,7 +393,7 @@
 
 &lt;p&gt;O ENIAC era um monstro de 18.000 válvulas e um emaranhado de cabos e interruptores que ocupava um andar inteiro da Universidade da Pensilvânia. Tudo que as seis mulheres receberam para descobrir como programá-lo foram os diagramas lógicos dos 40 painéis que compunham o computador.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/2.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Betty Snider (&lt;a href=&#34;http://ftp.arl.mil/ftp/historic-computers/&#34;&gt;U.S. Army&lt;/a&gt;)&lt;/p&gt;
 
@@ -418,7 +418,7 @@
 
 &lt;p&gt;À meia-noite, elas desistiram e pegaram o último trem para suas casas, mas Betty não conseguiu dormir. Repassando mentalmente a trama de cabos e interruptores, descobriu onde estava o problema. No dia seguinte, tomou o primeiro trem, ajustou o cabo defeituoso e rodou o programa. O computador calculou a trajetória perfeitamente e o ENIAC estava pronto para ser apresentado ao mundo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/3.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/3.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jean Jennings e Frances Bilas (&lt;a href=&#34;http://hdl.library.upenn.edu/1017/d/archives/20020717006&#34;&gt;University of Pennsylvania&lt;/a&gt;)&lt;/p&gt;
 
@@ -439,7 +439,7 @@
 
 &lt;p&gt;O ENIAC funcionou durante 10 anos e Frances, Jean, Ruth, Kathleen, Betty e Marlyn tornaram-se as primeiras programadoras profissionais, as primeiras professoras da programação moderna e as inventoras de ferramentas que abriram caminho para o software como conhecemos hoje.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/4.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/mulheres-programadoras-eniac-b68503ef05f6/images/4.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Ruth Lichterman e Marlyn Wescoff (&lt;a href=&#34;http://ftp.arl.mil/ftp/historic-computers/&#34;&gt;U.S. Army&lt;/a&gt;)&lt;/p&gt;
 
@@ -492,17 +492,17 @@
     
     <item>
       <title>A primeira linguagem que todo programador deve aprender</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/</link>
+      <link>https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/</link>
       <pubDate>Mon, 03 Oct 2016 01:04:49 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/</guid>
+      <guid>https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/</guid>
       <description>
 
 &lt;p&gt;Escolher uma linguagem de programação para aprender é um dilema clássico entre os desenvolvedores de software, principalmente no começo da carreira. Afinal, Java paga bem mesmo? E esse tal de Node.js, qual é? É verdade que Ruby já era e a onda agora é Python? E PHP, alguém ainda usa? C++ é difícil?&lt;/p&gt;
 
 &lt;p&gt;São muitas opções e é normal ficar em dúvida, mas uma coisa é certa: você não irá muito longe se não dominar outra “linguagem” antes: &lt;strong&gt;inglês&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Inglês é a &lt;a href=&#34;https://www.wikiwand.com/pt/L%C3%ADngua_franca&#34;&gt;língua franca&lt;/a&gt; da tecnologia. Tudo, desde os comandos mais básicos da programação como &lt;em&gt;if&lt;/em&gt;, &lt;em&gt;while&lt;/em&gt; e &lt;em&gt;for loop&lt;/em&gt;, está escrito ou é falado em inglês. Por isso, vou mostrar neste artigo como saber inglês pode facilitar sua carreira, aumentar suas chances no mercado de trabalho e contribuir para o seu crescimento pessoal.&lt;/p&gt;
 
@@ -608,23 +608,23 @@
     
     <item>
       <title>Sendo desenvolvedor depois dos 40</title>
-      <link>https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/</link>
+      <link>https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/</link>
       <pubDate>Wed, 14 Sep 2016 17:34:19 +0000</pubDate>
       
-      <guid>https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/</guid>
+      <guid>https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/</guid>
       <description>
 
 &lt;p&gt;&lt;em&gt;Essa é a tradução de um post sensacional de Adrian Kosmaczewski chamado&lt;/em&gt; &lt;a href=&#34;https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c&#34;&gt;&lt;em&gt;Being A Developer After 40&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. Quero que mais desenvolvedores e aspirantes a desenvolvedor, mesmo os que não dominam inglês, consigam aproveitar esses ótimos conselhos.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;PS: o post original é a transcrição de uma palestra dada por Adrian no&lt;/em&gt; &lt;a href=&#34;https://www.appbuilders.ch/&#34;&gt;&lt;em&gt;App Builders Switzerland&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, em 25 de abril de 2016.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/1.jpeg&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Olá a todos. Eu sou um desenvolvedor autodidata de 42 anos e esta é a minha história.&lt;/p&gt;
 
 &lt;p&gt;Algumas semanas atrás eu vi o tweet abaixo e ele me fez pensar sobre minha carreira, e esses pensamentos me levaram de volta aonde tudo começou para mim:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/5.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/5.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Original: &lt;a href=&#34;http://www.smbc-comics.com/index.php?db=comics&amp;amp;id=2436&#34;&gt;http://www.smbc-comics.com/index.php?db=comics&amp;amp;id=2436&lt;/a&gt;&lt;/p&gt;
 
@@ -636,7 +636,7 @@
 
 &lt;p&gt;Sites não tinham alertas de cookie. O futuro da web eram portais como o &lt;a href=&#34;http://www.excite.com/&#34;&gt;Excite.com&lt;/a&gt;. Meu buscador preferido era o AltaVista. Meu email era kosmacze@sc2a.unige.ch, o que significava que meu primeiro site pessoal ficava em &lt;a href=&#34;http://sc2a.unige.ch/~kosmacze&#34;&gt;http://sc2a.unige.ch/~kosmacze&lt;/a&gt;. Nós ainda estávamos chorando pela &lt;a href=&#34;https://www.wikiwand.com/en/Death_of_Diana,_Princess_of_Wales&#34;&gt;Princesa Diana&lt;/a&gt;. Steve Jobs tinha pego o cargo de CEO e convencido a Microsoft a &lt;a href=&#34;http://www.cnet.com/news/microsoft-to-invest-150-million-in-apple/#!&#34;&gt;injetar 150 milhões de dólares&lt;/a&gt; na Apple Computer. A Digital Equipment Corporation estava processando a Dell. Os restos mortais de Che Guevara recém tinham sido levados de volta a Cuba. A &lt;a href=&#34;https://www.wikiwand.com/en/Friends_%28season_4%29&#34;&gt;quarta temporada de Friends&lt;/a&gt; recém tinha começado. &lt;a href=&#34;https://www.wikiwand.com/en/Gianni_Versace&#34;&gt;Gianni Versace&lt;/a&gt; recém tinha sido assassinado em frente a sua casa. &lt;a href=&#34;https://www.wikiwand.com/en/Mother_Teresa&#34;&gt;Madre Teresa&lt;/a&gt;, &lt;a href=&#34;https://www.wikiwand.com/en/Roy_Lichtenstein&#34;&gt;Roy Lichtenstein&lt;/a&gt; e &lt;a href=&#34;https://www.wikiwand.com/en/Jeanne_Calment&#34;&gt;Jeanne Calment&lt;/a&gt; (a pessoa mais velha do mundo) recém tinham falecido. As pessoas estavam jogando &lt;a href=&#34;https://www.wikiwand.com/en/Final_Fantasy_VII&#34;&gt;Final Fantasy 7&lt;/a&gt; como loucas em seus &lt;a href=&#34;https://www.wikiwand.com/en/PlayStation_%28console%29&#34;&gt;PlayStation&lt;/a&gt;. A BBC 2 começou a passar os &lt;a href=&#34;http://www.forbes.com/sites/oracle/2015/07/31/prepare-for-the-teletubby-trained-mobile-workforce/#75086f3b7fb3&#34;&gt;Telletubbies&lt;/a&gt;. James Cameron estava prestes a lançar &lt;a href=&#34;http://www.imdb.com/title/tt0120338/&#34;&gt;Titanic&lt;/a&gt;. O The Verve recém tinha lançado seu sucesso &lt;a href=&#34;https://www.youtube.com/watch?v=1lyu1KKwC74&#34;&gt;“Bitter Sweet Symphony”&lt;/a&gt; e então teve que pagar a maior parte dos royalties para os Rolling Stones.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/2.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/2.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Excite em 1997, cortesia -do Internet Archive&lt;/p&gt;
 
@@ -865,7 +865,7 @@
 
 &lt;p&gt;Não critiquem ou tirem sarro das escolhas tecnológicas dos seus colegas, porque outras pessoas terão suas razões para escolhê-las e devem ser respeitadas. Estejam preparados para mudar de ideia a qualquer momento através do aprendizado. Um dia vocês podem gostar de Windows. Um dia vocês podem gostar de Android. Eu mesmo estou gostando de algumas coisas do Android ultimamente. E isso é OK.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/3.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/3.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;O pônei diz “nada é tão simples como parece no começo, sem solução como parece no meio ou acabado como parece no fim”&lt;/p&gt;
 
@@ -919,7 +919,7 @@
 
 &lt;p&gt;Refactoring, testes unitários, revisões de código, pull requests, todas essas ferramentas estão à sua disposição para garantir que o código que vocês publiquem seja a arquitetura funcional mais simples possível. É assim que se constrói sistemas resilientes de longo prazo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.github.io/lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/4.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://lfbittencourt.com/sendo-desenvolvedor-depois-dos-40-db274feb9445/images/4.png&#34; alt=&#34;image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Um cruzamento britânico com 6 rotatórias e 38 setas&lt;/p&gt;
 
