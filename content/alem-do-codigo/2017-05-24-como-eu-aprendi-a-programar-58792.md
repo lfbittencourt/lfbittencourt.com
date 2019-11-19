@@ -1,6 +1,6 @@
 ---
 date: '2017-05-24T10:00:18-03:00'
-slug: como-eu-aprendi-a-programar
+slug: como-eu-aprendi-a-programar-58792
 title: Como eu aprendi a programar
 ---
 Chateado com a situação política do país, um amigo disse há alguns dias que seria melhor colocarmos um supercomputador no poder. Parece ficção científica, mas os algoritmos já estão decidindo quais propagandas devemos ver e muitas outras coisas completamente sozinhos.
@@ -37,7 +37,7 @@ Falando em treinadores, um projeto chamado [AI4ALL](http://ai-4-all.org/) quer g
 
 Nesse artigo, o economista Seth Stephens-Davidowitz apresenta vários números que escancaram a discrepância entre a vida real e a vida que ostentamos nas redes sociais. Preste atenção especial às diferenças de _autocomplete_ entre o Facebook e o Google. O autor, aliás, escreveu um livro sugestivo: [Todo Mundo Mente](https://www.harpercollins.com/9780062390851/everybody-lies).
 
-Não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#54353037143832363d2020313a373b2126207a373b396b2721363e313720690721333127207117677115673b71666430317166643526203d333b723539246f2120390b37353924353d333a69153871176771156d39716664303b71666417711767711667303d333b723539246f2120390b3931303d2139693139353d38723539246f2120390b273b212637316906312221317166643a312327383120203126)
+Não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#43222720032f25212a3737262d202c3631376d202c2e7c303621292620377e1036242630376600706602702c66717327266671732231372a242c65222e337836372e1c20222e33222a242d7e022f66007066027a2e667173272c66717300660070660170272a242c65222e337836372e1c2e26272a362e7e262e222a2f65222e337836372e1c302c363120267e11263536266671732d2634302f2637372631)
 
 Até a próxima semana! 🧀  
 

@@ -1,6 +1,6 @@
 ---
 date: '2017-01-11T10:00:00-02:00'
-slug: a-desigualdade-de-genero-esta-matando-a-economia
+slug: a-desigualdade-de-genero-esta-matando-a-economia-41341
 title: A desigualdade de gênero está matando a economia
 ---
 Quando o assunto é tecnologia, o que acontece nos Estados Unidos sempre leva um tempo para dar as caras no Brasil. Mesmo sendo um sinal claro de atraso, esse gap permite que nos preparemos para o que está por vir, seja bom ou ruim.  

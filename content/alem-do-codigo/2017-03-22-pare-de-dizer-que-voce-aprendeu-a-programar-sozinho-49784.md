@@ -1,6 +1,6 @@
 ---
 date: '2017-03-22T10:00:04-03:00'
-slug: pare-de-dizer-que-voce-aprendeu-a-programar-sozinho
+slug: pare-de-dizer-que-voce-aprendeu-a-programar-sozinho-49784
 title: Pare de dizer que você aprendeu a programar sozinho
 ---
 Outra historieta pessoal: há algum tempo, perguntei a uma fundadora de startup se ela podia dar detalhes técnicos do seu produto, me desculpando antecipadamente se estivesse “pedindo demais”. Ela respondeu:  
@@ -39,7 +39,7 @@ Seja para dar aquele gás ou apenas isolar o barulho, ouvir música faz parte do
 
 Você também fica de cara quando lhe pedem para consertar um computador ou impressora? Com [esse cartão](https://turnoff.us/geek/ode-to-my-family/), seus problemas acabaram.  
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#a0c1c4c3e0ccc6c2c9d4d4c5cec3cfd5d2d48ec3cfcd9fd3d5c2cac5c3d49df3d5c7c5d3d485e39385e193cf859290c4c5859290c1d2d4c9c7cf86c1cdd09bd5d4cdffc3c1cdd0c1c9c7ce9de1cc85e39385e199cd859290c4cf859290e385e39385e293c4c9c7cf86c1cdd09bd5d4cdffcdc5c4c9d5cd9dc5cdc1c9cc86c1cdd09bd5d4cdffd3cfd5d2c3c59df2c5d6d5c5859290cec5d7d3ccc5d4d4c5d2)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#c5a4a1a685a9a3a7acb1b1a0aba6aab0b7b1eba6aaa8fab6b0a7afa0a6b1f896b0a2a0b6b1e086f6e084f6aae0f7f5a1a0e0f7f5a4b7b1aca2aae3a4a8b5feb0b1a89aa6a4a8b5a4aca2abf884a9e086f6e084fca8e0f7f5a1aae0f7f586e086f6e087f6a1aca2aae3a4a8b5feb0b1a89aa8a0a1acb0a8f8a0a8a4aca9e3a4a8b5feb0b1a89ab6aab0b7a6a0f897a0b3b0a0e0f7f5aba0b2b6a9a0b1b1a0b7)
 
 Até a próxima semana! 🐬
 

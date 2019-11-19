@@ -1,6 +1,6 @@
 ---
 date: '2017-02-22T10:00:01-03:00'
-slug: um-ano-muito-muito-estranho-na-uber
+slug: um-ano-muito-muito-estranho-na-uber-45767
 title: 'Um ano muito, muito estranho na Uber'
 ---
 Ah, o smartphone…

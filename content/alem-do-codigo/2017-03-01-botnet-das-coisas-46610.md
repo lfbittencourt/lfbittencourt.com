@@ -1,6 +1,6 @@
 ---
 date: '2017-03-01T10:01:51-03:00'
-slug: botnet-das-coisas
+slug: botnet-das-coisas-46610
 title: Botnet das Coisas?
 ---
 O escritor Elbert Hubbard (1856 — 1915) disse o seguinte:  
@@ -39,7 +39,7 @@ A fabricação e o transporte dos nossos amados equipamentos eletrônicos (e de 
 
 Se você é novo na Além do Código, aproveite para dar uma olhada nas [edições anteriores](https://alemdocodigo.com.br/) e nos [posts que escrevi no meu blog](https://lfbittencourt.com/).  
 
-Quer compartilhar algum artigo bacana ou tem sugestões de temas que gostaria de ver aqui? [Envie um email!](/cdn-cgi/l/email-protection#6f0309440e0b0c2f03090d061b1b0a010c001a1d1b410c0002501c1a0d050a0c1b523c1a080a1c1b4a2c5c4a2e5c004a5d5f0b0a4a5d5f0e1d1b060800490e021f541a1b02300c0e021f0e060801522e034a2c5c4a2e56024a5d5f0b004a5d5f2c4a2c5c4a2d5c0b060800490e021f541a1b0230020a0b061a02520a020e0603490e021f541a1b02301c001a1d0c0a523d0a191a0a4a5d5f010a181c030a1b1b0a1d)
+Quer compartilhar algum artigo bacana ou tem sugestões de temas que gostaria de ver aqui? [Envie um email!](/cdn-cgi/l/email-protection#bed2d895dfdaddfed2d8dcd7cacadbd0ddd1cbccca90ddd1d381cdcbdcd4dbddca83edcbd9dbcdca9bfd8d9bff8dd19b8c8edadb9b8c8edfcccad7d9d198dfd3ce85cbcad3e1dddfd3cedfd7d9d083ffd29bfd8d9bff87d39b8c8edad19b8c8efd9bfd8d9bfc8ddad7d9d198dfd3ce85cbcad3e1d3dbdad7cbd383dbd3dfd7d298dfd3ce85cbcad3e1cdd1cbccdddb83ecdbc8cbdb9b8c8ed0dbc9cdd2dbcacadbcc)
 
 Até a próxima semana! 👾
 

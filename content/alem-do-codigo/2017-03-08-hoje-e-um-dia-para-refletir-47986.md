@@ -1,6 +1,6 @@
 ---
 date: '2017-03-08T10:07:34-03:00'
-slug: hoje-e-um-dia-para-refletir
+slug: hoje-e-um-dia-para-refletir-47986
 title: Hoje é um dia para refletir
 ---
 Hoje é **Dia Internacional da Mulher**, uma data para celebrar as lutas femininas por melhores condições de vida e trabalho e refletir por que, em um país com 51,5% de mulheres, só 10% delas estão nos comitês executivos das grandes empresas.
@@ -39,7 +39,7 @@ TL;DR: porque engenheiro é quem fez engenharia ¯\\\_(ツ)\_/¯
 
 E assim chegamos ao fim da **décima edição** da Além do Código, pertinho da marca de 100 leitores! Muito, muito obrigado por apoiar o projeto!  
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#39585d5a79555f5b504d4d5c575a564c4b4d175a5654064a4c5b535c5a4d046a4c5e5c4a4d1c7a0a1c780a561c0b095d5c1c0b09584b4d505e561f585449024c4d54665a58544958505e570478551c7a0a1c7800541c0b095d561c0b097a1c7a0a1c7b0a5d505e561f585449024c4d5466545c5d504c54045c545850551f585449024c4d54664a564c4b5a5c046b5c4f4c5c1c0b09575c4e4a555c4d4d5c4b)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#d2b3b6b192beb4b0bba6a6b7bcb1bda7a0a6fcb1bdbfeda1a7b0b8b7b1a6ef81a7b5b7a1a6f791e1f793e1bdf7e0e2b6b7f7e0e2b3a0a6bbb5bdf4b3bfa2e9a7a6bf8db1b3bfa2b3bbb5bcef93bef791e1f793ebbff7e0e2b6bdf7e0e291f791e1f790e1b6bbb5bdf4b3bfa2e9a7a6bf8dbfb7b6bba7bfefb7bfb3bbbef4b3bfa2e9a7a6bf8da1bda7a0b1b7ef80b7a4a7b7f7e0e2bcb7a5a1beb7a6a6b7a0)
 
 Até a próxima semana! 👩
 

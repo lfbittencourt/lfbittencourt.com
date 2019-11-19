@@ -1,6 +1,6 @@
 ---
 date: '2017-02-01T10:00:00-02:00'
-slug: por-que-a-gestao-do-tempo-esta-arruinando-nossas-vidas
+slug: por-que-a-gestao-do-tempo-esta-arruinando-nossas-vidas-43449
 title: Por que a gestão do tempo está arruinando nossas vidas
 ---
 Quero contar uma historinha pessoal.

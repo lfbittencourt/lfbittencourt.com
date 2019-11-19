@@ -1,6 +1,6 @@
 ---
 date: '2017-05-17T10:00:02-03:00'
-slug: cobol-mvp-ransomware-culpa
+slug: cobol-mvp-ransomware-culpa-58068
 title: 'COBOL, MVP, ransomware & culpa'
 ---
 Chegamos à vigésima edição da Além do Código 🙌
@@ -27,7 +27,7 @@ Na sexta-feira passada, um ransomware chamado WannaCrypt se espalhou através de
 
 Falando em WannaCrypt, as coisas seriam diferentes se a NSA colaborasse com as empresas para corrigir falhas ao invés de estocá-las em benefício próprio: a brecha explorada pelo ransomware era um dos materiais vazados por hackers em abril.  
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#35545156755953575c4141505b565a4047411b565a580a4640575f505641086640525046411076061074065a10070551501007055447415c525a135458450e4041586a56545845545c525b08745910760610740c58100705515a10070576107606107706515c525a135458450e4041586a5850515c4058085058545c59135458450e4041586a465a404756500867504340501007055b504246595041415047)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#13727770537f75717a6767767d707c6661673d707c7e2c606671797670672e4066747660673650203652207c36212377763621237261677a747c35727e632866677e4c70727e63727a747d2e527f36502036522a7e362123777c36212350365020365120777a747c35727e632866677e4c7e76777a667e2e767e727a7f35727e632866677e4c607c666170762e41766566763621237d7664607f7667677661)
 
 Até a próxima semana! 🚴
 

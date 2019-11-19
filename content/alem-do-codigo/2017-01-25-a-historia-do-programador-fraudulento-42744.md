@@ -1,6 +1,6 @@
 ---
 date: '2017-01-25T10:00:02-02:00'
-slug: a-historia-do-programador-fraudulento
+slug: a-historia-do-programador-fraudulento-42744
 title: A história do programador fraudulento
 ---
 O criador do Stack Overflow Jeff Atwood disse há uns dias que nenhuma senha com menos de 12 caracteres está segura em 2017. Pela [Lei de Moore](https://www.wikiwand.com/pt/Lei_de_Moore), o poder de quebrar senhas criptografadas dobra a cada 18 meses, ou seja, precisaremos de senhas cada vez maiores!  

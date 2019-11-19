@@ -1,6 +1,6 @@
 ---
 date: '2017-01-18T10:00:03-02:00'
-slug: como-e-ser-velho-na-industria-da-tecnologia
+slug: como-e-ser-velho-na-industria-da-tecnologia-42075
 title: Como é ser "velho" na indústria da tecnologia
 ---
 No século XVI, o sabão era tão caro que os ingleses tinham uma desculpa padrão para não tomar banho: quanto mais se mexe na sujeira, mais ela fede. Em 2017, dá para dizer a mesma coisa sobre a diversidade na tecnologia: quanto mais lemos sobre, mais claro fica que ela não existe.  

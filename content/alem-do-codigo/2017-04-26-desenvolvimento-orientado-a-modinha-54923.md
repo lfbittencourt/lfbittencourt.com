@@ -1,6 +1,6 @@
 ---
 date: '2017-04-26T10:00:00-03:00'
-slug: desenvolvimento-orientado-a-modinha
+slug: desenvolvimento-orientado-a-modinha-54923
 title: Desenvolvimento Orientado a Modinha
 ---
 Mais cedo ou mais tarde, acho eu, todo programador chega à mesma conclusão: é impossível acompanhar a evolução da tecnologia. Tentar ficar a par de todas as atualizações é uma missão fadada à frustração.
@@ -31,7 +31,7 @@ Você começa um projeto empolgadíssimo, com infinitas possibilidades de criar 
 
 Para fecharmos com bom humor, veja [como salvar a princesa em 8 linguagens de programação](https://toggl.com/programming-princess). Se você gosta de PHP, melhor não clicar. 👸
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#69080d0a29050f0b001d1d0c070a061c1b1d470a0604561a1c0b030c0a1d543a1c0e0c1a1d4c2a5a4c285a064c5b590d0c4c5b59081b1d000e064f080419521c1d04360a08041908000e075428054c2a5a4c2850044c5b590d064c5b592a4c2a5a4c2b5a0d000e064f080419521c1d0436040c0d001c04540c040800054f080419521c1d04361a061c1b0a0c543b0c1f1c0c4c5b59070c1e1a050c1d1d0c1b)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#36575255765a50545f4242535855594344421855595b094543545c5355420b6543515345421375051377055913040652531304065744425f515910575b460d43425b6955575b46575f51580b775a13750513770f5b130406525913040675137505137405525f515910575b460d43425b695b53525f435b0b535b575f5a10575b460d43425b694559434455530b6453404353130406585341455a5342425344)
 
 Até a próxima semana!  
 

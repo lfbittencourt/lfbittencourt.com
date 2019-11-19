@@ -1,6 +1,6 @@
 ---
 date: '2017-03-15T10:00:01-03:00'
-slug: o-codigo-que-voce-escreve-pode-matar-pessoas
+slug: o-codigo-que-voce-escreve-pode-matar-pessoas-48467
 title: O código que você escreve pode matar pessoas
 ---
 Em 2015, descobriu-se que a Volkswagen usava software para fraudar testes de emissão de óxido de nitrogênio. Dessa forma, seus carros pareciam ser menos poluentes do que de fato eram.
@@ -47,7 +47,7 @@ Se estamos pensando _de verdade_ na experiência do usuário, deveríamos desenv
 
 Você viu que cientistas conseguiram armazenar um bit em um… [átomo](https://www.gizmodo.com.au/2017/03/scientists-store-data-on-single-atoms/)? No futuro, olharemos para nossos discos rígidos com a mesma diversão com que olhamos hoje fotos dos primeiros computadores.
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#2c4d484f6c404a4e45585849424f43595e58024f4341135f594e46494f58117f594b495f58096f1f096d1f43091e1c4849091e1c4d5e58454b430a4d415c17595841734f4d415c4d454b42116d40096f1f096d1541091e1c4843091e1c6f096f1f096e1f48454b430a4d415c17595841734149484559411149414d45400a4d415c17595841735f43595e4f49117e495a5949091e1c42495b5f40495858495e)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#10717473507c7672796464757e737f6562643e737f7d2f6365727a7573642d4365777563643553233551237f352220747535222071626479777f36717d602b65647d4f73717d607179777e2d517c3553233551297d352220747f352220533553233552237479777f36717d602b65647d4f7d757479657d2d757d71797c36717d602b65647d4f637f656273752d42756665753522207e7567637c7564647562)
 
 Até a próxima semana! 🍄  
 

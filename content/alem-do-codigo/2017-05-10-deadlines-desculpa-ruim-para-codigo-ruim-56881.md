@@ -1,6 +1,6 @@
 ---
 date: '2017-05-10T10:00:05-03:00'
-slug: deadlines-desculpa-ruim-para-codigo-ruim
+slug: deadlines-desculpa-ruim-para-codigo-ruim-56881
 title: 'Deadlines: desculpa ruim para código ruim'
 ---
 _Você pode não pensar que programadores são artistas, mas programação é uma profissão extremamente criativa. É criatividade baseada em lógica._
@@ -31,7 +31,7 @@ Apesar do título, acho que todos nós podemos tirar algumas lições importante
 
 Quer ganhar 55 mil dólares? É muito simples: basta fazer um código da Nasa escrito em Fortran [rodar 10.000 vez mais rápido](https://www.bbc.com/news/technology-39803425). Bora?  
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#1b7a7f785b777d79726f6f7e7578746e696f3578747624686e79717e786f26486e7c7e686f3e58283e5a28743e292b7f7e3e292b7a696f727c743d7a766b206e6f7644787a766b7a727c75265a773e58283e5a22763e292b7f743e292b583e58283e59287f727c743d7a766b206e6f7644767e7f726e76267e767a72773d7a766b206e6f764468746e69787e26497e6d6e7e3e292b757e6c68777e6f6f7e69)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#80e1e4e3c0ece6e2e9f4f4e5eee3eff5f2f4aee3efedbff3f5e2eae5e3f4bdd3f5e7e5f3f4a5c3b3a5c1b3efa5b2b0e4e5a5b2b0e1f2f4e9e7efa6e1edf0bbf5f4eddfe3e1edf0e1e9e7eebdc1eca5c3b3a5c1b9eda5b2b0e4efa5b2b0c3a5c3b3a5c2b3e4e9e7efa6e1edf0bbf5f4eddfede5e4e9f5edbde5ede1e9eca6e1edf0bbf5f4eddff3eff5f2e3e5bdd2e5f6f5e5a5b2b0eee5f7f3ece5f4f4e5f2)
 
 Até a próxima semana! 💰
 

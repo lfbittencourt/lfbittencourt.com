@@ -1,6 +1,6 @@
 ---
 date: '2017-02-08T10:00:01-02:00'
-slug: mulheres-na-tecnologia-e-a-sindrome-do-impostor
+slug: mulheres-na-tecnologia-e-a-sindrome-do-impostor-44123
 title: Mulheres na tecnologia e a Síndrome do Impostor
 ---
 Vou resumir a introdução dessa semana a uma única pergunta tendenciosa: você já assistiu [Estrelas Além do Tempo](https://www.imdb.com/title/tt4846340/)?

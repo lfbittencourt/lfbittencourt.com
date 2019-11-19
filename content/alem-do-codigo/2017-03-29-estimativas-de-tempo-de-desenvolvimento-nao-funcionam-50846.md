@@ -1,6 +1,6 @@
 ---
 date: '2017-03-29T10:00:01-03:00'
-slug: estimativas-de-tempo-de-desenvolvimento-nao-funcionam
+slug: estimativas-de-tempo-de-desenvolvimento-nao-funcionam-50846
 title: Estimativas de tempo de desenvolvimento não funcionam
 ---
 Spoiler: essa edição contém russos **e** gatos. Imperdível.
@@ -31,7 +31,7 @@ Falando em retrospectivas de carreira, é impossível não citar esse post **sen
 
 Gatos têm muito a nos ensinar, inclusive quando o assunto é resolver problemas. Seja para o design thinking ou mesmo o desenvolvimento de software, são grandes lições com uma dose generosa de bom humor.
 
-E assim encerramos a edição dessa semana. Como de costume, se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#e4858087a48882868d9090818a878b919690ca878b89db9791868e818790d9b79183819790c1a7d7c1a5d78bc1d6d48081c1d6d48596908d838bc2858994df919089bb87858994858d838ad9a588c1a7d7c1a5dd89c1d6d4808bc1d6d4a7c1a7d7c1a6d7808d838bc2858994df919089bb8981808d9189d98189858d88c2858994df919089bb978b91968781d9b681929181c1d6d48a819397888190908196)
+E assim encerramos a edição dessa semana. Como de costume, se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#51303532113d3733382525343f323e2423257f323e3c6e2224333b3432256c0224363422257412627410623e746361353474636130232538363e77303c216a24253c0e32303c213038363f6c103d7412627410683c746361353e746361127412627413623538363e77303c216a24253c0e3c343538243c6c343c30383d77303c216a24253c0e223e242332346c03342724347463613f3426223d3425253423)
 
 Até a próxima semana! 🐾
 

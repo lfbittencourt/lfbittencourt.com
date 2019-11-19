@@ -1,6 +1,6 @@
 ---
 date: '2017-04-19T10:00:04-03:00'
-slug: 40-horas-sao-suficientes
+slug: 40-horas-sao-suficientes-53970
 title: 40 horas são suficientes
 ---
 Em 1928, o economista britânico John Maynard Keynes previu que os avanços tecnológicos fariam com que a carga horária padrão caísse para 15 horas semanais nos 100 anos seguintes.
@@ -39,7 +39,7 @@ Já falamos aqui sobre como [o design do Super Mario Bros. é uma ótima referê
 
 Haseeb era um programador que perdia muito tempo no Reddit. Um dia, ele começou a mudar sua senha semanalmente para uma sequência aleatória de caracteres e usar um serviço para enviá-la a si mesmo somente aos fins-de-semana. Até o dia em que, por engano, ele agendou o email para 2018.
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#79181d1a39151f1b100d0d1c171a160c0b0d571a1614460a0c1b131c1a0d442a0c1e1c0a0d5c3a4a5c384a165c4b491d1c5c4b49180b0d101e165f181409420c0d14261a18140918101e174438155c3a4a5c3840145c4b491d165c4b493a5c3a4a5c3b4a1d101e165f181409420c0d1426141c1d100c14441c141810155f181409420c0d14260a160c0b1a1c442b1c0f0c1c5c4b49171c0e0a151c0d0d1c0b)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#f1909592b19d9793988585949f929e848385df929e9cce8284939b949285cca28496948285d4b2c2d4b0c29ed4c3c19594d4c3c190838598969ed7909c81ca84859cae92909c819098969fccb09dd4b2c2d4b0c89cd4c3c1959ed4c3c1b2d4b2c2d4b3c29598969ed7909c81ca84859cae9c949598849ccc949c90989dd7909c81ca84859cae829e84839294cca394878494d4c3c19f9486829d9485859483)
 
 Até a próxima semana! 🌞
 

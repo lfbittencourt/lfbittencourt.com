@@ -1,6 +1,6 @@
 ---
 date: '2017-01-04T10:00:00-02:00'
-slug: adc-1-escrever-codigo-e-dificil
+slug: adc-1-escrever-codigo-e-dificil-40048
 title: 'AdC #1 Escrever código é difícil'
 ---
 Bom dia!

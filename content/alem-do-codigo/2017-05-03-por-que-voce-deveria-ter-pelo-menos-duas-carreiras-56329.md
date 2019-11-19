@@ -1,6 +1,6 @@
 ---
 date: '2017-05-03T10:00:03-03:00'
-slug: por-que-voce-deveria-ter-pelo-menos-duas-carreiras
+slug: por-que-voce-deveria-ter-pelo-menos-duas-carreiras-56329
 title: Por que você deveria ter (pelo menos) duas carreiras
 ---
 Estou escrevendo essa introdução da [minha cidade natal, no interior do Rio Grande do Sul](https://www.wikiwand.com/pt/Cachoeira_do_Sul). Meu plano de dados não funciona e meu notebook não passa de uma grande máquina de escrever. Efeitos da nuvem.
@@ -37,7 +37,7 @@ Como programador ou programadora, [você é a “última linha de defesa contra 
 
 Por fim, a piada pronta da semana: reza a lenda que [um programador passou seis anos fingindo trabalhar](http://www.infomoney.com.br/carreira/emprego/noticia/6418517/programador-passou-seis-anos-fingindo-trabalhar-ganhando-mil-por-mes) e só então foi pego e demitido.  
 
-Não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#e6878285a68a80848f929283888589939492c885898bd99593848c838592dbb59381839592c3a5d5c3a7d589c3d4d68283c3d4d68794928f8189c0878b96dd93928bb985878b96878f8188dba78ac3a5d5c3a7df8bc3d4d68289c3d4d6a5c3a5d5c3a4d5828f8189c0878b96dd93928bb98b83828f938bdb838b878f8ac0878b96dd93928bb9958993948583dbb483909383c3d4d6888391958a8392928394)
+Não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#badbded9fad6dcd8d3cecedfd4d9d5cfc8ce94d9d5d785c9cfd8d0dfd9ce87e9cfdddfc9ce9ff9899ffb89d59f888adedf9f888adbc8ced3ddd59cdbd7ca81cfced7e5d9dbd7cadbd3ddd487fbd69ff9899ffb83d79f888aded59f888af99ff9899ff889ded3ddd59cdbd7ca81cfced7e5d7dfded3cfd787dfd7dbd3d69cdbd7ca81cfced7e5c9d5cfc8d9df87e8dfcccfdf9f888ad4dfcdc9d6dfcecedfc8)
 
 Até a próxima semana! 🍒
 

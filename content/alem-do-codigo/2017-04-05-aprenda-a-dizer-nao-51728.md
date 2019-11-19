@@ -1,6 +1,6 @@
 ---
 date: '2017-04-05T10:00:01-03:00'
-slug: aprenda-a-dizer-nao
+slug: aprenda-a-dizer-nao-51728
 title: Aprenda a dizer "não"
 ---
 Um dos melhores emails que recebi trabalhando no [Gongo](http://www.gongo.com.br/) veio de um psicólogo de Santa Catarina:  
@@ -40,7 +40,7 @@ Se você gosta de problemas matemáticos, esse artigo é um prato cheio: como en
 
 Para aliviar a barra da Uber aqui na Além do Código, aqui está uma lista curiosa dos [itens mais bizarros esquecidos nos carros da empresa.](https://newsroom.uber.com/uberlostandfoundindex/)  
 
-E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#abcacfc8ebc7cdc9c2dfdfcec5c8c4ded9df85c8c4c694d8dec9c1cec8df96f8deccced8df8ee8988eea98c48e999bcfce8e999bcad9dfc2ccc48dcac6db90dedfc6f4c8cac6dbcac2ccc596eac78ee8988eea92c68e999bcfc48e999be88ee8988ee998cfc2ccc48dcac6db90dedfc6f4c6cecfc2dec696cec6cac2c78dcac6db90dedfc6f4d8c4ded9c8ce96f9cedddece8e999bc5cedcd8c7cedfdfced9)
+E não esqueça: se quiser compartilhar algum artigo bacana ou sugerir temas que gostaria de ver aqui, [envie um email!](/cdn-cgi/l/email-protection#07666364476b61656e7373626964687275732964686a387472656d6264733a5472606274732244342246346822353763622235376675736e606821666a773c72736a5864666a77666e60693a466b22443422463e6a223537636822353744224434224534636e606821666a773c72736a586a62636e726a3a626a666e6b21666a773c72736a587468727564623a5562717262223537696270746b6273736275)
 
 Até a próxima semana! 🐻
 

@@ -1,6 +1,6 @@
 ---
 date: '2017-02-15T10:00:00-02:00'
-slug: programadores-serao-a-nova-classe-operaria
+slug: programadores-serao-a-nova-classe-operaria-44975
 title: Programadores serão a nova classe operária
 ---
 Há alguns dias o prefeito de Porto Alegre anunciou que investirá ainda mais na bilhetagem eletrônica e disse que cobrador de ônibus será uma função extinta no futuro. A resposta dos rodoviários foi rápida: paralisação. O argumento era o de que a declaração do prefeito “ameaça o trabalho de 3,6 mil cobradores”.
